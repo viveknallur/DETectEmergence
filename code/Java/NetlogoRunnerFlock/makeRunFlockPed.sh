@@ -1,0 +1,1 @@
+nohup java -Djava.library.path=/home/eamonn/R/x86_64-pc-linux-gnu-library/3.0/rJava/jri -DInputFolder=//home/eamonn/modelInput -jar NetLogoRunFlock.jar /home/eamonn/DETectPackage/TestModels/Pedestrian/model/modelPedestrian.nlogo /home/eamonn/netlogo-5.1.0/runInput58.csv 100  &

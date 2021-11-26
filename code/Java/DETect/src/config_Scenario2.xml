@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>This si global configuration file for Automatic Number Plate Recognition System</comment>
+<entry key="neural_topology">20</entry>
+<entry key="intelligence_minimumChars">5</entry>
+<entry key="intelligence_minPlateWidthHeightRatio">0.5</entry>
+<entry key="intelligence_maxHeightCostDispersion">0.2</entry>
+<entry key="intelligence_numberOfPlates">3</entry>
+<entry key="intelligence_numberOfChars">20</entry>
+<entry key="intelligence_maxContrastCostDispersion">0.1</entry>
+<entry key="help_file_help">./resources/help/help.html</entry>
+<entry key="plategraph_rel_minpeaksize">0.86</entry>
+<entry key="intelligence_maxSaturationCostDispersion">0.24</entry>
+<entry key="char_neuralNetworkPath">./resources/neuralnetworks/network_avgres_813_map.xml</entry>
+<entry key="intelligence_maxHueCostDispersion">0.145</entry>
+<entry key="neural_lambda">0.05</entry>
+<entry key="reportgeneratorcss">./resources/reportgenerator/style.css</entry>
+<entry key="carsnapshot_graphrankfilter">9</entry>
+<entry key="plategraph_peakfootconstant">0.7</entry>
+<entry key="carsnapshotgraph_peakDiffMultiplicationConstant">0.1</entry>
+<entry key="photo_adaptivethresholdingradius">7</entry>
+<entry key="neural_eps">0.07</entry>
+<entry key="intelligence_syntaxDescriptionFile">./resources/syntax/syntax.xml</entry>
+<entry key="intelligence_maxCharWidthDispersion">0.5</entry>
+<entry key="char_resizeMethod">0</entry>
+<entry key="carsnapshot_distributormargins">25</entry>
+<entry key="intelligence_maxSimilarityCostDispersion">100.0</entry>
+<entry key="bandgraph_peakDiffMultiplicationConstant">0.2</entry>
+<entry key="platehorizontalgraph_detectionType">1</entry>
+<entry key="intelligence_skewdetection">1</entry>
+<entry key="intelligence_syntaxanalysis">2</entry>
+<entry key="neural_micro">0.5</entry>
+<entry key="char_contrastnormalizationconstant">0.5</entry>
+<entry key="intelligence_numberOfBands">3</entry>
+<entry key="intelligence_maximumChars">15</entry>
+<entry key="intelligence_maxPlateWidthHeightRatio">15.0</entry>
+<entry key="intelligence_minCharWidthHeightRatio">0.1</entry>
+<entry key="intelligence_maxCharWidthHeightRatio">0.92</entry>
+<entry key="char_learnAlphabetPath">./resources/alphabets/alphabet_8x13</entry>
+<entry key="intelligence_classification_method">0</entry>
+<entry key="char_featuresExtractionMethod">0</entry>
+<entry key="carsnapshotgraph_peakfootconstant">0.55</entry>
+<entry key="plateverticalgraph_peakfootconstant">0.42</entry>
+<entry key="help_file_about">./resources/help/about.html</entry>
+<entry key="bandgraph_peakfootconstant">0.55</entry>
+<entry key="char_normalizeddimensions_y">13</entry>
+<entry key="char_normalizeddimensions_x">10</entry>
+<entry key="intelligence_maxBrightnessCostDispersion">0.161</entry>
+<entry key="platehorizontalgraph_peakfootconstant">0.05</entry>
+<entry key="neural_maxk">8000</entry>
+</properties>

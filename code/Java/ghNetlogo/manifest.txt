@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Extension-Name: graphhopper
+Class-Manager: com.graphhopper.netlogo.GhExtension
+NetLogo-Extension-API-Version: 5.0

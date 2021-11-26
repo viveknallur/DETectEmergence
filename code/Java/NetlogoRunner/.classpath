@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/eamonn/workspace/NetlogoRunner/lib/scala-library.jar"/>
+	<classpathentry kind="lib" path="/home/eamonn/netlogo-5.1.0/lib/asm-all-3.3.1.jar"/>
+	<classpathentry kind="lib" path="/home/eamonn/netlogo-5.1.0/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="/home/eamonn/netlogo-5.1.0/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/eamonn/netlogo-5.1.0/lib/gluegen-rt-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/eamonn/netlogo-5.1.0/lib/httpclient-4.2.jar"/>
+	<classpathentry kind="lib" path="/home/eamonn/netlogo-5.1.0/lib/httpcore-4.2.jar"/>
+	<classpathentry kind="lib" path="/home/eamonn/netlogo-5.1.0/lib/httpmime-4.2.jar"/>
+	<classpathentry kind="lib" path="/home/eamonn/netlogo-5.1.0/lib/jhotdraw-6.0b1.jar"/>
+	<classpathentry kind="lib" path="/home/eamonn/netlogo-5.1.0/lib/jmf-2.1.1e.jar"/>
+	<classpathentry kind="lib" path="/home/eamonn/netlogo-5.1.0/lib/jogl-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/eamonn/netlogo-5.1.0/lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/eamonn/netlogo-5.1.0/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/home/eamonn/netlogo-5.1.0/lib/mrjadapter-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/eamonn/netlogo-5.1.0/lib/parboiled-core-1.0.2.jar"/>
+	<classpathentry kind="lib" path="/home/eamonn/netlogo-5.1.0/lib/parboiled-java-1.0.2.jar"/>
+	<classpathentry kind="lib" path="/home/eamonn/netlogo-5.1.0/lib/pegdown-1.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/eamonn/netlogo-5.1.0/lib/picocontainer-2.13.6.jar"/>
+	<classpathentry kind="lib" path="/home/eamonn/netlogo-5.1.0/lib/quaqua-7.3.4.jar"/>
+	<classpathentry kind="lib" path="/home/eamonn/netlogo-5.1.0/lib/scala-library.jar"/>
+	<classpathentry kind="lib" path="/home/eamonn/netlogo-5.1.0/lib/swing-layout-7.3.4.jar"/>
+	<classpathentry kind="lib" path="/home/eamonn/netlogo-5.1.0/NetLogo.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/eamonn/workspace/LogSummary/commons-csv.jar"/>
+	<classpathentry kind="lib" path="libs/commons-math3-3.3.jar"/>
+	<classpathentry kind="lib" path="libs/JRI.jar"/>
+	<classpathentry kind="lib" path="libs/JRIEngine.jar"/>
+	<classpathentry kind="lib" path="libs/NetLogo.jar"/>
+	<classpathentry kind="lib" path="libs/r.jar"/>
+	<classpathentry kind="lib" path="libs/REngine.jar"/>
+	<classpathentry kind="lib" path="libs/scala-library.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

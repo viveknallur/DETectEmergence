@@ -1,0 +1,5 @@
+javac -classpath "libs/NetLogo.jar":"libs/commons-math3-3.3.jar":"libs/graphhopper-0.4-SNAPSHOT-jar-with-dependencies.jar":"libs/JRI.jar":"libs/scala-library.jar"  -d classes src/com/graphhopper/netlogo/*.java
+
+jar cvfm graphhopper.jar manifest.txt -C classes .
+
+cp graphhopper.jar /home/eamonn/netlogo-5.1.0/extensions/graphhopper/graphhopper.jar

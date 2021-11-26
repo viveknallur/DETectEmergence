@@ -1,0 +1,1683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NoiseTube-Mobile-Session startTime="2014-08-13T08:28:23Z" credibility="D" deviceJavaPlatform="Dalvik" devicePlatformVersion="16" client="NoiseTubeMobileAndroid" deviceBrand="samsung" deviceModel="GT-I9100" devicePlatform="Android" calibration="Calibration for Samsung GT-I9100 (source: downloaded from NoiseTube.net)" deviceModelVersion="unknown" deviceJavaPlatformVersion="unknown" clientVersion="v1.3.2" clientBuildDate="&lt;unknown build time&gt;">
+	<measurement timeStamp="2014-08-13T08:28:23Z" loudness="81" location="geo:53.3585480460897,-6.255254494026301"/>
+	<measurement timeStamp="2014-08-13T08:28:24Z" loudness="80" location="geo:53.358551955093866,-6.255260804131959"/>
+	<measurement timeStamp="2014-08-13T08:28:25Z" loudness="79" location="geo:53.3585553023247,-6.255266207396873"/>
+	<measurement timeStamp="2014-08-13T08:28:26Z" loudness="78" location="geo:53.3585586462114,-6.255271605264818"/>
+	<measurement timeStamp="2014-08-13T08:28:27Z" loudness="78" location="geo:53.35856199009787,-6.255277003133578"/>
+	<measurement timeStamp="2014-08-13T08:28:28Z" loudness="80" location="geo:53.35856533398408,-6.255282401003254"/>
+	<measurement timeStamp="2014-08-13T08:28:29Z" loudness="77" location="geo:53.358568697933364,-6.255287831261052"/>
+	<measurement timeStamp="2014-08-13T08:28:30Z" loudness="78" location="geo:53.358572128760095,-6.255293369476952"/>
+	<measurement timeStamp="2014-08-13T08:28:31Z" loudness="79" location="geo:53.358575475989454,-6.255298772747057"/>
+	<measurement timeStamp="2014-08-13T08:28:32Z" loudness="80" location="geo:53.35857881653079,-6.255304165222206"/>
+	<measurement timeStamp="2014-08-13T08:28:33Z" loudness="80" location="geo:53.35858216043562,-6.25530956313014"/>
+	<measurement timeStamp="2014-08-13T08:28:34Z" loudness="80" location="geo:53.358547333645454,-6.255152905377721"/>
+	<measurement timeStamp="2014-08-13T08:28:35Z" loudness="78" location="geo:53.358547333645454,-6.255152905377721"/>
+	<measurement timeStamp="2014-08-13T08:28:36Z" loudness="76" location="geo:53.358547333645454,-6.255152905377721"/>
+	<measurement timeStamp="2014-08-13T08:28:37Z" loudness="76" location="geo:53.358529002153894,-6.2551032574149295"/>
+	<measurement timeStamp="2014-08-13T08:28:38Z" loudness="75" location="geo:53.358529002153894,-6.2551032574149295"/>
+	<measurement timeStamp="2014-08-13T08:28:39Z" loudness="81" location="geo:53.35850879158245,-6.255030191109794"/>
+	<measurement timeStamp="2014-08-13T08:28:40Z" loudness="80" location="geo:53.35850879158245,-6.255030191109794"/>
+	<measurement timeStamp="2014-08-13T08:28:41Z" loudness="85" location="geo:53.35850879158245,-6.255030191109794"/>
+	<measurement timeStamp="2014-08-13T08:28:43Z" loudness="81" location="geo:53.35850879158245,-6.255030191109794"/>
+	<measurement timeStamp="2014-08-13T08:28:44Z" loudness="78" location="geo:53.35850879158245,-6.255030191109794"/>
+	<measurement timeStamp="2014-08-13T08:28:45Z" loudness="83" location="geo:53.35849488228853,-6.254972123768522"/>
+	<measurement timeStamp="2014-08-13T08:28:46Z" loudness="76" location="geo:53.35849488228853,-6.254972123768522"/>
+	<measurement timeStamp="2014-08-13T08:28:47Z" loudness="75" location="geo:53.35849488228853,-6.254972123768522"/>
+	<measurement timeStamp="2014-08-13T08:28:48Z" loudness="75" location="geo:53.35849488228853,-6.254972123768522"/>
+	<measurement timeStamp="2014-08-13T08:28:49Z" loudness="76" location="geo:53.35846748223899,-6.25494174784984"/>
+	<measurement timeStamp="2014-08-13T08:28:50Z" loudness="77" location="geo:53.35846748223899,-6.25494174784984"/>
+	<measurement timeStamp="2014-08-13T08:28:51Z" loudness="77" location="geo:53.35846748223899,-6.25494174784984"/>
+	<measurement timeStamp="2014-08-13T08:28:52Z" loudness="77" location="geo:53.35842746662997,-6.254943419123925"/>
+	<measurement timeStamp="2014-08-13T08:28:53Z" loudness="79" location="geo:53.35842746662997,-6.254943419123925"/>
+	<measurement timeStamp="2014-08-13T08:28:54Z" loudness="78" location="geo:53.35842746662997,-6.254943419123925"/>
+	<measurement timeStamp="2014-08-13T08:28:55Z" loudness="78" location="geo:53.35842746662997,-6.254943419123925"/>
+	<measurement timeStamp="2014-08-13T08:28:56Z" loudness="79" location="geo:53.35839862744475,-6.254948092736009"/>
+	<measurement timeStamp="2014-08-13T08:28:57Z" loudness="78" location="geo:53.35839862744475,-6.254948092736009"/>
+	<measurement timeStamp="2014-08-13T08:28:58Z" loudness="80" location="geo:53.35835101572325,-6.254971080522795"/>
+	<measurement timeStamp="2014-08-13T08:28:59Z" loudness="79" location="geo:53.35835101572325,-6.254971080522795"/>
+	<measurement timeStamp="2014-08-13T08:29:00Z" loudness="80" location="geo:53.35830803648067,-6.255003508961754"/>
+	<measurement timeStamp="2014-08-13T08:29:01Z" loudness="80" location="geo:53.35830803648067,-6.255003508961754"/>
+	<measurement timeStamp="2014-08-13T08:29:02Z" loudness="79" location="geo:53.35827165104509,-6.255051173043157"/>
+	<measurement timeStamp="2014-08-13T08:29:03Z" loudness="79" location="geo:53.35827165104509,-6.255051173043157"/>
+	<measurement timeStamp="2014-08-13T08:29:04Z" loudness="80" location="geo:53.35827165104509,-6.255051173043157"/>
+	<measurement timeStamp="2014-08-13T08:29:05Z" loudness="79" location="geo:53.35827165104509,-6.255051173043157"/>
+	<measurement timeStamp="2014-08-13T08:29:06Z" loudness="80" location="geo:53.35825012980789,-6.255101779531928"/>
+	<measurement timeStamp="2014-08-13T08:29:07Z" loudness="80" location="geo:53.35825012980789,-6.255101779531928"/>
+	<measurement timeStamp="2014-08-13T08:29:08Z" loudness="80" location="geo:53.35825012980789,-6.255101779531928"/>
+	<measurement timeStamp="2014-08-13T08:29:09Z" loudness="81" location="geo:53.358228819050055,-6.255161849987304"/>
+	<measurement timeStamp="2014-08-13T08:29:10Z" loudness="80" location="geo:53.358228819050055,-6.255161849987304"/>
+	<measurement timeStamp="2014-08-13T08:29:11Z" loudness="80" location="geo:53.358228819050055,-6.255161849987304"/>
+	<measurement timeStamp="2014-08-13T08:29:12Z" loudness="80" location="geo:53.35820012239756,-6.25520826623258"/>
+	<measurement timeStamp="2014-08-13T08:29:13Z" loudness="81" location="geo:53.35820012239756,-6.25520826623258"/>
+	<measurement timeStamp="2014-08-13T08:29:14Z" loudness="80" location="geo:53.35820012239756,-6.25520826623258"/>
+	<measurement timeStamp="2014-08-13T08:29:15Z" loudness="78" location="geo:53.35816768572676,-6.25525346553443"/>
+	<measurement timeStamp="2014-08-13T08:29:16Z" loudness="77" location="geo:53.35816768572676,-6.25525346553443"/>
+	<measurement timeStamp="2014-08-13T08:29:17Z" loudness="75" location="geo:53.35816768572676,-6.25525346553443"/>
+	<measurement timeStamp="2014-08-13T08:29:18Z" loudness="74" location="geo:53.35814012121673,-6.25530773187811"/>
+	<measurement timeStamp="2014-08-13T08:29:19Z" loudness="74" location="geo:53.35814012121673,-6.25530773187811"/>
+	<measurement timeStamp="2014-08-13T08:29:20Z" loudness="74" location="geo:53.35814012121673,-6.25530773187811"/>
+	<measurement timeStamp="2014-08-13T08:29:21Z" loudness="74" location="geo:53.358114087040875,-6.255370220144337"/>
+	<measurement timeStamp="2014-08-13T08:29:22Z" loudness="74" location="geo:53.358114087040875,-6.255370220144337"/>
+	<measurement timeStamp="2014-08-13T08:29:23Z" loudness="73" location="geo:53.358114087040875,-6.255370220144337"/>
+	<measurement timeStamp="2014-08-13T08:29:24Z" loudness="74" location="geo:53.358094019361516,-6.255416935299974"/>
+	<measurement timeStamp="2014-08-13T08:29:25Z" loudness="75" location="geo:53.358094019361516,-6.255416935299974"/>
+	<measurement timeStamp="2014-08-13T08:29:26Z" loudness="73" location="geo:53.35808276664466,-6.255441997200251"/>
+	<measurement timeStamp="2014-08-13T08:29:27Z" loudness="73" location="geo:53.3580371900624,-6.255541280821167"/>
+	<measurement timeStamp="2014-08-13T08:29:28Z" loudness="73" location="geo:53.3580371900624,-6.255541280821167"/>
+	<measurement timeStamp="2014-08-13T08:29:29Z" loudness="73" location="geo:53.358005192146635,-6.255617430418374"/>
+	<measurement timeStamp="2014-08-13T08:29:30Z" loudness="73" location="geo:53.358005192146635,-6.255617430418374"/>
+	<measurement timeStamp="2014-08-13T08:29:31Z" loudness="73" location="geo:53.357981820601495,-6.25569233666663"/>
+	<measurement timeStamp="2014-08-13T08:29:32Z" loudness="73" location="geo:53.357981820601495,-6.25569233666663"/>
+	<measurement timeStamp="2014-08-13T08:29:33Z" loudness="72" location="geo:53.357981820601495,-6.25569233666663"/>
+	<measurement timeStamp="2014-08-13T08:29:34Z" loudness="72" location="geo:53.35797921521756,-6.255772844816076"/>
+	<measurement timeStamp="2014-08-13T08:29:35Z" loudness="73" location="geo:53.35797921521756,-6.255772844816076"/>
+	<measurement timeStamp="2014-08-13T08:29:36Z" loudness="74" location="geo:53.35797921521756,-6.255772844816076"/>
+	<measurement timeStamp="2014-08-13T08:29:37Z" loudness="72" location="geo:53.35797921521756,-6.255772844816076"/>
+	<measurement timeStamp="2014-08-13T08:29:38Z" loudness="72" location="geo:53.35797921521756,-6.255772844816076"/>
+	<measurement timeStamp="2014-08-13T08:29:39Z" loudness="72" location="geo:53.35797921521756,-6.255772844816076"/>
+	<measurement timeStamp="2014-08-13T08:29:40Z" loudness="72" location="geo:53.35797920820778,-6.255822038820615"/>
+	<measurement timeStamp="2014-08-13T08:29:41Z" loudness="72" location="geo:53.35797920820778,-6.255822038820615"/>
+	<measurement timeStamp="2014-08-13T08:29:42Z" loudness="74" location="geo:53.35797920820778,-6.255822038820615"/>
+	<measurement timeStamp="2014-08-13T08:29:43Z" loudness="72" location="geo:53.357963757598355,-6.255865870029006"/>
+	<measurement timeStamp="2014-08-13T08:29:44Z" loudness="78" location="geo:53.357963757598355,-6.255865870029006"/>
+	<measurement timeStamp="2014-08-13T08:29:45Z" loudness="72" location="geo:53.357963757598355,-6.255865870029006"/>
+	<measurement timeStamp="2014-08-13T08:29:46Z" loudness="72" location="geo:53.35793910632684,-6.255910282045562"/>
+	<measurement timeStamp="2014-08-13T08:29:47Z" loudness="72" location="geo:53.35793910632684,-6.255910282045562"/>
+	<measurement timeStamp="2014-08-13T08:29:48Z" loudness="73" location="geo:53.35793910632684,-6.255910282045562"/>
+	<measurement timeStamp="2014-08-13T08:29:49Z" loudness="76" location="geo:53.357913653454986,-6.2559654060039795"/>
+	<measurement timeStamp="2014-08-13T08:29:50Z" loudness="74" location="geo:53.357913653454986,-6.2559654060039795"/>
+	<measurement timeStamp="2014-08-13T08:29:51Z" loudness="72" location="geo:53.357913653454986,-6.2559654060039795"/>
+	<measurement timeStamp="2014-08-13T08:29:52Z" loudness="72" location="geo:53.35789926289412,-6.256011393027142"/>
+	<measurement timeStamp="2014-08-13T08:29:53Z" loudness="72" location="geo:53.35789926289412,-6.256011393027142"/>
+	<measurement timeStamp="2014-08-13T08:29:54Z" loudness="73" location="geo:53.35788375932305,-6.25606892162637"/>
+	<measurement timeStamp="2014-08-13T08:29:55Z" loudness="72" location="geo:53.35788375932305,-6.25606892162637"/>
+	<measurement timeStamp="2014-08-13T08:29:56Z" loudness="72" location="geo:53.35786328651886,-6.256123781190417"/>
+	<measurement timeStamp="2014-08-13T08:29:57Z" loudness="75" location="geo:53.35786328651886,-6.256123781190417"/>
+	<measurement timeStamp="2014-08-13T08:29:58Z" loudness="72" location="geo:53.357841514525404,-6.256171935223598"/>
+	<measurement timeStamp="2014-08-13T08:29:59Z" loudness="75" location="geo:53.357841514525404,-6.256171935223598"/>
+	<measurement timeStamp="2014-08-13T08:30:00Z" loudness="79" location="geo:53.357817982334424,-6.25622184946164"/>
+	<measurement timeStamp="2014-08-13T08:30:01Z" loudness="77" location="geo:53.357817982334424,-6.25622184946164"/>
+	<measurement timeStamp="2014-08-13T08:30:02Z" loudness="78" location="geo:53.35779627320479,-6.256275074536702"/>
+	<measurement timeStamp="2014-08-13T08:30:03Z" loudness="73" location="geo:53.35779627320479,-6.256275074536702"/>
+	<measurement timeStamp="2014-08-13T08:30:04Z" loudness="73" location="geo:53.35777789588045,-6.256328090077738"/>
+	<measurement timeStamp="2014-08-13T08:30:05Z" loudness="76" location="geo:53.35777789588045,-6.256328090077738"/>
+	<measurement timeStamp="2014-08-13T08:30:06Z" loudness="75" location="geo:53.35775794695713,-6.256392924087518"/>
+	<measurement timeStamp="2014-08-13T08:30:07Z" loudness="73" location="geo:53.35775794695713,-6.256392924087518"/>
+	<measurement timeStamp="2014-08-13T08:30:08Z" loudness="73" location="geo:53.35773969535977,-6.256465972374198"/>
+	<measurement timeStamp="2014-08-13T08:30:09Z" loudness="74" location="geo:53.35773969535977,-6.256465972374198"/>
+	<measurement timeStamp="2014-08-13T08:30:10Z" loudness="76" location="geo:53.35772275924282,-6.256521261975192"/>
+	<measurement timeStamp="2014-08-13T08:30:11Z" loudness="76" location="geo:53.35772275924282,-6.256521261975192"/>
+	<measurement timeStamp="2014-08-13T08:30:12Z" loudness="77" location="geo:53.35768664460449,-6.256564873417229"/>
+	<measurement timeStamp="2014-08-13T08:30:13Z" loudness="76" location="geo:53.35768664460449,-6.256564873417229"/>
+	<measurement timeStamp="2014-08-13T08:30:14Z" loudness="75" location="geo:53.35768664460449,-6.256564873417229"/>
+	<measurement timeStamp="2014-08-13T08:30:15Z" loudness="75" location="geo:53.35768664460449,-6.256564873417229"/>
+	<measurement timeStamp="2014-08-13T08:30:16Z" loudness="75" location="geo:53.35764871462631,-6.25658469996268"/>
+	<measurement timeStamp="2014-08-13T08:30:17Z" loudness="76" location="geo:53.35764871462631,-6.25658469996268"/>
+	<measurement timeStamp="2014-08-13T08:30:18Z" loudness="75" location="geo:53.35764871462631,-6.25658469996268"/>
+	<measurement timeStamp="2014-08-13T08:30:19Z" loudness="75" location="geo:53.35761549576217,-6.2566193657285805"/>
+	<measurement timeStamp="2014-08-13T08:30:20Z" loudness="75" location="geo:53.35761549576217,-6.2566193657285805"/>
+	<measurement timeStamp="2014-08-13T08:30:21Z" loudness="76" location="geo:53.35761549576217,-6.2566193657285805"/>
+	<measurement timeStamp="2014-08-13T08:30:22Z" loudness="76" location="geo:53.357592551048135,-6.256668213730092"/>
+	<measurement timeStamp="2014-08-13T08:30:23Z" loudness="77" location="geo:53.357592551048135,-6.256668213730092"/>
+	<measurement timeStamp="2014-08-13T08:30:24Z" loudness="80" location="geo:53.357592551048135,-6.256668213730092"/>
+	<measurement timeStamp="2014-08-13T08:30:25Z" loudness="79" location="geo:53.35756989197007,-6.256716493495637"/>
+	<measurement timeStamp="2014-08-13T08:30:26Z" loudness="80" location="geo:53.35756989197007,-6.256716493495637"/>
+	<measurement timeStamp="2014-08-13T08:30:27Z" loudness="76" location="geo:53.35756989197007,-6.256716493495637"/>
+	<measurement timeStamp="2014-08-13T08:30:28Z" loudness="76" location="geo:53.35754726083585,-6.256772987516405"/>
+	<measurement timeStamp="2014-08-13T08:30:29Z" loudness="77" location="geo:53.35754726083585,-6.256772987516405"/>
+	<measurement timeStamp="2014-08-13T08:30:30Z" loudness="77" location="geo:53.35754726083585,-6.256772987516405"/>
+	<measurement timeStamp="2014-08-13T08:30:31Z" loudness="77" location="geo:53.357524269091975,-6.256832716018897"/>
+	<measurement timeStamp="2014-08-13T08:30:32Z" loudness="77" location="geo:53.357524269091975,-6.256832716018897"/>
+	<measurement timeStamp="2014-08-13T08:30:33Z" loudness="76" location="geo:53.357524269091975,-6.256832716018897"/>
+	<measurement timeStamp="2014-08-13T08:30:34Z" loudness="76" location="geo:53.35749688559258,-6.256873626256859"/>
+	<measurement timeStamp="2014-08-13T08:30:35Z" loudness="73" location="geo:53.35749688559258,-6.256873626256859"/>
+	<measurement timeStamp="2014-08-13T08:30:36Z" loudness="74" location="geo:53.35749688559258,-6.256873626256859"/>
+	<measurement timeStamp="2014-08-13T08:30:37Z" loudness="79" location="geo:53.35746810772763,-6.2569160526437635"/>
+	<measurement timeStamp="2014-08-13T08:30:38Z" loudness="75" location="geo:53.35746810772763,-6.2569160526437635"/>
+	<measurement timeStamp="2014-08-13T08:30:39Z" loudness="73" location="geo:53.35746810772763,-6.2569160526437635"/>
+	<measurement timeStamp="2014-08-13T08:30:40Z" loudness="77" location="geo:53.35746810772763,-6.2569160526437635"/>
+	<measurement timeStamp="2014-08-13T08:30:41Z" loudness="72" location="geo:53.35746810772763,-6.2569160526437635"/>
+	<measurement timeStamp="2014-08-13T08:30:42Z" loudness="74" location="geo:53.35746810772763,-6.2569160526437635"/>
+	<measurement timeStamp="2014-08-13T08:30:43Z" loudness="75" location="geo:53.357439868855316,-6.256944362197339"/>
+	<measurement timeStamp="2014-08-13T08:30:44Z" loudness="75" location="geo:53.357439868855316,-6.256944362197339"/>
+	<measurement timeStamp="2014-08-13T08:30:45Z" loudness="77" location="geo:53.357439868855316,-6.256944362197339"/>
+	<measurement timeStamp="2014-08-13T08:30:46Z" loudness="75" location="geo:53.35740127523244,-6.2569689217032085"/>
+	<measurement timeStamp="2014-08-13T08:30:47Z" loudness="75" location="geo:53.35740127523244,-6.2569689217032085"/>
+	<measurement timeStamp="2014-08-13T08:30:48Z" loudness="76" location="geo:53.35740127523244,-6.2569689217032085"/>
+	<measurement timeStamp="2014-08-13T08:30:49Z" loudness="75" location="geo:53.35736195962374,-6.256967953198787"/>
+	<measurement timeStamp="2014-08-13T08:30:50Z" loudness="76" location="geo:53.35736195962374,-6.256967953198787"/>
+	<measurement timeStamp="2014-08-13T08:30:51Z" loudness="75" location="geo:53.35736195962374,-6.256967953198787"/>
+	<measurement timeStamp="2014-08-13T08:30:52Z" loudness="75" location="geo:53.35732296973877,-6.2569601567407185"/>
+	<measurement timeStamp="2014-08-13T08:30:53Z" loudness="75" location="geo:53.35732296973877,-6.2569601567407185"/>
+	<measurement timeStamp="2014-08-13T08:30:54Z" loudness="77" location="geo:53.35732296973877,-6.2569601567407185"/>
+	<measurement timeStamp="2014-08-13T08:30:55Z" loudness="78" location="geo:53.357284915618855,-6.2569488150567905"/>
+	<measurement timeStamp="2014-08-13T08:30:56Z" loudness="76" location="geo:53.357284915618855,-6.2569488150567905"/>
+	<measurement timeStamp="2014-08-13T08:30:57Z" loudness="76" location="geo:53.357284915618855,-6.2569488150567905"/>
+	<measurement timeStamp="2014-08-13T08:30:58Z" loudness="76" location="geo:53.357259523495095,-6.256928912520356"/>
+	<measurement timeStamp="2014-08-13T08:30:59Z" loudness="75" location="geo:53.357259523495095,-6.256928912520356"/>
+	<measurement timeStamp="2014-08-13T08:31:00Z" loudness="75" location="geo:53.35723416182148,-6.256895377304957"/>
+	<measurement timeStamp="2014-08-13T08:31:01Z" loudness="75" location="geo:53.35723416182148,-6.256895377304957"/>
+	<measurement timeStamp="2014-08-13T08:31:02Z" loudness="78" location="geo:53.3572098962143,-6.256854431712153"/>
+	<measurement timeStamp="2014-08-13T08:31:03Z" loudness="76" location="geo:53.3572098962143,-6.256854431712153"/>
+	<measurement timeStamp="2014-08-13T08:31:04Z" loudness="76" location="geo:53.357179532771234,-6.256801178692839"/>
+	<measurement timeStamp="2014-08-13T08:31:05Z" loudness="77" location="geo:53.357179532771234,-6.256801178692839"/>
+	<measurement timeStamp="2014-08-13T08:31:06Z" loudness="78" location="geo:53.357179532771234,-6.256801178692839"/>
+	<measurement timeStamp="2014-08-13T08:31:07Z" loudness="79" location="geo:53.35714771697528,-6.256776147974459"/>
+	<measurement timeStamp="2014-08-13T08:31:08Z" loudness="80" location="geo:53.35714771697528,-6.256776147974459"/>
+	<measurement timeStamp="2014-08-13T08:31:09Z" loudness="80" location="geo:53.35714771697528,-6.256776147974459"/>
+	<measurement timeStamp="2014-08-13T08:31:10Z" loudness="81" location="geo:53.3570919558531,-6.256747324958879"/>
+	<measurement timeStamp="2014-08-13T08:31:11Z" loudness="83" location="geo:53.3570919558531,-6.256747324958879"/>
+	<measurement timeStamp="2014-08-13T08:31:12Z" loudness="83" location="geo:53.3570919558531,-6.256747324958879"/>
+	<measurement timeStamp="2014-08-13T08:31:13Z" loudness="84" location="geo:53.3570919558531,-6.256747324958879"/>
+	<measurement timeStamp="2014-08-13T08:31:14Z" loudness="86" location="geo:53.3570919558531,-6.256747324958879"/>
+	<measurement timeStamp="2014-08-13T08:31:15Z" loudness="85" location="geo:53.3570919558531,-6.256747324958879"/>
+	<measurement timeStamp="2014-08-13T08:31:16Z" loudness="84" location="geo:53.35706379002028,-6.256717626603382"/>
+	<measurement timeStamp="2014-08-13T08:31:17Z" loudness="82" location="geo:53.35706379002028,-6.256717626603382"/>
+	<measurement timeStamp="2014-08-13T08:31:18Z" loudness="80" location="geo:53.357028616601816,-6.2566769868099685"/>
+	<measurement timeStamp="2014-08-13T08:31:19Z" loudness="79" location="geo:53.357028616601816,-6.2566769868099685"/>
+	<measurement timeStamp="2014-08-13T08:31:20Z" loudness="79" location="geo:53.35698837941797,-6.256643512126046"/>
+	<measurement timeStamp="2014-08-13T08:31:21Z" loudness="78" location="geo:53.35698837941797,-6.256643512126046"/>
+	<measurement timeStamp="2014-08-13T08:31:22Z" loudness="78" location="geo:53.35698837941797,-6.256643512126046"/>
+	<measurement timeStamp="2014-08-13T08:31:23Z" loudness="78" location="geo:53.35694546534039,-6.256613981018438"/>
+	<measurement timeStamp="2014-08-13T08:31:24Z" loudness="77" location="geo:53.35694546534039,-6.256613981018438"/>
+	<measurement timeStamp="2014-08-13T08:31:25Z" loudness="77" location="geo:53.35694546534039,-6.256613981018438"/>
+	<measurement timeStamp="2014-08-13T08:31:26Z" loudness="78" location="geo:53.35694546534039,-6.256613981018438"/>
+	<measurement timeStamp="2014-08-13T08:31:27Z" loudness="76" location="geo:53.35691429966731,-6.256578103734298"/>
+	<measurement timeStamp="2014-08-13T08:31:28Z" loudness="76" location="geo:53.35691429966731,-6.256578103734298"/>
+	<measurement timeStamp="2014-08-13T08:31:29Z" loudness="77" location="geo:53.35691429966731,-6.256578103734298"/>
+	<measurement timeStamp="2014-08-13T08:31:30Z" loudness="76" location="geo:53.35691429966731,-6.256578103734298"/>
+	<measurement timeStamp="2014-08-13T08:31:31Z" loudness="76" location="geo:53.35687766671406,-6.256545571272042"/>
+	<measurement timeStamp="2014-08-13T08:31:32Z" loudness="79" location="geo:53.35687766671406,-6.256545571272042"/>
+	<measurement timeStamp="2014-08-13T08:31:33Z" loudness="82" location="geo:53.35687766671406,-6.256545571272042"/>
+	<measurement timeStamp="2014-08-13T08:31:34Z" loudness="80" location="geo:53.35683545107396,-6.256514877601726"/>
+	<measurement timeStamp="2014-08-13T08:31:35Z" loudness="79" location="geo:53.35683545107396,-6.256514877601726"/>
+	<measurement timeStamp="2014-08-13T08:31:36Z" loudness="77" location="geo:53.35683545107396,-6.256514877601726"/>
+	<measurement timeStamp="2014-08-13T08:31:37Z" loudness="77" location="geo:53.356793867436345,-6.256479034205226"/>
+	<measurement timeStamp="2014-08-13T08:31:38Z" loudness="77" location="geo:53.356793867436345,-6.256479034205226"/>
+	<measurement timeStamp="2014-08-13T08:31:39Z" loudness="78" location="geo:53.356793867436345,-6.256479034205226"/>
+	<measurement timeStamp="2014-08-13T08:31:40Z" loudness="78" location="geo:53.356759578469436,-6.256441455331405"/>
+	<measurement timeStamp="2014-08-13T08:31:41Z" loudness="79" location="geo:53.356759578469436,-6.256441455331405"/>
+	<measurement timeStamp="2014-08-13T08:31:42Z" loudness="78" location="geo:53.35671530106876,-6.256390074259557"/>
+	<measurement timeStamp="2014-08-13T08:31:43Z" loudness="77" location="geo:53.35671530106876,-6.256390074259557"/>
+	<measurement timeStamp="2014-08-13T08:31:44Z" loudness="77" location="geo:53.356671494603354,-6.256341511961828"/>
+	<measurement timeStamp="2014-08-13T08:31:45Z" loudness="77" location="geo:53.356671494603354,-6.256341511961828"/>
+	<measurement timeStamp="2014-08-13T08:31:46Z" loudness="77" location="geo:53.35663285568099,-6.256301468374078"/>
+	<measurement timeStamp="2014-08-13T08:31:47Z" loudness="77" location="geo:53.35663285568099,-6.256301468374078"/>
+	<measurement timeStamp="2014-08-13T08:31:48Z" loudness="78" location="geo:53.35659540953686,-6.256265594253267"/>
+	<measurement timeStamp="2014-08-13T08:31:49Z" loudness="77" location="geo:53.35659540953686,-6.256265594253267"/>
+	<measurement timeStamp="2014-08-13T08:31:50Z" loudness="77" location="geo:53.35654921004839,-6.25622677916644"/>
+	<measurement timeStamp="2014-08-13T08:31:51Z" loudness="79" location="geo:53.35654921004839,-6.25622677916644"/>
+	<measurement timeStamp="2014-08-13T08:31:52Z" loudness="80" location="geo:53.35654921004839,-6.25622677916644"/>
+	<measurement timeStamp="2014-08-13T08:31:53Z" loudness="78" location="geo:53.35654921004839,-6.25622677916644"/>
+	<measurement timeStamp="2014-08-13T08:31:54Z" loudness="80" location="geo:53.35651278607649,-6.256198612401221"/>
+	<measurement timeStamp="2014-08-13T08:31:55Z" loudness="80" location="geo:53.35651278607649,-6.256198612401221"/>
+	<measurement timeStamp="2014-08-13T08:31:56Z" loudness="77" location="geo:53.35651278607649,-6.256198612401221"/>
+	<measurement timeStamp="2014-08-13T08:31:57Z" loudness="76" location="geo:53.35651278607649,-6.256198612401221"/>
+	<measurement timeStamp="2014-08-13T08:31:58Z" loudness="77" location="geo:53.35648442153945,-6.256172927093391"/>
+	<measurement timeStamp="2014-08-13T08:31:59Z" loudness="78" location="geo:53.35648442153945,-6.256172927093391"/>
+	<measurement timeStamp="2014-08-13T08:32:00Z" loudness="76" location="geo:53.35648442153945,-6.256172927093391"/>
+	<measurement timeStamp="2014-08-13T08:32:01Z" loudness="76" location="geo:53.3564477187154,-6.2561547044982575"/>
+	<measurement timeStamp="2014-08-13T08:32:02Z" loudness="76" location="geo:53.3564477187154,-6.2561547044982575"/>
+	<measurement timeStamp="2014-08-13T08:32:03Z" loudness="76" location="geo:53.3564477187154,-6.2561547044982575"/>
+	<measurement timeStamp="2014-08-13T08:32:04Z" loudness="77" location="geo:53.356408062397655,-6.256154738368594"/>
+	<measurement timeStamp="2014-08-13T08:32:05Z" loudness="76" location="geo:53.356408062397655,-6.256154738368594"/>
+	<measurement timeStamp="2014-08-13T08:32:06Z" loudness="77" location="geo:53.356408062397655,-6.256154738368594"/>
+	<measurement timeStamp="2014-08-13T08:32:07Z" loudness="78" location="geo:53.35637832257693,-6.25618889340357"/>
+	<measurement timeStamp="2014-08-13T08:32:08Z" loudness="78" location="geo:53.35637832257693,-6.25618889340357"/>
+	<measurement timeStamp="2014-08-13T08:32:09Z" loudness="79" location="geo:53.35637832257693,-6.25618889340357"/>
+	<measurement timeStamp="2014-08-13T08:32:10Z" loudness="80" location="geo:53.35637832257693,-6.25618889340357"/>
+	<measurement timeStamp="2014-08-13T08:32:11Z" loudness="80" location="geo:53.35637832257693,-6.25618889340357"/>
+	<measurement timeStamp="2014-08-13T08:32:12Z" loudness="79" location="geo:53.356358818724225,-6.2562331929598844"/>
+	<measurement timeStamp="2014-08-13T08:32:13Z" loudness="81" location="geo:53.356358818724225,-6.2562331929598844"/>
+	<measurement timeStamp="2014-08-13T08:32:14Z" loudness="84" location="geo:53.356358818724225,-6.2562331929598844"/>
+	<measurement timeStamp="2014-08-13T08:32:15Z" loudness="82" location="geo:53.35633271830392,-6.256267983530446"/>
+	<measurement timeStamp="2014-08-13T08:32:16Z" loudness="79" location="geo:53.35633271830392,-6.256267983530446"/>
+	<measurement timeStamp="2014-08-13T08:32:17Z" loudness="81" location="geo:53.35629943293447,-6.256303112022881"/>
+	<measurement timeStamp="2014-08-13T08:32:18Z" loudness="80" location="geo:53.35629943293447,-6.256303112022881"/>
+	<measurement timeStamp="2014-08-13T08:32:19Z" loudness="78" location="geo:53.356268977870606,-6.256342014251283"/>
+	<measurement timeStamp="2014-08-13T08:32:20Z" loudness="77" location="geo:53.356268977870606,-6.256342014251283"/>
+	<measurement timeStamp="2014-08-13T08:32:21Z" loudness="76" location="geo:53.35623218911711,-6.256383578293735"/>
+	<measurement timeStamp="2014-08-13T08:32:22Z" loudness="78" location="geo:53.35623218911711,-6.256383578293735"/>
+	<measurement timeStamp="2014-08-13T08:32:23Z" loudness="77" location="geo:53.356190091005836,-6.256417231639413"/>
+	<measurement timeStamp="2014-08-13T08:32:24Z" loudness="75" location="geo:53.356190091005836,-6.256417231639413"/>
+	<measurement timeStamp="2014-08-13T08:32:25Z" loudness="77" location="geo:53.356154894152795,-6.256441030581431"/>
+	<measurement timeStamp="2014-08-13T08:32:26Z" loudness="76" location="geo:53.356154894152795,-6.256441030581431"/>
+	<measurement timeStamp="2014-08-13T08:32:27Z" loudness="77" location="geo:53.35611711035036,-6.25647664717105"/>
+	<measurement timeStamp="2014-08-13T08:32:28Z" loudness="77" location="geo:53.35611711035036,-6.25647664717105"/>
+	<measurement timeStamp="2014-08-13T08:32:29Z" loudness="77" location="geo:53.35611711035036,-6.25647664717105"/>
+	<measurement timeStamp="2014-08-13T08:32:30Z" loudness="78" location="geo:53.35608862247442,-6.2565253957451645"/>
+	<measurement timeStamp="2014-08-13T08:32:31Z" loudness="76" location="geo:53.35608862247442,-6.2565253957451645"/>
+	<measurement timeStamp="2014-08-13T08:32:32Z" loudness="78" location="geo:53.35608862247442,-6.2565253957451645"/>
+	<measurement timeStamp="2014-08-13T08:32:33Z" loudness="78" location="geo:53.3560662740026,-6.256571547093594"/>
+	<measurement timeStamp="2014-08-13T08:32:34Z" loudness="81" location="geo:53.3560662740026,-6.256571547093594"/>
+	<measurement timeStamp="2014-08-13T08:32:35Z" loudness="82" location="geo:53.3560662740026,-6.256571547093594"/>
+	<measurement timeStamp="2014-08-13T08:32:36Z" loudness="82" location="geo:53.356042946705756,-6.256622392663896"/>
+	<measurement timeStamp="2014-08-13T08:32:37Z" loudness="81" location="geo:53.356042946705756,-6.256622392663896"/>
+	<measurement timeStamp="2014-08-13T08:32:38Z" loudness="80" location="geo:53.356042946705756,-6.256622392663896"/>
+	<measurement timeStamp="2014-08-13T08:32:39Z" loudness="79" location="geo:53.35602091395911,-6.256682441946345"/>
+	<measurement timeStamp="2014-08-13T08:32:40Z" loudness="78" location="geo:53.35602091395911,-6.256682441946345"/>
+	<measurement timeStamp="2014-08-13T08:32:41Z" loudness="77" location="geo:53.35602091395911,-6.256682441946345"/>
+	<measurement timeStamp="2014-08-13T08:32:42Z" loudness="76" location="geo:53.3560061042999,-6.256730141507777"/>
+	<measurement timeStamp="2014-08-13T08:32:43Z" loudness="76" location="geo:53.3560061042999,-6.256730141507777"/>
+	<measurement timeStamp="2014-08-13T08:32:44Z" loudness="76" location="geo:53.355987521364895,-6.256785322895003"/>
+	<measurement timeStamp="2014-08-13T08:32:45Z" loudness="75" location="geo:53.355987521364895,-6.256785322895003"/>
+	<measurement timeStamp="2014-08-13T08:32:46Z" loudness="75" location="geo:53.35596250837574,-6.256856974183242"/>
+	<measurement timeStamp="2014-08-13T08:32:47Z" loudness="75" location="geo:53.35596250837574,-6.256856974183242"/>
+	<measurement timeStamp="2014-08-13T08:32:48Z" loudness="76" location="geo:53.35596250837574,-6.256856974183242"/>
+	<measurement timeStamp="2014-08-13T08:32:49Z" loudness="75" location="geo:53.35594553294083,-6.256907432832502"/>
+	<measurement timeStamp="2014-08-13T08:32:50Z" loudness="76" location="geo:53.35594553294083,-6.256907432832502"/>
+	<measurement timeStamp="2014-08-13T08:32:51Z" loudness="75" location="geo:53.35592697521469,-6.2569653643466365"/>
+	<measurement timeStamp="2014-08-13T08:32:52Z" loudness="76" location="geo:53.35592697521469,-6.2569653643466365"/>
+	<measurement timeStamp="2014-08-13T08:32:53Z" loudness="76" location="geo:53.355911354253976,-6.25702285188526"/>
+	<measurement timeStamp="2014-08-13T08:32:54Z" loudness="77" location="geo:53.355911354253976,-6.25702285188526"/>
+	<measurement timeStamp="2014-08-13T08:32:55Z" loudness="75" location="geo:53.35589571419224,-6.257077109907184"/>
+	<measurement timeStamp="2014-08-13T08:32:56Z" loudness="76" location="geo:53.35589571419224,-6.257077109907184"/>
+	<measurement timeStamp="2014-08-13T08:32:57Z" loudness="74" location="geo:53.355879244278285,-6.2571290777505055"/>
+	<measurement timeStamp="2014-08-13T08:32:58Z" loudness="75" location="geo:53.355879244278285,-6.2571290777505055"/>
+	<measurement timeStamp="2014-08-13T08:32:59Z" loudness="77" location="geo:53.355858688816134,-6.257191288301384"/>
+	<measurement timeStamp="2014-08-13T08:33:00Z" loudness="77" location="geo:53.355858688816134,-6.257191288301384"/>
+	<measurement timeStamp="2014-08-13T08:33:01Z" loudness="77" location="geo:53.355858688816134,-6.257191288301384"/>
+	<measurement timeStamp="2014-08-13T08:33:02Z" loudness="75" location="geo:53.35583750625885,-6.2572482973108485"/>
+	<measurement timeStamp="2014-08-13T08:33:03Z" loudness="75" location="geo:53.35583750625885,-6.2572482973108485"/>
+	<measurement timeStamp="2014-08-13T08:33:04Z" loudness="76" location="geo:53.35583750625885,-6.2572482973108485"/>
+	<measurement timeStamp="2014-08-13T08:33:05Z" loudness="75" location="geo:53.355818475453376,-6.257303126738401"/>
+	<measurement timeStamp="2014-08-13T08:33:06Z" loudness="80" location="geo:53.355818475453376,-6.257303126738401"/>
+	<measurement timeStamp="2014-08-13T08:33:07Z" loudness="75" location="geo:53.355818475453376,-6.257303126738401"/>
+	<measurement timeStamp="2014-08-13T08:33:08Z" loudness="75" location="geo:53.35580226207967,-6.257356278246165"/>
+	<measurement timeStamp="2014-08-13T08:33:09Z" loudness="75" location="geo:53.35580226207967,-6.257356278246165"/>
+	<measurement timeStamp="2014-08-13T08:33:10Z" loudness="75" location="geo:53.35580226207967,-6.257356278246165"/>
+	<measurement timeStamp="2014-08-13T08:33:11Z" loudness="74" location="geo:53.35578883658481,-6.257398099740016"/>
+	<measurement timeStamp="2014-08-13T08:33:12Z" loudness="74" location="geo:53.35578883658481,-6.257398099740016"/>
+	<measurement timeStamp="2014-08-13T08:33:13Z" loudness="74" location="geo:53.35576604141132,-6.257460095375878"/>
+	<measurement timeStamp="2014-08-13T08:33:14Z" loudness="75" location="geo:53.35576604141132,-6.257460095375878"/>
+	<measurement timeStamp="2014-08-13T08:33:15Z" loudness="78" location="geo:53.35576604141132,-6.257460095375878"/>
+	<measurement timeStamp="2014-08-13T08:33:16Z" loudness="75" location="geo:53.355748081632925,-6.257498894145162"/>
+	<measurement timeStamp="2014-08-13T08:33:17Z" loudness="75" location="geo:53.355748081632925,-6.257498894145162"/>
+	<measurement timeStamp="2014-08-13T08:33:18Z" loudness="75" location="geo:53.3557204920633,-6.257545915296927"/>
+	<measurement timeStamp="2014-08-13T08:33:19Z" loudness="76" location="geo:53.3557204920633,-6.257545915296927"/>
+	<measurement timeStamp="2014-08-13T08:33:20Z" loudness="76" location="geo:53.3557204920633,-6.257545915296927"/>
+	<measurement timeStamp="2014-08-13T08:33:21Z" loudness="74" location="geo:53.355693613853674,-6.257597968782765"/>
+	<measurement timeStamp="2014-08-13T08:33:22Z" loudness="76" location="geo:53.355693613853674,-6.257597968782765"/>
+	<measurement timeStamp="2014-08-13T08:33:23Z" loudness="76" location="geo:53.355693613853674,-6.257597968782765"/>
+	<measurement timeStamp="2014-08-13T08:33:24Z" loudness="76" location="geo:53.355669740021305,-6.257664801997109"/>
+	<measurement timeStamp="2014-08-13T08:33:25Z" loudness="77" location="geo:53.355669740021305,-6.257664801997109"/>
+	<measurement timeStamp="2014-08-13T08:33:26Z" loudness="77" location="geo:53.355669740021305,-6.257664801997109"/>
+	<measurement timeStamp="2014-08-13T08:33:27Z" loudness="77" location="geo:53.355655412905364,-6.257716915343632"/>
+	<measurement timeStamp="2014-08-13T08:33:28Z" loudness="78" location="geo:53.355655412905364,-6.257716915343632"/>
+	<measurement timeStamp="2014-08-13T08:33:29Z" loudness="78" location="geo:53.35563721508963,-6.257784674977731"/>
+	<measurement timeStamp="2014-08-13T08:33:30Z" loudness="78" location="geo:53.35563721508963,-6.257784674977731"/>
+	<measurement timeStamp="2014-08-13T08:33:31Z" loudness="77" location="geo:53.355616982901246,-6.2578457904174245"/>
+	<measurement timeStamp="2014-08-13T08:33:32Z" loudness="77" location="geo:53.355616982901246,-6.2578457904174245"/>
+	<measurement timeStamp="2014-08-13T08:33:33Z" loudness="78" location="geo:53.35558372641918,-6.2578629748087495"/>
+	<measurement timeStamp="2014-08-13T08:33:34Z" loudness="76" location="geo:53.35558372641918,-6.2578629748087495"/>
+	<measurement timeStamp="2014-08-13T08:33:35Z" loudness="76" location="geo:53.35558372641918,-6.2578629748087495"/>
+	<measurement timeStamp="2014-08-13T08:33:36Z" loudness="80" location="geo:53.35555324318238,-6.257839692998868"/>
+	<measurement timeStamp="2014-08-13T08:33:37Z" loudness="77" location="geo:53.35555324318238,-6.257839692998868"/>
+	<measurement timeStamp="2014-08-13T08:33:38Z" loudness="75" location="geo:53.35551885525703,-6.257802768188944"/>
+	<measurement timeStamp="2014-08-13T08:33:39Z" loudness="76" location="geo:53.35551885525703,-6.257802768188944"/>
+	<measurement timeStamp="2014-08-13T08:33:40Z" loudness="76" location="geo:53.35548751988393,-6.257770447987696"/>
+	<measurement timeStamp="2014-08-13T08:33:41Z" loudness="77" location="geo:53.35548751988393,-6.257770447987696"/>
+	<measurement timeStamp="2014-08-13T08:33:42Z" loudness="79" location="geo:53.35545838585903,-6.257737289187558"/>
+	<measurement timeStamp="2014-08-13T08:33:43Z" loudness="80" location="geo:53.35545838585903,-6.257737289187558"/>
+	<measurement timeStamp="2014-08-13T08:33:44Z" loudness="78" location="geo:53.35541913329141,-6.257693148319906"/>
+	<measurement timeStamp="2014-08-13T08:33:45Z" loudness="80" location="geo:53.35541913329141,-6.257693148319906"/>
+	<measurement timeStamp="2014-08-13T08:33:46Z" loudness="77" location="geo:53.35541913329141,-6.257693148319906"/>
+	<measurement timeStamp="2014-08-13T08:33:47Z" loudness="80" location="geo:53.35537920719203,-6.257661578052664"/>
+	<measurement timeStamp="2014-08-13T08:33:48Z" loudness="81" location="geo:53.35537920719203,-6.257661578052664"/>
+	<measurement timeStamp="2014-08-13T08:33:49Z" loudness="80" location="geo:53.35537920719203,-6.257661578052664"/>
+	<measurement timeStamp="2014-08-13T08:33:50Z" loudness="80" location="geo:53.355351313955204,-6.257637427192169"/>
+	<measurement timeStamp="2014-08-13T08:33:51Z" loudness="79" location="geo:53.355351313955204,-6.257637427192169"/>
+	<measurement timeStamp="2014-08-13T08:33:52Z" loudness="77" location="geo:53.355321173095135,-6.257614247244208"/>
+	<measurement timeStamp="2014-08-13T08:33:53Z" loudness="76" location="geo:53.355321173095135,-6.257614247244208"/>
+	<measurement timeStamp="2014-08-13T08:33:54Z" loudness="76" location="geo:53.355276645173824,-6.2575796898508225"/>
+	<measurement timeStamp="2014-08-13T08:33:55Z" loudness="78" location="geo:53.355276645173824,-6.2575796898508225"/>
+	<measurement timeStamp="2014-08-13T08:33:56Z" loudness="78" location="geo:53.355276645173824,-6.2575796898508225"/>
+	<measurement timeStamp="2014-08-13T08:33:57Z" loudness="77" location="geo:53.35524546306357,-6.257553056670702"/>
+	<measurement timeStamp="2014-08-13T08:33:58Z" loudness="79" location="geo:53.35524546306357,-6.257553056670702"/>
+	<measurement timeStamp="2014-08-13T08:33:59Z" loudness="80" location="geo:53.35521435365831,-6.257524816317474"/>
+	<measurement timeStamp="2014-08-13T08:34:00Z" loudness="77" location="geo:53.35521435365831,-6.257524816317474"/>
+	<measurement timeStamp="2014-08-13T08:34:01Z" loudness="77" location="geo:53.355184731292226,-6.2575041159123845"/>
+	<measurement timeStamp="2014-08-13T08:34:02Z" loudness="79" location="geo:53.355184731292226,-6.2575041159123845"/>
+	<measurement timeStamp="2014-08-13T08:34:03Z" loudness="80" location="geo:53.35514041613437,-6.257481009788431"/>
+	<measurement timeStamp="2014-08-13T08:34:04Z" loudness="81" location="geo:53.35514041613437,-6.257481009788431"/>
+	<measurement timeStamp="2014-08-13T08:34:05Z" loudness="78" location="geo:53.35514041613437,-6.257481009788431"/>
+	<measurement timeStamp="2014-08-13T08:34:06Z" loudness="80" location="geo:53.35509527475464,-6.257455749445479"/>
+	<measurement timeStamp="2014-08-13T08:34:07Z" loudness="81" location="geo:53.35509527475464,-6.257455749445479"/>
+	<measurement timeStamp="2014-08-13T08:34:08Z" loudness="79" location="geo:53.35509527475464,-6.257455749445479"/>
+	<measurement timeStamp="2014-08-13T08:34:09Z" loudness="80" location="geo:53.355062892664556,-6.257443302311604"/>
+	<measurement timeStamp="2014-08-13T08:34:10Z" loudness="83" location="geo:53.355062892664556,-6.257443302311604"/>
+	<measurement timeStamp="2014-08-13T08:34:11Z" loudness="82" location="geo:53.35502251827599,-6.257419358796327"/>
+	<measurement timeStamp="2014-08-13T08:34:12Z" loudness="82" location="geo:53.35502251827599,-6.257419358796327"/>
+	<measurement timeStamp="2014-08-13T08:34:13Z" loudness="81" location="geo:53.35502251827599,-6.257419358796327"/>
+	<measurement timeStamp="2014-08-13T08:34:14Z" loudness="79" location="geo:53.3549981907209,-6.257392684019007"/>
+	<measurement timeStamp="2014-08-13T08:34:15Z" loudness="80" location="geo:53.3549981907209,-6.257392684019007"/>
+	<measurement timeStamp="2014-08-13T08:34:16Z" loudness="80" location="geo:53.35496977498244,-6.2573632844716585"/>
+	<measurement timeStamp="2014-08-13T08:34:17Z" loudness="81" location="geo:53.35496977498244,-6.2573632844716585"/>
+	<measurement timeStamp="2014-08-13T08:34:18Z" loudness="84" location="geo:53.35492592767869,-6.257331610272108"/>
+	<measurement timeStamp="2014-08-13T08:34:19Z" loudness="82" location="geo:53.35492592767869,-6.257331610272108"/>
+	<measurement timeStamp="2014-08-13T08:34:20Z" loudness="83" location="geo:53.35492592767869,-6.257331610272108"/>
+	<measurement timeStamp="2014-08-13T08:34:21Z" loudness="83" location="geo:53.35489795082427,-6.257303650617665"/>
+	<measurement timeStamp="2014-08-13T08:34:22Z" loudness="84" location="geo:53.35489795082427,-6.257303650617665"/>
+	<measurement timeStamp="2014-08-13T08:34:23Z" loudness="85" location="geo:53.35486263504016,-6.257250281064125"/>
+	<measurement timeStamp="2014-08-13T08:34:24Z" loudness="83" location="geo:53.35486263504016,-6.257250281064125"/>
+	<measurement timeStamp="2014-08-13T08:34:25Z" loudness="85" location="geo:53.35486263504016,-6.257250281064125"/>
+	<measurement timeStamp="2014-08-13T08:34:26Z" loudness="84" location="geo:53.35483860724408,-6.257216144422934"/>
+	<measurement timeStamp="2014-08-13T08:34:27Z" loudness="84" location="geo:53.35483860724408,-6.257216144422934"/>
+	<measurement timeStamp="2014-08-13T08:34:28Z" loudness="84" location="geo:53.35481030401345,-6.257187151354292"/>
+	<measurement timeStamp="2014-08-13T08:34:29Z" loudness="83" location="geo:53.35481030401345,-6.257187151354292"/>
+	<measurement timeStamp="2014-08-13T08:34:30Z" loudness="82" location="geo:53.354765390007934,-6.2571604198626405"/>
+	<measurement timeStamp="2014-08-13T08:34:31Z" loudness="82" location="geo:53.354765390007934,-6.2571604198626405"/>
+	<measurement timeStamp="2014-08-13T08:34:32Z" loudness="82" location="geo:53.354765390007934,-6.2571604198626405"/>
+	<measurement timeStamp="2014-08-13T08:34:33Z" loudness="85" location="geo:53.35473201703838,-6.257145577105643"/>
+	<measurement timeStamp="2014-08-13T08:34:34Z" loudness="82" location="geo:53.35473201703838,-6.257145577105643"/>
+	<measurement timeStamp="2014-08-13T08:34:35Z" loudness="79" location="geo:53.354696313840556,-6.257125867608421"/>
+	<measurement timeStamp="2014-08-13T08:34:36Z" loudness="81" location="geo:53.354696313840556,-6.257125867608421"/>
+	<measurement timeStamp="2014-08-13T08:34:37Z" loudness="81" location="geo:53.35466223769578,-6.257102368396584"/>
+	<measurement timeStamp="2014-08-13T08:34:38Z" loudness="80" location="geo:53.35466223769578,-6.257102368396584"/>
+	<measurement timeStamp="2014-08-13T08:34:39Z" loudness="80" location="geo:53.35462899888464,-6.257081841778352"/>
+	<measurement timeStamp="2014-08-13T08:34:40Z" loudness="78" location="geo:53.35462899888464,-6.257081841778352"/>
+	<measurement timeStamp="2014-08-13T08:34:41Z" loudness="78" location="geo:53.354596476822906,-6.25706306699544"/>
+	<measurement timeStamp="2014-08-13T08:34:42Z" loudness="78" location="geo:53.354596476822906,-6.25706306699544"/>
+	<measurement timeStamp="2014-08-13T08:34:43Z" loudness="77" location="geo:53.35456435003133,-6.257037526481116"/>
+	<measurement timeStamp="2014-08-13T08:34:44Z" loudness="79" location="geo:53.35456435003133,-6.257037526481116"/>
+	<measurement timeStamp="2014-08-13T08:34:45Z" loudness="77" location="geo:53.35453488889764,-6.257007352345476"/>
+	<measurement timeStamp="2014-08-13T08:34:46Z" loudness="78" location="geo:53.35453488889764,-6.257007352345476"/>
+	<measurement timeStamp="2014-08-13T08:34:47Z" loudness="76" location="geo:53.35449372889109,-6.2569771121740905"/>
+	<measurement timeStamp="2014-08-13T08:34:48Z" loudness="77" location="geo:53.35449372889109,-6.2569771121740905"/>
+	<measurement timeStamp="2014-08-13T08:34:49Z" loudness="76" location="geo:53.35449372889109,-6.2569771121740905"/>
+	<measurement timeStamp="2014-08-13T08:34:50Z" loudness="75" location="geo:53.3544547004092,-6.256946727691499"/>
+	<measurement timeStamp="2014-08-13T08:34:51Z" loudness="76" location="geo:53.3544547004092,-6.256946727691499"/>
+	<measurement timeStamp="2014-08-13T08:34:52Z" loudness="76" location="geo:53.3544547004092,-6.256946727691499"/>
+	<measurement timeStamp="2014-08-13T08:34:53Z" loudness="75" location="geo:53.35441486923322,-6.256910558364886"/>
+	<measurement timeStamp="2014-08-13T08:34:54Z" loudness="75" location="geo:53.35441486923322,-6.256910558364886"/>
+	<measurement timeStamp="2014-08-13T08:34:55Z" loudness="76" location="geo:53.35441486923322,-6.256910558364886"/>
+	<measurement timeStamp="2014-08-13T08:34:56Z" loudness="76" location="geo:53.35438641763907,-6.256889472374995"/>
+	<measurement timeStamp="2014-08-13T08:34:57Z" loudness="75" location="geo:53.35438641763907,-6.256889472374995"/>
+	<measurement timeStamp="2014-08-13T08:34:58Z" loudness="75" location="geo:53.354344479747965,-6.256866753094095"/>
+	<measurement timeStamp="2014-08-13T08:34:59Z" loudness="75" location="geo:53.354344479747965,-6.256866753094095"/>
+	<measurement timeStamp="2014-08-13T08:35:00Z" loudness="75" location="geo:53.354344479747965,-6.256866753094095"/>
+	<measurement timeStamp="2014-08-13T08:35:01Z" loudness="75" location="geo:53.354306874882724,-6.256838914795497"/>
+	<measurement timeStamp="2014-08-13T08:35:02Z" loudness="75" location="geo:53.354306874882724,-6.256838914795497"/>
+	<measurement timeStamp="2014-08-13T08:35:03Z" loudness="78" location="geo:53.354306874882724,-6.256838914795497"/>
+	<measurement timeStamp="2014-08-13T08:35:04Z" loudness="76" location="geo:53.35427054731148,-6.256810703141101"/>
+	<measurement timeStamp="2014-08-13T08:35:05Z" loudness="75" location="geo:53.35427054731148,-6.256810703141101"/>
+	<measurement timeStamp="2014-08-13T08:35:06Z" loudness="75" location="geo:53.35427054731148,-6.256810703141101"/>
+	<measurement timeStamp="2014-08-13T08:35:07Z" loudness="76" location="geo:53.354225461685836,-6.2567845039540275"/>
+	<measurement timeStamp="2014-08-13T08:35:08Z" loudness="75" location="geo:53.354225461685836,-6.2567845039540275"/>
+	<measurement timeStamp="2014-08-13T08:35:09Z" loudness="76" location="geo:53.354225461685836,-6.2567845039540275"/>
+	<measurement timeStamp="2014-08-13T08:35:10Z" loudness="77" location="geo:53.354225461685836,-6.2567845039540275"/>
+	<measurement timeStamp="2014-08-13T08:35:11Z" loudness="79" location="geo:53.354225461685836,-6.2567845039540275"/>
+	<measurement timeStamp="2014-08-13T08:35:12Z" loudness="80" location="geo:53.354225461685836,-6.2567845039540275"/>
+	<measurement timeStamp="2014-08-13T08:35:13Z" loudness="84" location="geo:53.354225461685836,-6.2567845039540275"/>
+	<measurement timeStamp="2014-08-13T08:35:14Z" loudness="82" location="geo:53.354225461685836,-6.2567845039540275"/>
+	<measurement timeStamp="2014-08-13T08:35:15Z" loudness="81" location="geo:53.354225461685836,-6.2567845039540275"/>
+	<measurement timeStamp="2014-08-13T08:35:16Z" loudness="81" location="geo:53.354225461685836,-6.2567845039540275"/>
+	<measurement timeStamp="2014-08-13T08:35:17Z" loudness="82" location="geo:53.354225461685836,-6.2567845039540275"/>
+	<measurement timeStamp="2014-08-13T08:35:18Z" loudness="80" location="geo:53.354225461685836,-6.2567845039540275"/>
+	<measurement timeStamp="2014-08-13T08:35:19Z" loudness="79" location="geo:53.354225461685836,-6.2567845039540275"/>
+	<measurement timeStamp="2014-08-13T08:35:20Z" loudness="78" location="geo:53.354225461685836,-6.2567845039540275"/>
+	<measurement timeStamp="2014-08-13T08:35:21Z" loudness="80" location="geo:53.354225461685836,-6.2567845039540275"/>
+	<measurement timeStamp="2014-08-13T08:35:22Z" loudness="79" location="geo:53.3542025148165,-6.256766167414784"/>
+	<measurement timeStamp="2014-08-13T08:35:23Z" loudness="81" location="geo:53.3542025148165,-6.256766167414784"/>
+	<measurement timeStamp="2014-08-13T08:35:24Z" loudness="80" location="geo:53.3542025148165,-6.256766167414784"/>
+	<measurement timeStamp="2014-08-13T08:35:25Z" loudness="78" location="geo:53.35416354619763,-6.256721489403987"/>
+	<measurement timeStamp="2014-08-13T08:35:26Z" loudness="81" location="geo:53.35416354619763,-6.256721489403987"/>
+	<measurement timeStamp="2014-08-13T08:35:27Z" loudness="83" location="geo:53.35416354619763,-6.256721489403987"/>
+	<measurement timeStamp="2014-08-13T08:35:28Z" loudness="83" location="geo:53.35416354619763,-6.256721489403987"/>
+	<measurement timeStamp="2014-08-13T08:35:29Z" loudness="79" location="geo:53.35416354619763,-6.256721489403987"/>
+	<measurement timeStamp="2014-08-13T08:35:30Z" loudness="81" location="geo:53.35416354619763,-6.256721489403987"/>
+	<measurement timeStamp="2014-08-13T08:35:31Z" loudness="80" location="geo:53.35416354619763,-6.256721489403987"/>
+	<measurement timeStamp="2014-08-13T08:35:32Z" loudness="80" location="geo:53.35416354619763,-6.256721489403987"/>
+	<measurement timeStamp="2014-08-13T08:35:33Z" loudness="80" location="geo:53.35416354619763,-6.256721489403987"/>
+	<measurement timeStamp="2014-08-13T08:35:34Z" loudness="78" location="geo:53.35416354619763,-6.256721489403987"/>
+	<measurement timeStamp="2014-08-13T08:35:35Z" loudness="80" location="geo:53.35416354619763,-6.256721489403987"/>
+	<measurement timeStamp="2014-08-13T08:35:36Z" loudness="78" location="geo:53.35416354619763,-6.256721489403987"/>
+	<measurement timeStamp="2014-08-13T08:35:37Z" loudness="74" location="geo:53.35416354619763,-6.256721489403987"/>
+	<measurement timeStamp="2014-08-13T08:35:38Z" loudness="76" location="geo:53.35416354619763,-6.256721489403987"/>
+	<measurement timeStamp="2014-08-13T08:35:39Z" loudness="77" location="geo:53.35416354619763,-6.256721489403987"/>
+	<measurement timeStamp="2014-08-13T08:35:40Z" loudness="77" location="geo:53.35416354619763,-6.256721489403987"/>
+	<measurement timeStamp="2014-08-13T08:35:41Z" loudness="77" location="geo:53.35416354619763,-6.256721489403987"/>
+	<measurement timeStamp="2014-08-13T08:35:42Z" loudness="81" location="geo:53.35413854025817,-6.256695207481452"/>
+	<measurement timeStamp="2014-08-13T08:35:43Z" loudness="81" location="geo:53.35413854025817,-6.256695207481452"/>
+	<measurement timeStamp="2014-08-13T08:35:44Z" loudness="83" location="geo:53.35413854025817,-6.256695207481452"/>
+	<measurement timeStamp="2014-08-13T08:35:45Z" loudness="83" location="geo:53.354104174375166,-6.256669298725866"/>
+	<measurement timeStamp="2014-08-13T08:35:46Z" loudness="81" location="geo:53.354104174375166,-6.256669298725866"/>
+	<measurement timeStamp="2014-08-13T08:35:47Z" loudness="80" location="geo:53.354104174375166,-6.256669298725866"/>
+	<measurement timeStamp="2014-08-13T08:35:48Z" loudness="83" location="geo:53.354104174375166,-6.256669298725866"/>
+	<measurement timeStamp="2014-08-13T08:35:49Z" loudness="83" location="geo:53.35407932194751,-6.256655310245524"/>
+	<measurement timeStamp="2014-08-13T08:35:50Z" loudness="83" location="geo:53.35407932194751,-6.256655310245524"/>
+	<measurement timeStamp="2014-08-13T08:35:51Z" loudness="82" location="geo:53.35404384183175,-6.256640567445853"/>
+	<measurement timeStamp="2014-08-13T08:35:52Z" loudness="82" location="geo:53.35404384183175,-6.256640567445853"/>
+	<measurement timeStamp="2014-08-13T08:35:53Z" loudness="83" location="geo:53.35400676132673,-6.256624353864979"/>
+	<measurement timeStamp="2014-08-13T08:35:54Z" loudness="83" location="geo:53.35400676132673,-6.256624353864979"/>
+	<measurement timeStamp="2014-08-13T08:35:55Z" loudness="82" location="geo:53.35397051759661,-6.256600724313706"/>
+	<measurement timeStamp="2014-08-13T08:35:56Z" loudness="83" location="geo:53.35397051759661,-6.256600724313706"/>
+	<measurement timeStamp="2014-08-13T08:35:57Z" loudness="84" location="geo:53.353936780545475,-6.256574749855823"/>
+	<measurement timeStamp="2014-08-13T08:35:58Z" loudness="84" location="geo:53.353936780545475,-6.256574749855823"/>
+	<measurement timeStamp="2014-08-13T08:35:59Z" loudness="83" location="geo:53.35389747285083,-6.256543882194815"/>
+	<measurement timeStamp="2014-08-13T08:36:00Z" loudness="84" location="geo:53.35389747285083,-6.256543882194815"/>
+	<measurement timeStamp="2014-08-13T08:36:01Z" loudness="83" location="geo:53.35389747285083,-6.256543882194815"/>
+	<measurement timeStamp="2014-08-13T08:36:02Z" loudness="83" location="geo:53.353859693188205,-6.256529802318997"/>
+	<measurement timeStamp="2014-08-13T08:36:03Z" loudness="84" location="geo:53.353859693188205,-6.256529802318997"/>
+	<measurement timeStamp="2014-08-13T08:36:04Z" loudness="84" location="geo:53.353859693188205,-6.256529802318997"/>
+	<measurement timeStamp="2014-08-13T08:36:05Z" loudness="84" location="geo:53.35382808241047,-6.2565207868391"/>
+	<measurement timeStamp="2014-08-13T08:36:06Z" loudness="82" location="geo:53.35382808241047,-6.2565207868391"/>
+	<measurement timeStamp="2014-08-13T08:36:07Z" loudness="82" location="geo:53.35378388728945,-6.256491147567138"/>
+	<measurement timeStamp="2014-08-13T08:36:08Z" loudness="81" location="geo:53.35378388728945,-6.256491147567138"/>
+	<measurement timeStamp="2014-08-13T08:36:09Z" loudness="82" location="geo:53.35378388728945,-6.256491147567138"/>
+	<measurement timeStamp="2014-08-13T08:36:10Z" loudness="82" location="geo:53.35374272440311,-6.256465767426456"/>
+	<measurement timeStamp="2014-08-13T08:36:11Z" loudness="82" location="geo:53.35374272440311,-6.256465767426456"/>
+	<measurement timeStamp="2014-08-13T08:36:12Z" loudness="81" location="geo:53.35374272440311,-6.256465767426456"/>
+	<measurement timeStamp="2014-08-13T08:36:13Z" loudness="82" location="geo:53.35369755139761,-6.256455620482576"/>
+	<measurement timeStamp="2014-08-13T08:36:14Z" loudness="82" location="geo:53.35369755139761,-6.256455620482576"/>
+	<measurement timeStamp="2014-08-13T08:36:15Z" loudness="80" location="geo:53.35369755139761,-6.256455620482576"/>
+	<measurement timeStamp="2014-08-13T08:36:16Z" loudness="80" location="geo:53.35369755139761,-6.256455620482576"/>
+	<measurement timeStamp="2014-08-13T08:36:17Z" loudness="81" location="geo:53.35366604159199,-6.256438387349657"/>
+	<measurement timeStamp="2014-08-13T08:36:18Z" loudness="83" location="geo:53.35366604159199,-6.256438387349657"/>
+	<measurement timeStamp="2014-08-13T08:36:19Z" loudness="81" location="geo:53.35366604159199,-6.256438387349657"/>
+	<measurement timeStamp="2014-08-13T08:36:20Z" loudness="80" location="geo:53.35362970462602,-6.256407049558776"/>
+	<measurement timeStamp="2014-08-13T08:36:21Z" loudness="80" location="geo:53.35362970462602,-6.256407049558776"/>
+	<measurement timeStamp="2014-08-13T08:36:22Z" loudness="79" location="geo:53.35362970462602,-6.256407049558776"/>
+	<measurement timeStamp="2014-08-13T08:36:23Z" loudness="80" location="geo:53.35362970462602,-6.256407049558776"/>
+	<measurement timeStamp="2014-08-13T08:36:24Z" loudness="80" location="geo:53.353593149232815,-6.256382888166395"/>
+	<measurement timeStamp="2014-08-13T08:36:25Z" loudness="81" location="geo:53.353593149232815,-6.256382888166395"/>
+	<measurement timeStamp="2014-08-13T08:36:26Z" loudness="81" location="geo:53.353593149232815,-6.256382888166395"/>
+	<measurement timeStamp="2014-08-13T08:36:27Z" loudness="82" location="geo:53.353593149232815,-6.256382888166395"/>
+	<measurement timeStamp="2014-08-13T08:36:28Z" loudness="83" location="geo:53.353559402756275,-6.256362888964712"/>
+	<measurement timeStamp="2014-08-13T08:36:29Z" loudness="82" location="geo:53.353559402756275,-6.256362888964712"/>
+	<measurement timeStamp="2014-08-13T08:36:30Z" loudness="80" location="geo:53.353559402756275,-6.256362888964712"/>
+	<measurement timeStamp="2014-08-13T08:36:31Z" loudness="81" location="geo:53.3535324483385,-6.256341382533838"/>
+	<measurement timeStamp="2014-08-13T08:36:32Z" loudness="80" location="geo:53.3535324483385,-6.256341382533838"/>
+	<measurement timeStamp="2014-08-13T08:36:33Z" loudness="91" location="geo:53.35349286133574,-6.256299828486394"/>
+	<measurement timeStamp="2014-08-13T08:36:34Z" loudness="81" location="geo:53.35349286133574,-6.256299828486394"/>
+	<measurement timeStamp="2014-08-13T08:36:35Z" loudness="81" location="geo:53.35346798412502,-6.256272476166487"/>
+	<measurement timeStamp="2014-08-13T08:36:36Z" loudness="80" location="geo:53.3534163935223,-6.2562148505816255"/>
+	<measurement timeStamp="2014-08-13T08:36:37Z" loudness="79" location="geo:53.3534163935223,-6.2562148505816255"/>
+	<measurement timeStamp="2014-08-13T08:36:38Z" loudness="79" location="geo:53.35337869590889,-6.256173402073636"/>
+	<measurement timeStamp="2014-08-13T08:36:39Z" loudness="77" location="geo:53.35337869590889,-6.256173402073636"/>
+	<measurement timeStamp="2014-08-13T08:36:40Z" loudness="77" location="geo:53.35334689550892,-6.256137159880031"/>
+	<measurement timeStamp="2014-08-13T08:36:41Z" loudness="77" location="geo:53.35334689550892,-6.256137159880031"/>
+	<measurement timeStamp="2014-08-13T08:36:42Z" loudness="78" location="geo:53.353299361202694,-6.256095659899091"/>
+	<measurement timeStamp="2014-08-13T08:36:43Z" loudness="79" location="geo:53.353299361202694,-6.256095659899091"/>
+	<measurement timeStamp="2014-08-13T08:36:44Z" loudness="79" location="geo:53.353244795005814,-6.256059366276475"/>
+	<measurement timeStamp="2014-08-13T08:36:45Z" loudness="78" location="geo:53.353244795005814,-6.256059366276475"/>
+	<measurement timeStamp="2014-08-13T08:36:46Z" loudness="77" location="geo:53.353201334836584,-6.256035226395916"/>
+	<measurement timeStamp="2014-08-13T08:36:47Z" loudness="78" location="geo:53.353201334836584,-6.256035226395916"/>
+	<measurement timeStamp="2014-08-13T08:36:48Z" loudness="79" location="geo:53.35315483158128,-6.256004112092765"/>
+	<measurement timeStamp="2014-08-13T08:36:49Z" loudness="77" location="geo:53.35315483158128,-6.256004112092765"/>
+	<measurement timeStamp="2014-08-13T08:36:50Z" loudness="78" location="geo:53.35315483158128,-6.256004112092765"/>
+	<measurement timeStamp="2014-08-13T08:36:51Z" loudness="79" location="geo:53.353124355325,-6.255979619517801"/>
+	<measurement timeStamp="2014-08-13T08:36:52Z" loudness="80" location="geo:53.353124355325,-6.255979619517801"/>
+	<measurement timeStamp="2014-08-13T08:36:53Z" loudness="80" location="geo:53.35309009488777,-6.255950827982002"/>
+	<measurement timeStamp="2014-08-13T08:36:54Z" loudness="80" location="geo:53.35309009488777,-6.255950827982002"/>
+	<measurement timeStamp="2014-08-13T08:36:55Z" loudness="78" location="geo:53.3530560345447,-6.2559225317106275"/>
+	<measurement timeStamp="2014-08-13T08:36:56Z" loudness="79" location="geo:53.3530560345447,-6.2559225317106275"/>
+	<measurement timeStamp="2014-08-13T08:36:57Z" loudness="79" location="geo:53.35301055028999,-6.255888990795878"/>
+	<measurement timeStamp="2014-08-13T08:36:58Z" loudness="79" location="geo:53.35301055028999,-6.255888990795878"/>
+	<measurement timeStamp="2014-08-13T08:36:59Z" loudness="78" location="geo:53.35301055028999,-6.255888990795878"/>
+	<measurement timeStamp="2014-08-13T08:37:00Z" loudness="76" location="geo:53.35296971669143,-6.255864505840454"/>
+	<measurement timeStamp="2014-08-13T08:37:01Z" loudness="76" location="geo:53.35296971669143,-6.255864505840454"/>
+	<measurement timeStamp="2014-08-13T08:37:02Z" loudness="77" location="geo:53.35296971669143,-6.255864505840454"/>
+	<measurement timeStamp="2014-08-13T08:37:03Z" loudness="76" location="geo:53.35293437451018,-6.255843543962881"/>
+	<measurement timeStamp="2014-08-13T08:37:04Z" loudness="76" location="geo:53.35293437451018,-6.255843543962881"/>
+	<measurement timeStamp="2014-08-13T08:37:05Z" loudness="75" location="geo:53.35293437451018,-6.255843543962881"/>
+	<measurement timeStamp="2014-08-13T08:37:06Z" loudness="77" location="geo:53.35289805246223,-6.2558133213543154"/>
+	<measurement timeStamp="2014-08-13T08:37:07Z" loudness="78" location="geo:53.35289805246223,-6.2558133213543154"/>
+	<measurement timeStamp="2014-08-13T08:37:08Z" loudness="77" location="geo:53.35289805246223,-6.2558133213543154"/>
+	<measurement timeStamp="2014-08-13T08:37:09Z" loudness="76" location="geo:53.35289805246223,-6.2558133213543154"/>
+	<measurement timeStamp="2014-08-13T08:37:10Z" loudness="75" location="geo:53.35288963280618,-6.2558055203408"/>
+	<measurement timeStamp="2014-08-13T08:37:11Z" loudness="76" location="geo:53.352849567314806,-6.255763694643937"/>
+	<measurement timeStamp="2014-08-13T08:37:12Z" loudness="78" location="geo:53.352849567314806,-6.255763694643937"/>
+	<measurement timeStamp="2014-08-13T08:37:13Z" loudness="76" location="geo:53.35280627086633,-6.2557440048425175"/>
+	<measurement timeStamp="2014-08-13T08:37:14Z" loudness="77" location="geo:53.35280627086633,-6.2557440048425175"/>
+	<measurement timeStamp="2014-08-13T08:37:15Z" loudness="78" location="geo:53.35280627086633,-6.2557440048425175"/>
+	<measurement timeStamp="2014-08-13T08:37:16Z" loudness="78" location="geo:53.35277547128876,-6.255739387124789"/>
+	<measurement timeStamp="2014-08-13T08:37:17Z" loudness="79" location="geo:53.35277547128876,-6.255739387124789"/>
+	<measurement timeStamp="2014-08-13T08:37:18Z" loudness="79" location="geo:53.35272763856802,-6.255717873577106"/>
+	<measurement timeStamp="2014-08-13T08:37:19Z" loudness="80" location="geo:53.35272763856802,-6.255717873577106"/>
+	<measurement timeStamp="2014-08-13T08:37:20Z" loudness="80" location="geo:53.35272763856802,-6.255717873577106"/>
+	<measurement timeStamp="2014-08-13T08:37:21Z" loudness="79" location="geo:53.352693873466855,-6.255690646350184"/>
+	<measurement timeStamp="2014-08-13T08:37:22Z" loudness="80" location="geo:53.352693873466855,-6.255690646350184"/>
+	<measurement timeStamp="2014-08-13T08:37:23Z" loudness="79" location="geo:53.35266125327612,-6.255660248044902"/>
+	<measurement timeStamp="2014-08-13T08:37:24Z" loudness="80" location="geo:53.35266125327612,-6.255660248044902"/>
+	<measurement timeStamp="2014-08-13T08:37:25Z" loudness="79" location="geo:53.35262932053653,-6.255635498858003"/>
+	<measurement timeStamp="2014-08-13T08:37:26Z" loudness="77" location="geo:53.35262932053653,-6.255635498858003"/>
+	<measurement timeStamp="2014-08-13T08:37:27Z" loudness="79" location="geo:53.35259792863277,-6.255611569636647"/>
+	<measurement timeStamp="2014-08-13T08:37:28Z" loudness="77" location="geo:53.35259792863277,-6.255611569636647"/>
+	<measurement timeStamp="2014-08-13T08:37:29Z" loudness="75" location="geo:53.35256669903703,-6.255586878395764"/>
+	<measurement timeStamp="2014-08-13T08:37:30Z" loudness="77" location="geo:53.35256669903703,-6.255586878395764"/>
+	<measurement timeStamp="2014-08-13T08:37:31Z" loudness="76" location="geo:53.352530184551554,-6.255562954218871"/>
+	<measurement timeStamp="2014-08-13T08:37:32Z" loudness="75" location="geo:53.352530184551554,-6.255562954218871"/>
+	<measurement timeStamp="2014-08-13T08:37:33Z" loudness="77" location="geo:53.3524942876867,-6.255541453066421"/>
+	<measurement timeStamp="2014-08-13T08:37:34Z" loudness="76" location="geo:53.3524942876867,-6.255541453066421"/>
+	<measurement timeStamp="2014-08-13T08:37:35Z" loudness="76" location="geo:53.35246006027433,-6.255523343569699"/>
+	<measurement timeStamp="2014-08-13T08:37:36Z" loudness="75" location="geo:53.35246006027433,-6.255523343569699"/>
+	<measurement timeStamp="2014-08-13T08:37:37Z" loudness="75" location="geo:53.35242411371995,-6.255507791834035"/>
+	<measurement timeStamp="2014-08-13T08:37:38Z" loudness="76" location="geo:53.35242411371995,-6.255507791834035"/>
+	<measurement timeStamp="2014-08-13T08:37:39Z" loudness="76" location="geo:53.35237558077955,-6.255480672543689"/>
+	<measurement timeStamp="2014-08-13T08:37:40Z" loudness="77" location="geo:53.35237558077955,-6.255480672543689"/>
+	<measurement timeStamp="2014-08-13T08:37:41Z" loudness="78" location="geo:53.35237558077955,-6.255480672543689"/>
+	<measurement timeStamp="2014-08-13T08:37:42Z" loudness="77" location="geo:53.352333926606214,-6.2554485071440835"/>
+	<measurement timeStamp="2014-08-13T08:37:43Z" loudness="78" location="geo:53.352333926606214,-6.2554485071440835"/>
+	<measurement timeStamp="2014-08-13T08:37:44Z" loudness="79" location="geo:53.352333926606214,-6.2554485071440835"/>
+	<measurement timeStamp="2014-08-13T08:37:45Z" loudness="77" location="geo:53.35230461788062,-6.255427957508685"/>
+	<measurement timeStamp="2014-08-13T08:37:46Z" loudness="77" location="geo:53.35230461788062,-6.255427957508685"/>
+	<measurement timeStamp="2014-08-13T08:37:47Z" loudness="78" location="geo:53.352271710489624,-6.2554128254113355"/>
+	<measurement timeStamp="2014-08-13T08:37:48Z" loudness="81" location="geo:53.352271710489624,-6.2554128254113355"/>
+	<measurement timeStamp="2014-08-13T08:37:49Z" loudness="81" location="geo:53.35222810507766,-6.255377233038969"/>
+	<measurement timeStamp="2014-08-13T08:37:50Z" loudness="82" location="geo:53.35222810507766,-6.255377233038969"/>
+	<measurement timeStamp="2014-08-13T08:37:51Z" loudness="81" location="geo:53.35222810507766,-6.255377233038969"/>
+	<measurement timeStamp="2014-08-13T08:37:52Z" loudness="78" location="geo:53.3521865076014,-6.255338959541625"/>
+	<measurement timeStamp="2014-08-13T08:37:53Z" loudness="78" location="geo:53.3521865076014,-6.255338959541625"/>
+	<measurement timeStamp="2014-08-13T08:37:54Z" loudness="79" location="geo:53.3521865076014,-6.255338959541625"/>
+	<measurement timeStamp="2014-08-13T08:37:55Z" loudness="80" location="geo:53.3521444118012,-6.2553097395731525"/>
+	<measurement timeStamp="2014-08-13T08:37:56Z" loudness="79" location="geo:53.3521444118012,-6.2553097395731525"/>
+	<measurement timeStamp="2014-08-13T08:37:57Z" loudness="79" location="geo:53.3521444118012,-6.2553097395731525"/>
+	<measurement timeStamp="2014-08-13T08:37:58Z" loudness="80" location="geo:53.35211547277821,-6.255291537346875"/>
+	<measurement timeStamp="2014-08-13T08:37:59Z" loudness="80" location="geo:53.35211547277821,-6.255291537346875"/>
+	<measurement timeStamp="2014-08-13T08:38:00Z" loudness="79" location="geo:53.352085773781695,-6.255270341727259"/>
+	<measurement timeStamp="2014-08-13T08:38:01Z" loudness="80" location="geo:53.352085773781695,-6.255270341727259"/>
+	<measurement timeStamp="2014-08-13T08:38:02Z" loudness="80" location="geo:53.352056220179605,-6.255249213422252"/>
+	<measurement timeStamp="2014-08-13T08:38:03Z" loudness="80" location="geo:53.352056220179605,-6.255249213422252"/>
+	<measurement timeStamp="2014-08-13T08:38:04Z" loudness="79" location="geo:53.35202221060717,-6.255233748815416"/>
+	<measurement timeStamp="2014-08-13T08:38:05Z" loudness="79" location="geo:53.35202221060717,-6.255233748815416"/>
+	<measurement timeStamp="2014-08-13T08:38:06Z" loudness="78" location="geo:53.35198624389451,-6.255223856305987"/>
+	<measurement timeStamp="2014-08-13T08:38:07Z" loudness="78" location="geo:53.35198624389451,-6.255223856305987"/>
+	<measurement timeStamp="2014-08-13T08:38:08Z" loudness="78" location="geo:53.35194186308418,-6.255198279401944"/>
+	<measurement timeStamp="2014-08-13T08:38:09Z" loudness="79" location="geo:53.35194186308418,-6.255198279401944"/>
+	<measurement timeStamp="2014-08-13T08:38:10Z" loudness="79" location="geo:53.35194186308418,-6.255198279401944"/>
+	<measurement timeStamp="2014-08-13T08:38:11Z" loudness="80" location="geo:53.35191187092593,-6.255178474603703"/>
+	<measurement timeStamp="2014-08-13T08:38:12Z" loudness="80" location="geo:53.35191187092593,-6.255178474603703"/>
+	<measurement timeStamp="2014-08-13T08:38:13Z" loudness="79" location="geo:53.35186470402945,-6.255155676026816"/>
+	<measurement timeStamp="2014-08-13T08:38:14Z" loudness="79" location="geo:53.35186470402945,-6.255155676026816"/>
+	<measurement timeStamp="2014-08-13T08:38:15Z" loudness="82" location="geo:53.35186470402945,-6.255155676026816"/>
+	<measurement timeStamp="2014-08-13T08:38:16Z" loudness="80" location="geo:53.351834219504696,-6.255134688755847"/>
+	<measurement timeStamp="2014-08-13T08:38:17Z" loudness="78" location="geo:53.351834219504696,-6.255134688755847"/>
+	<measurement timeStamp="2014-08-13T08:38:18Z" loudness="78" location="geo:53.35179349800347,-6.255095777009291"/>
+	<measurement timeStamp="2014-08-13T08:38:19Z" loudness="82" location="geo:53.35179349800347,-6.255095777009291"/>
+	<measurement timeStamp="2014-08-13T08:38:20Z" loudness="77" location="geo:53.35179349800347,-6.255095777009291"/>
+	<measurement timeStamp="2014-08-13T08:38:21Z" loudness="79" location="geo:53.35176367080327,-6.255074450746459"/>
+	<measurement timeStamp="2014-08-13T08:38:22Z" loudness="77" location="geo:53.35176367080327,-6.255074450746459"/>
+	<measurement timeStamp="2014-08-13T08:38:23Z" loudness="76" location="geo:53.351720366900686,-6.255057573850805"/>
+	<measurement timeStamp="2014-08-13T08:38:24Z" loudness="79" location="geo:53.351720366900686,-6.255057573850805"/>
+	<measurement timeStamp="2014-08-13T08:38:25Z" loudness="78" location="geo:53.351720366900686,-6.255057573850805"/>
+	<measurement timeStamp="2014-08-13T08:38:26Z" loudness="77" location="geo:53.3516825828757,-6.255038715906743"/>
+	<measurement timeStamp="2014-08-13T08:38:27Z" loudness="78" location="geo:53.3516825828757,-6.255038715906743"/>
+	<measurement timeStamp="2014-08-13T08:38:28Z" loudness="77" location="geo:53.3516825828757,-6.255038715906743"/>
+	<measurement timeStamp="2014-08-13T08:38:29Z" loudness="77" location="geo:53.35164097649945,-6.255007152102516"/>
+	<measurement timeStamp="2014-08-13T08:38:30Z" loudness="77" location="geo:53.35164097649945,-6.255007152102516"/>
+	<measurement timeStamp="2014-08-13T08:38:31Z" loudness="76" location="geo:53.35164097649945,-6.255007152102516"/>
+	<measurement timeStamp="2014-08-13T08:38:32Z" loudness="77" location="geo:53.35160072388743,-6.254979374640702"/>
+	<measurement timeStamp="2014-08-13T08:38:33Z" loudness="76" location="geo:53.35160072388743,-6.254979374640702"/>
+	<measurement timeStamp="2014-08-13T08:38:34Z" loudness="76" location="geo:53.35160072388743,-6.254979374640702"/>
+	<measurement timeStamp="2014-08-13T08:38:35Z" loudness="76" location="geo:53.35156538344309,-6.2549681134650355"/>
+	<measurement timeStamp="2014-08-13T08:38:36Z" loudness="76" location="geo:53.35156538344309,-6.2549681134650355"/>
+	<measurement timeStamp="2014-08-13T08:38:37Z" loudness="76" location="geo:53.35156538344309,-6.2549681134650355"/>
+	<measurement timeStamp="2014-08-13T08:38:38Z" loudness="77" location="geo:53.35152702421168,-6.254959869041716"/>
+	<measurement timeStamp="2014-08-13T08:38:39Z" loudness="79" location="geo:53.35152702421168,-6.254959869041716"/>
+	<measurement timeStamp="2014-08-13T08:38:40Z" loudness="79" location="geo:53.35152702421168,-6.254959869041716"/>
+	<measurement timeStamp="2014-08-13T08:38:41Z" loudness="77" location="geo:53.35149339814358,-6.254939383911479"/>
+	<measurement timeStamp="2014-08-13T08:38:42Z" loudness="78" location="geo:53.35149339814358,-6.254939383911479"/>
+	<measurement timeStamp="2014-08-13T08:38:43Z" loudness="78" location="geo:53.35146014113527,-6.254907986153733"/>
+	<measurement timeStamp="2014-08-13T08:38:44Z" loudness="79" location="geo:53.35146014113527,-6.254907986153733"/>
+	<measurement timeStamp="2014-08-13T08:38:45Z" loudness="80" location="geo:53.35143129424485,-6.254879871801205"/>
+	<measurement timeStamp="2014-08-13T08:38:46Z" loudness="79" location="geo:53.35143129424485,-6.254879871801205"/>
+	<measurement timeStamp="2014-08-13T08:38:47Z" loudness="79" location="geo:53.35139931765095,-6.254857279993707"/>
+	<measurement timeStamp="2014-08-13T08:38:48Z" loudness="77" location="geo:53.35139931765095,-6.254857279993707"/>
+	<measurement timeStamp="2014-08-13T08:38:49Z" loudness="77" location="geo:53.351365760904876,-6.2548371590677165"/>
+	<measurement timeStamp="2014-08-13T08:38:50Z" loudness="79" location="geo:53.351365760904876,-6.2548371590677165"/>
+	<measurement timeStamp="2014-08-13T08:38:51Z" loudness="77" location="geo:53.35133464309182,-6.254809331151186"/>
+	<measurement timeStamp="2014-08-13T08:38:52Z" loudness="78" location="geo:53.35133464309182,-6.254809331151186"/>
+	<measurement timeStamp="2014-08-13T08:38:53Z" loudness="77" location="geo:53.35130726867888,-6.254772471232923"/>
+	<measurement timeStamp="2014-08-13T08:38:54Z" loudness="78" location="geo:53.35130726867888,-6.254772471232923"/>
+	<measurement timeStamp="2014-08-13T08:38:55Z" loudness="77" location="geo:53.35127840052194,-6.254739090797054"/>
+	<measurement timeStamp="2014-08-13T08:38:56Z" loudness="77" location="geo:53.35127840052194,-6.254739090797054"/>
+	<measurement timeStamp="2014-08-13T08:38:57Z" loudness="78" location="geo:53.35123656344082,-6.254704721412795"/>
+	<measurement timeStamp="2014-08-13T08:38:58Z" loudness="77" location="geo:53.35123656344082,-6.254704721412795"/>
+	<measurement timeStamp="2014-08-13T08:38:59Z" loudness="77" location="geo:53.35123656344082,-6.254704721412795"/>
+	<measurement timeStamp="2014-08-13T08:39:00Z" loudness="77" location="geo:53.35120207610791,-6.254676158771747"/>
+	<measurement timeStamp="2014-08-13T08:39:01Z" loudness="77" location="geo:53.35120207610791,-6.254676158771747"/>
+	<measurement timeStamp="2014-08-13T08:39:02Z" loudness="77" location="geo:53.35120207610791,-6.254676158771747"/>
+	<measurement timeStamp="2014-08-13T08:39:03Z" loudness="77" location="geo:53.35116445601245,-6.254640590112985"/>
+	<measurement timeStamp="2014-08-13T08:39:04Z" loudness="76" location="geo:53.35116445601245,-6.254640590112985"/>
+	<measurement timeStamp="2014-08-13T08:39:05Z" loudness="76" location="geo:53.35116445601245,-6.254640590112985"/>
+	<measurement timeStamp="2014-08-13T08:39:06Z" loudness="76" location="geo:53.35112447900095,-6.25462459311104"/>
+	<measurement timeStamp="2014-08-13T08:39:07Z" loudness="76" location="geo:53.35112447900095,-6.25462459311104"/>
+	<measurement timeStamp="2014-08-13T08:39:08Z" loudness="75" location="geo:53.35112447900095,-6.25462459311104"/>
+	<measurement timeStamp="2014-08-13T08:39:09Z" loudness="75" location="geo:53.35108594636642,-6.254607207507826"/>
+	<measurement timeStamp="2014-08-13T08:39:10Z" loudness="77" location="geo:53.35108594636642,-6.254607207507826"/>
+	<measurement timeStamp="2014-08-13T08:39:11Z" loudness="75" location="geo:53.35108594636642,-6.254607207507826"/>
+	<measurement timeStamp="2014-08-13T08:39:12Z" loudness="75" location="geo:53.35105696342407,-6.254586072602531"/>
+	<measurement timeStamp="2014-08-13T08:39:13Z" loudness="76" location="geo:53.35105696342407,-6.254586072602531"/>
+	<measurement timeStamp="2014-08-13T08:39:14Z" loudness="75" location="geo:53.351024554582345,-6.254562777467296"/>
+	<measurement timeStamp="2014-08-13T08:39:15Z" loudness="76" location="geo:53.351024554582345,-6.254562777467296"/>
+	<measurement timeStamp="2014-08-13T08:39:16Z" loudness="76" location="geo:53.350987632344804,-6.254534594306802"/>
+	<measurement timeStamp="2014-08-13T08:39:17Z" loudness="76" location="geo:53.350987632344804,-6.254534594306802"/>
+	<measurement timeStamp="2014-08-13T08:39:18Z" loudness="76" location="geo:53.350987632344804,-6.254534594306802"/>
+	<measurement timeStamp="2014-08-13T08:39:19Z" loudness="77" location="geo:53.35096045398153,-6.254502804957178"/>
+	<measurement timeStamp="2014-08-13T08:39:20Z" loudness="75" location="geo:53.35096045398153,-6.254502804957178"/>
+	<measurement timeStamp="2014-08-13T08:39:21Z" loudness="75" location="geo:53.35096045398153,-6.254502804957178"/>
+	<measurement timeStamp="2014-08-13T08:39:22Z" loudness="75" location="geo:53.35093516158879,-6.254473426375309"/>
+	<measurement timeStamp="2014-08-13T08:39:23Z" loudness="77" location="geo:53.35093516158879,-6.254473426375309"/>
+	<measurement timeStamp="2014-08-13T08:39:24Z" loudness="75" location="geo:53.35088736011625,-6.254430589164757"/>
+	<measurement timeStamp="2014-08-13T08:39:25Z" loudness="76" location="geo:53.35088736011625,-6.254430589164757"/>
+	<measurement timeStamp="2014-08-13T08:39:26Z" loudness="76" location="geo:53.35088736011625,-6.254430589164757"/>
+	<measurement timeStamp="2014-08-13T08:39:27Z" loudness="77" location="geo:53.35085507250412,-6.254400378093819"/>
+	<measurement timeStamp="2014-08-13T08:39:28Z" loudness="78" location="geo:53.35085507250412,-6.254400378093819"/>
+	<measurement timeStamp="2014-08-13T08:39:29Z" loudness="77" location="geo:53.35081586615403,-6.2543522101015645"/>
+	<measurement timeStamp="2014-08-13T08:39:30Z" loudness="78" location="geo:53.35081586615403,-6.2543522101015645"/>
+	<measurement timeStamp="2014-08-13T08:39:31Z" loudness="78" location="geo:53.35081586615403,-6.2543522101015645"/>
+	<measurement timeStamp="2014-08-13T08:39:32Z" loudness="78" location="geo:53.35079385825408,-6.254317177802767"/>
+	<measurement timeStamp="2014-08-13T08:39:33Z" loudness="77" location="geo:53.35079385825408,-6.254317177802767"/>
+	<measurement timeStamp="2014-08-13T08:39:34Z" loudness="77" location="geo:53.350767649250436,-6.254282821904034"/>
+	<measurement timeStamp="2014-08-13T08:39:35Z" loudness="79" location="geo:53.350767649250436,-6.254282821904034"/>
+	<measurement timeStamp="2014-08-13T08:39:36Z" loudness="78" location="geo:53.35072387025118,-6.254266268312195"/>
+	<measurement timeStamp="2014-08-13T08:39:37Z" loudness="78" location="geo:53.35072387025118,-6.254266268312195"/>
+	<measurement timeStamp="2014-08-13T08:39:38Z" loudness="78" location="geo:53.35072387025118,-6.254266268312195"/>
+	<measurement timeStamp="2014-08-13T08:39:39Z" loudness="77" location="geo:53.350684054512186,-6.254273244248323"/>
+	<measurement timeStamp="2014-08-13T08:39:40Z" loudness="77" location="geo:53.350684054512186,-6.254273244248323"/>
+	<measurement timeStamp="2014-08-13T08:39:41Z" loudness="80" location="geo:53.350684054512186,-6.254273244248323"/>
+	<measurement timeStamp="2014-08-13T08:39:42Z" loudness="77" location="geo:53.350684054512186,-6.254273244248323"/>
+	<measurement timeStamp="2014-08-13T08:39:43Z" loudness="78" location="geo:53.35064525755274,-6.254261604100661"/>
+	<measurement timeStamp="2014-08-13T08:39:44Z" loudness="78" location="geo:53.35064525755274,-6.254261604100661"/>
+	<measurement timeStamp="2014-08-13T08:39:45Z" loudness="78" location="geo:53.35064525755274,-6.254261604100661"/>
+	<measurement timeStamp="2014-08-13T08:39:46Z" loudness="77" location="geo:53.35061399285258,-6.254238969079957"/>
+	<measurement timeStamp="2014-08-13T08:39:47Z" loudness="76" location="geo:53.35061399285258,-6.254238969079957"/>
+	<measurement timeStamp="2014-08-13T08:39:48Z" loudness="78" location="geo:53.35058113095189,-6.254206798042016"/>
+	<measurement timeStamp="2014-08-13T08:39:49Z" loudness="76" location="geo:53.35058113095189,-6.254206798042016"/>
+	<measurement timeStamp="2014-08-13T08:39:50Z" loudness="76" location="geo:53.350551459013865,-6.2541746953518045"/>
+	<measurement timeStamp="2014-08-13T08:39:51Z" loudness="76" location="geo:53.350551459013865,-6.2541746953518045"/>
+	<measurement timeStamp="2014-08-13T08:39:52Z" loudness="78" location="geo:53.35051841644997,-6.254137588362836"/>
+	<measurement timeStamp="2014-08-13T08:39:53Z" loudness="77" location="geo:53.35051841644997,-6.254137588362836"/>
+	<measurement timeStamp="2014-08-13T08:39:54Z" loudness="77" location="geo:53.35051841644997,-6.254137588362836"/>
+	<measurement timeStamp="2014-08-13T08:39:55Z" loudness="77" location="geo:53.35047978928999,-6.254104811544213"/>
+	<measurement timeStamp="2014-08-13T08:39:56Z" loudness="79" location="geo:53.35047978928999,-6.254104811544213"/>
+	<measurement timeStamp="2014-08-13T08:39:57Z" loudness="78" location="geo:53.35047978928999,-6.254104811544213"/>
+	<measurement timeStamp="2014-08-13T08:39:58Z" loudness="78" location="geo:53.350448537723864,-6.254081787987763"/>
+	<measurement timeStamp="2014-08-13T08:39:59Z" loudness="79" location="geo:53.350448537723864,-6.254081787987763"/>
+	<measurement timeStamp="2014-08-13T08:40:00Z" loudness="79" location="geo:53.3504149261232,-6.254059742537168"/>
+	<measurement timeStamp="2014-08-13T08:40:01Z" loudness="79" location="geo:53.3504149261232,-6.254059742537168"/>
+	<measurement timeStamp="2014-08-13T08:40:02Z" loudness="79" location="geo:53.35038071087012,-6.254040161006765"/>
+	<measurement timeStamp="2014-08-13T08:40:03Z" loudness="80" location="geo:53.35038071087012,-6.254040161006765"/>
+	<measurement timeStamp="2014-08-13T08:40:04Z" loudness="79" location="geo:53.35034425836542,-6.25402310863001"/>
+	<measurement timeStamp="2014-08-13T08:40:05Z" loudness="79" location="geo:53.35034425836542,-6.25402310863001"/>
+	<measurement timeStamp="2014-08-13T08:40:06Z" loudness="79" location="geo:53.35030861432207,-6.254007476380793"/>
+	<measurement timeStamp="2014-08-13T08:40:07Z" loudness="79" location="geo:53.35030861432207,-6.254007476380793"/>
+	<measurement timeStamp="2014-08-13T08:40:08Z" loudness="79" location="geo:53.35027496943261,-6.253990130428715"/>
+	<measurement timeStamp="2014-08-13T08:40:09Z" loudness="78" location="geo:53.35027496943261,-6.253990130428715"/>
+	<measurement timeStamp="2014-08-13T08:40:10Z" loudness="79" location="geo:53.350230059603675,-6.25397038822618"/>
+	<measurement timeStamp="2014-08-13T08:40:11Z" loudness="79" location="geo:53.350230059603675,-6.25397038822618"/>
+	<measurement timeStamp="2014-08-13T08:40:12Z" loudness="79" location="geo:53.350230059603675,-6.25397038822618"/>
+	<measurement timeStamp="2014-08-13T08:40:13Z" loudness="79" location="geo:53.35019830847745,-6.253956556318999"/>
+	<measurement timeStamp="2014-08-13T08:40:14Z" loudness="79" location="geo:53.35019830847745,-6.253956556318999"/>
+	<measurement timeStamp="2014-08-13T08:40:15Z" loudness="80" location="geo:53.35015840074353,-6.2539424774856895"/>
+	<measurement timeStamp="2014-08-13T08:40:16Z" loudness="80" location="geo:53.35015840074353,-6.2539424774856895"/>
+	<measurement timeStamp="2014-08-13T08:40:17Z" loudness="80" location="geo:53.350109337082934,-6.2539276651432685"/>
+	<measurement timeStamp="2014-08-13T08:40:18Z" loudness="78" location="geo:53.350109337082934,-6.2539276651432685"/>
+	<measurement timeStamp="2014-08-13T08:40:19Z" loudness="78" location="geo:53.350109337082934,-6.2539276651432685"/>
+	<measurement timeStamp="2014-08-13T08:40:20Z" loudness="79" location="geo:53.35007562175127,-6.2539140895058445"/>
+	<measurement timeStamp="2014-08-13T08:40:21Z" loudness="81" location="geo:53.35007562175127,-6.2539140895058445"/>
+	<measurement timeStamp="2014-08-13T08:40:22Z" loudness="81" location="geo:53.35007562175127,-6.2539140895058445"/>
+	<measurement timeStamp="2014-08-13T08:40:23Z" loudness="79" location="geo:53.35004371798129,-6.253892638650051"/>
+	<measurement timeStamp="2014-08-13T08:40:24Z" loudness="80" location="geo:53.35004371798129,-6.253892638650051"/>
+	<measurement timeStamp="2014-08-13T08:40:25Z" loudness="80" location="geo:53.35004371798129,-6.253892638650051"/>
+	<measurement timeStamp="2014-08-13T08:40:26Z" loudness="80" location="geo:53.35004371798129,-6.253892638650051"/>
+	<measurement timeStamp="2014-08-13T08:40:27Z" loudness="80" location="geo:53.3500253534678,-6.2538662516921635"/>
+	<measurement timeStamp="2014-08-13T08:40:28Z" loudness="80" location="geo:53.3500253534678,-6.2538662516921635"/>
+	<measurement timeStamp="2014-08-13T08:40:29Z" loudness="78" location="geo:53.34999354893892,-6.253815168793629"/>
+	<measurement timeStamp="2014-08-13T08:40:30Z" loudness="80" location="geo:53.34999354893892,-6.253815168793629"/>
+	<measurement timeStamp="2014-08-13T08:40:31Z" loudness="79" location="geo:53.34996008022365,-6.253766966598097"/>
+	<measurement timeStamp="2014-08-13T08:40:32Z" loudness="80" location="geo:53.34996008022365,-6.253766966598097"/>
+	<measurement timeStamp="2014-08-13T08:40:33Z" loudness="81" location="geo:53.34993147494902,-6.25371344726954"/>
+	<measurement timeStamp="2014-08-13T08:40:34Z" loudness="81" location="geo:53.34993147494902,-6.25371344726954"/>
+	<measurement timeStamp="2014-08-13T08:40:35Z" loudness="81" location="geo:53.34993147494902,-6.25371344726954"/>
+	<measurement timeStamp="2014-08-13T08:40:36Z" loudness="81" location="geo:53.34990589073001,-6.253659094779748"/>
+	<measurement timeStamp="2014-08-13T08:40:37Z" loudness="80" location="geo:53.34990589073001,-6.253659094779748"/>
+	<measurement timeStamp="2014-08-13T08:40:38Z" loudness="81" location="geo:53.34990589073001,-6.253659094779748"/>
+	<measurement timeStamp="2014-08-13T08:40:39Z" loudness="80" location="geo:53.34987197168728,-6.2536233139638435"/>
+	<measurement timeStamp="2014-08-13T08:40:40Z" loudness="80" location="geo:53.34987197168728,-6.2536233139638435"/>
+	<measurement timeStamp="2014-08-13T08:40:41Z" loudness="80" location="geo:53.34987197168728,-6.2536233139638435"/>
+	<measurement timeStamp="2014-08-13T08:40:42Z" loudness="81" location="geo:53.34982999472158,-6.2536090421567145"/>
+	<measurement timeStamp="2014-08-13T08:40:43Z" loudness="80" location="geo:53.34982999472158,-6.2536090421567145"/>
+	<measurement timeStamp="2014-08-13T08:40:44Z" loudness="79" location="geo:53.34982999472158,-6.2536090421567145"/>
+	<measurement timeStamp="2014-08-13T08:40:45Z" loudness="79" location="geo:53.34982999472158,-6.2536090421567145"/>
+	<measurement timeStamp="2014-08-13T08:40:46Z" loudness="78" location="geo:53.349791150549095,-6.253589652480041"/>
+	<measurement timeStamp="2014-08-13T08:40:47Z" loudness="76" location="geo:53.349791150549095,-6.253589652480041"/>
+	<measurement timeStamp="2014-08-13T08:40:48Z" loudness="77" location="geo:53.349791150549095,-6.253589652480041"/>
+	<measurement timeStamp="2014-08-13T08:40:49Z" loudness="77" location="geo:53.34975478007206,-6.2535709887757625"/>
+	<measurement timeStamp="2014-08-13T08:40:50Z" loudness="76" location="geo:53.34975478007206,-6.2535709887757625"/>
+	<measurement timeStamp="2014-08-13T08:40:51Z" loudness="77" location="geo:53.349713678176236,-6.253557366314595"/>
+	<measurement timeStamp="2014-08-13T08:40:52Z" loudness="76" location="geo:53.349713678176236,-6.253557366314595"/>
+	<measurement timeStamp="2014-08-13T08:40:53Z" loudness="77" location="geo:53.34967076974213,-6.2535498626084705"/>
+	<measurement timeStamp="2014-08-13T08:40:54Z" loudness="77" location="geo:53.34967076974213,-6.2535498626084705"/>
+	<measurement timeStamp="2014-08-13T08:40:55Z" loudness="78" location="geo:53.34962933599888,-6.253539427578242"/>
+	<measurement timeStamp="2014-08-13T08:40:56Z" loudness="78" location="geo:53.34962933599888,-6.253539427578242"/>
+	<measurement timeStamp="2014-08-13T08:40:57Z" loudness="79" location="geo:53.349598520443784,-6.253515584397304"/>
+	<measurement timeStamp="2014-08-13T08:40:58Z" loudness="81" location="geo:53.349598520443784,-6.253515584397304"/>
+	<measurement timeStamp="2014-08-13T08:40:59Z" loudness="81" location="geo:53.34956263193702,-6.253466159107511"/>
+	<measurement timeStamp="2014-08-13T08:41:00Z" loudness="81" location="geo:53.34956263193702,-6.253466159107511"/>
+	<measurement timeStamp="2014-08-13T08:41:01Z" loudness="80" location="geo:53.34956263193702,-6.253466159107511"/>
+	<measurement timeStamp="2014-08-13T08:41:02Z" loudness="80" location="geo:53.3495382169882,-6.253414678089736"/>
+	<measurement timeStamp="2014-08-13T08:41:03Z" loudness="80" location="geo:53.3495382169882,-6.253414678089736"/>
+	<measurement timeStamp="2014-08-13T08:41:04Z" loudness="81" location="geo:53.3495382169882,-6.253414678089736"/>
+	<measurement timeStamp="2014-08-13T08:41:05Z" loudness="80" location="geo:53.34951155432214,-6.253366932406495"/>
+	<measurement timeStamp="2014-08-13T08:41:06Z" loudness="82" location="geo:53.34951155432214,-6.253366932406495"/>
+	<measurement timeStamp="2014-08-13T08:41:07Z" loudness="82" location="geo:53.34951155432214,-6.253366932406495"/>
+	<measurement timeStamp="2014-08-13T08:41:08Z" loudness="81" location="geo:53.34948911278805,-6.25332267067812"/>
+	<measurement timeStamp="2014-08-13T08:41:09Z" loudness="80" location="geo:53.34948911278805,-6.25332267067812"/>
+	<measurement timeStamp="2014-08-13T08:41:10Z" loudness="79" location="geo:53.34948911278805,-6.25332267067812"/>
+	<measurement timeStamp="2014-08-13T08:41:11Z" loudness="80" location="geo:53.3494527769155,-6.253296627111669"/>
+	<measurement timeStamp="2014-08-13T08:41:12Z" loudness="80" location="geo:53.3494527769155,-6.253296627111669"/>
+	<measurement timeStamp="2014-08-13T08:41:13Z" loudness="82" location="geo:53.3494527769155,-6.253296627111669"/>
+	<measurement timeStamp="2014-08-13T08:41:14Z" loudness="81" location="geo:53.3494527769155,-6.253296627111669"/>
+	<measurement timeStamp="2014-08-13T08:41:15Z" loudness="80" location="geo:53.3494527769155,-6.253296627111669"/>
+	<measurement timeStamp="2014-08-13T08:41:16Z" loudness="81" location="geo:53.3494527769155,-6.253296627111669"/>
+	<measurement timeStamp="2014-08-13T08:41:17Z" loudness="80" location="geo:53.3494527769155,-6.253296627111669"/>
+	<measurement timeStamp="2014-08-13T08:41:18Z" loudness="81" location="geo:53.3494527769155,-6.253296627111669"/>
+	<measurement timeStamp="2014-08-13T08:41:19Z" loudness="82" location="geo:53.3494527769155,-6.253296627111669"/>
+	<measurement timeStamp="2014-08-13T08:41:20Z" loudness="80" location="geo:53.3494527769155,-6.253296627111669"/>
+	<measurement timeStamp="2014-08-13T08:41:21Z" loudness="78" location="geo:53.3494527769155,-6.253296627111669"/>
+	<measurement timeStamp="2014-08-13T08:41:22Z" loudness="81" location="geo:53.3494527769155,-6.253296627111669"/>
+	<measurement timeStamp="2014-08-13T08:41:23Z" loudness="82" location="geo:53.3494527769155,-6.253296627111669"/>
+	<measurement timeStamp="2014-08-13T08:41:24Z" loudness="80" location="geo:53.3494527769155,-6.253296627111669"/>
+	<measurement timeStamp="2014-08-13T08:41:25Z" loudness="77" location="geo:53.3494527769155,-6.253296627111669"/>
+	<measurement timeStamp="2014-08-13T08:41:26Z" loudness="77" location="geo:53.34945917043348,-6.253246463235503"/>
+	<measurement timeStamp="2014-08-13T08:41:27Z" loudness="76" location="geo:53.34945917043348,-6.253246463235503"/>
+	<measurement timeStamp="2014-08-13T08:41:28Z" loudness="76" location="geo:53.34945917043348,-6.253246463235503"/>
+	<measurement timeStamp="2014-08-13T08:41:29Z" loudness="75" location="geo:53.34945917043348,-6.253246463235503"/>
+	<measurement timeStamp="2014-08-13T08:41:30Z" loudness="75" location="geo:53.34945917043348,-6.253246463235503"/>
+	<measurement timeStamp="2014-08-13T08:41:31Z" loudness="78" location="geo:53.34948100614387,-6.253197910295398"/>
+	<measurement timeStamp="2014-08-13T08:41:32Z" loudness="78" location="geo:53.34948100614387,-6.253197910295398"/>
+	<measurement timeStamp="2014-08-13T08:41:33Z" loudness="78" location="geo:53.34948100614387,-6.253197910295398"/>
+	<measurement timeStamp="2014-08-13T08:41:34Z" loudness="79" location="geo:53.349489010262126,-6.253144813264989"/>
+	<measurement timeStamp="2014-08-13T08:41:35Z" loudness="77" location="geo:53.349489010262126,-6.253144813264989"/>
+	<measurement timeStamp="2014-08-13T08:41:36Z" loudness="75" location="geo:53.349489010262126,-6.253144813264989"/>
+	<measurement timeStamp="2014-08-13T08:41:37Z" loudness="76" location="geo:53.34949415844635,-6.253073821720303"/>
+	<measurement timeStamp="2014-08-13T08:41:38Z" loudness="75" location="geo:53.34949415844635,-6.253073821720303"/>
+	<measurement timeStamp="2014-08-13T08:41:39Z" loudness="76" location="geo:53.34949415844635,-6.253073821720303"/>
+	<measurement timeStamp="2014-08-13T08:41:40Z" loudness="76" location="geo:53.34949415844635,-6.253073821720303"/>
+	<measurement timeStamp="2014-08-13T08:41:41Z" loudness="77" location="geo:53.34949415844635,-6.253073821720303"/>
+	<measurement timeStamp="2014-08-13T08:41:42Z" loudness="78" location="geo:53.34949415844635,-6.253073821720303"/>
+	<measurement timeStamp="2014-08-13T08:41:43Z" loudness="81" location="geo:53.34949415844635,-6.253073821720303"/>
+	<measurement timeStamp="2014-08-13T08:41:44Z" loudness="84" location="geo:53.349507243509755,-6.253017544825672"/>
+	<measurement timeStamp="2014-08-13T08:41:45Z" loudness="80" location="geo:53.349507243509755,-6.253017544825672"/>
+	<measurement timeStamp="2014-08-13T08:41:46Z" loudness="79" location="geo:53.349507243509755,-6.253017544825672"/>
+	<measurement timeStamp="2014-08-13T08:41:47Z" loudness="80" location="geo:53.349507243509755,-6.253017544825672"/>
+	<measurement timeStamp="2014-08-13T08:41:48Z" loudness="80" location="geo:53.34951168392303,-6.25296627641177"/>
+	<measurement timeStamp="2014-08-13T08:41:49Z" loudness="79" location="geo:53.34951168392303,-6.25296627641177"/>
+	<measurement timeStamp="2014-08-13T08:41:50Z" loudness="80" location="geo:53.34951095050888,-6.252894401590789"/>
+	<measurement timeStamp="2014-08-13T08:41:51Z" loudness="79" location="geo:53.34951095050888,-6.252894401590789"/>
+	<measurement timeStamp="2014-08-13T08:41:52Z" loudness="79" location="geo:53.349501831216415,-6.252822005856196"/>
+	<measurement timeStamp="2014-08-13T08:41:53Z" loudness="78" location="geo:53.349501831216415,-6.252822005856196"/>
+	<measurement timeStamp="2014-08-13T08:41:54Z" loudness="79" location="geo:53.34949007957115,-6.252752118780623"/>
+	<measurement timeStamp="2014-08-13T08:41:55Z" loudness="79" location="geo:53.34949007957115,-6.252752118780623"/>
+	<measurement timeStamp="2014-08-13T08:41:56Z" loudness="78" location="geo:53.34948448374948,-6.252685466291986"/>
+	<measurement timeStamp="2014-08-13T08:41:57Z" loudness="78" location="geo:53.34948448374948,-6.252685466291986"/>
+	<measurement timeStamp="2014-08-13T08:41:58Z" loudness="79" location="geo:53.34948016797157,-6.252614068841273"/>
+	<measurement timeStamp="2014-08-13T08:41:59Z" loudness="78" location="geo:53.34948016797157,-6.252614068841273"/>
+	<measurement timeStamp="2014-08-13T08:42:00Z" loudness="78" location="geo:53.349475431083505,-6.252544651320605"/>
+	<measurement timeStamp="2014-08-13T08:42:01Z" loudness="77" location="geo:53.349475431083505,-6.252544651320605"/>
+	<measurement timeStamp="2014-08-13T08:42:02Z" loudness="77" location="geo:53.34945262314294,-6.252485266530199"/>
+	<measurement timeStamp="2014-08-13T08:42:03Z" loudness="80" location="geo:53.34945262314294,-6.252485266530199"/>
+	<measurement timeStamp="2014-08-13T08:42:04Z" loudness="80" location="geo:53.349432055838406,-6.2524566147476435"/>
+	<measurement timeStamp="2014-08-13T08:42:05Z" loudness="79" location="geo:53.34937710450302,-6.252391714559325"/>
+	<measurement timeStamp="2014-08-13T08:42:06Z" loudness="80" location="geo:53.34937710450302,-6.252391714559325"/>
+	<measurement timeStamp="2014-08-13T08:42:07Z" loudness="77" location="geo:53.349351128563285,-6.252356367185712"/>
+	<measurement timeStamp="2014-08-13T08:42:08Z" loudness="78" location="geo:53.349322588182986,-6.252313535660505"/>
+	<measurement timeStamp="2014-08-13T08:42:09Z" loudness="77" location="geo:53.349274685618965,-6.252247863450087"/>
+	<measurement timeStamp="2014-08-13T08:42:10Z" loudness="77" location="geo:53.349274685618965,-6.252247863450087"/>
+	<measurement timeStamp="2014-08-13T08:42:11Z" loudness="81" location="geo:53.3492447831775,-6.252198494052131"/>
+	<measurement timeStamp="2014-08-13T08:42:12Z" loudness="80" location="geo:53.3492447831775,-6.252198494052131"/>
+	<measurement timeStamp="2014-08-13T08:42:13Z" loudness="77" location="geo:53.34922176443786,-6.252145367794153"/>
+	<measurement timeStamp="2014-08-13T08:42:14Z" loudness="76" location="geo:53.34922176443786,-6.252145367794153"/>
+	<measurement timeStamp="2014-08-13T08:42:15Z" loudness="76" location="geo:53.349198263615385,-6.252094097445711"/>
+	<measurement timeStamp="2014-08-13T08:42:16Z" loudness="79" location="geo:53.349198263615385,-6.252094097445711"/>
+	<measurement timeStamp="2014-08-13T08:42:17Z" loudness="80" location="geo:53.349174139178736,-6.252050208440406"/>
+	<measurement timeStamp="2014-08-13T08:42:18Z" loudness="77" location="geo:53.349174139178736,-6.252050208440406"/>
+	<measurement timeStamp="2014-08-13T08:42:19Z" loudness="77" location="geo:53.34914111005073,-6.25200597411826"/>
+	<measurement timeStamp="2014-08-13T08:42:20Z" loudness="77" location="geo:53.34914111005073,-6.25200597411826"/>
+	<measurement timeStamp="2014-08-13T08:42:21Z" loudness="80" location="geo:53.3491002411097,-6.251935755743415"/>
+	<measurement timeStamp="2014-08-13T08:42:22Z" loudness="80" location="geo:53.3491002411097,-6.251935755743415"/>
+	<measurement timeStamp="2014-08-13T08:42:23Z" loudness="80" location="geo:53.3491002411097,-6.251935755743415"/>
+	<measurement timeStamp="2014-08-13T08:42:24Z" loudness="79" location="geo:53.34909082856029,-6.251913048326969"/>
+	<measurement timeStamp="2014-08-13T08:42:25Z" loudness="80" location="geo:53.349050374276814,-6.251844289344557"/>
+	<measurement timeStamp="2014-08-13T08:42:26Z" loudness="78" location="geo:53.349050374276814,-6.251844289344557"/>
+	<measurement timeStamp="2014-08-13T08:42:27Z" loudness="79" location="geo:53.34900671618158,-6.25178572720602"/>
+	<measurement timeStamp="2014-08-13T08:42:28Z" loudness="77" location="geo:53.34900671618158,-6.25178572720602"/>
+	<measurement timeStamp="2014-08-13T08:42:29Z" loudness="80" location="geo:53.3489602073812,-6.251728911565399"/>
+	<measurement timeStamp="2014-08-13T08:42:30Z" loudness="79" location="geo:53.3489602073812,-6.251728911565399"/>
+	<measurement timeStamp="2014-08-13T08:42:31Z" loudness="80" location="geo:53.34891792027256,-6.251688629333354"/>
+	<measurement timeStamp="2014-08-13T08:42:32Z" loudness="78" location="geo:53.34891792027256,-6.251688629333354"/>
+	<measurement timeStamp="2014-08-13T08:42:33Z" loudness="79" location="geo:53.34887306097183,-6.2516575531807"/>
+	<measurement timeStamp="2014-08-13T08:42:34Z" loudness="79" location="geo:53.34887306097183,-6.2516575531807"/>
+	<measurement timeStamp="2014-08-13T08:42:35Z" loudness="78" location="geo:53.34882895696164,-6.251621902913792"/>
+	<measurement timeStamp="2014-08-13T08:42:36Z" loudness="79" location="geo:53.34882895696164,-6.251621902913792"/>
+	<measurement timeStamp="2014-08-13T08:42:37Z" loudness="79" location="geo:53.34878873396893,-6.251591315527231"/>
+	<measurement timeStamp="2014-08-13T08:42:38Z" loudness="78" location="geo:53.34878873396893,-6.251591315527231"/>
+	<measurement timeStamp="2014-08-13T08:42:39Z" loudness="80" location="geo:53.348750586161835,-6.251564780248809"/>
+	<measurement timeStamp="2014-08-13T08:42:40Z" loudness="82" location="geo:53.348750586161835,-6.251564780248809"/>
+	<measurement timeStamp="2014-08-13T08:42:41Z" loudness="82" location="geo:53.34871714236812,-6.251537203793114"/>
+	<measurement timeStamp="2014-08-13T08:42:42Z" loudness="82" location="geo:53.34871714236812,-6.251537203793114"/>
+	<measurement timeStamp="2014-08-13T08:42:43Z" loudness="83" location="geo:53.348680303998066,-6.2515053305177615"/>
+	<measurement timeStamp="2014-08-13T08:42:44Z" loudness="84" location="geo:53.348680303998066,-6.2515053305177615"/>
+	<measurement timeStamp="2014-08-13T08:42:45Z" loudness="83" location="geo:53.348680303998066,-6.2515053305177615"/>
+	<measurement timeStamp="2014-08-13T08:42:46Z" loudness="84" location="geo:53.3486427973951,-6.2514924996476235"/>
+	<measurement timeStamp="2014-08-13T08:42:47Z" loudness="83" location="geo:53.3486427973951,-6.2514924996476235"/>
+	<measurement timeStamp="2014-08-13T08:42:48Z" loudness="83" location="geo:53.3486427973951,-6.2514924996476235"/>
+	<measurement timeStamp="2014-08-13T08:42:49Z" loudness="82" location="geo:53.34860764390758,-6.251497830683388"/>
+	<measurement timeStamp="2014-08-13T08:42:50Z" loudness="81" location="geo:53.34860764390758,-6.251497830683388"/>
+	<measurement timeStamp="2014-08-13T08:42:51Z" loudness="81" location="geo:53.34860764390758,-6.251497830683388"/>
+	<measurement timeStamp="2014-08-13T08:42:52Z" loudness="81" location="geo:53.34857013077297,-6.251502726229183"/>
+	<measurement timeStamp="2014-08-13T08:42:53Z" loudness="80" location="geo:53.34857013077297,-6.251502726229183"/>
+	<measurement timeStamp="2014-08-13T08:42:54Z" loudness="80" location="geo:53.34857013077297,-6.251502726229183"/>
+	<measurement timeStamp="2014-08-13T08:42:55Z" loudness="80" location="geo:53.34853989856427,-6.251503005460995"/>
+	<measurement timeStamp="2014-08-13T08:42:56Z" loudness="80" location="geo:53.34853989856427,-6.251503005460995"/>
+	<measurement timeStamp="2014-08-13T08:42:57Z" loudness="80" location="geo:53.348505560669324,-6.251500695685621"/>
+	<measurement timeStamp="2014-08-13T08:42:58Z" loudness="81" location="geo:53.348505560669324,-6.251500695685621"/>
+	<measurement timeStamp="2014-08-13T08:42:59Z" loudness="80" location="geo:53.34847202523796,-6.2514999516760215"/>
+	<measurement timeStamp="2014-08-13T08:43:00Z" loudness="79" location="geo:53.34847202523796,-6.2514999516760215"/>
+	<measurement timeStamp="2014-08-13T08:43:01Z" loudness="80" location="geo:53.34843900590383,-6.25150174775011"/>
+	<measurement timeStamp="2014-08-13T08:43:02Z" loudness="80" location="geo:53.34843900590383,-6.25150174775011"/>
+	<measurement timeStamp="2014-08-13T08:43:03Z" loudness="79" location="geo:53.348404912618804,-6.251510792329996"/>
+	<measurement timeStamp="2014-08-13T08:43:04Z" loudness="78" location="geo:53.348404912618804,-6.251510792329996"/>
+	<measurement timeStamp="2014-08-13T08:43:05Z" loudness="81" location="geo:53.34837208036927,-6.251527774151615"/>
+	<measurement timeStamp="2014-08-13T08:43:06Z" loudness="81" location="geo:53.34837208036927,-6.251527774151615"/>
+	<measurement timeStamp="2014-08-13T08:43:07Z" loudness="79" location="geo:53.348330919739475,-6.251556894391735"/>
+	<measurement timeStamp="2014-08-13T08:43:08Z" loudness="79" location="geo:53.348330919739475,-6.251556894391735"/>
+	<measurement timeStamp="2014-08-13T08:43:09Z" loudness="78" location="geo:53.348330919739475,-6.251556894391735"/>
+	<measurement timeStamp="2014-08-13T08:43:10Z" loudness="76" location="geo:53.34829767701157,-6.251591015600467"/>
+	<measurement timeStamp="2014-08-13T08:43:11Z" loudness="76" location="geo:53.34829767701157,-6.251591015600467"/>
+	<measurement timeStamp="2014-08-13T08:43:12Z" loudness="77" location="geo:53.34829767701157,-6.251591015600467"/>
+	<measurement timeStamp="2014-08-13T08:43:13Z" loudness="78" location="geo:53.34829597267936,-6.251650806462491"/>
+	<measurement timeStamp="2014-08-13T08:43:14Z" loudness="79" location="geo:53.34829597267936,-6.251650806462491"/>
+	<measurement timeStamp="2014-08-13T08:43:15Z" loudness="80" location="geo:53.34829597267936,-6.251650806462491"/>
+	<measurement timeStamp="2014-08-13T08:43:16Z" loudness="79" location="geo:53.348300866857876,-6.251697403232795"/>
+	<measurement timeStamp="2014-08-13T08:43:17Z" loudness="78" location="geo:53.348300866857876,-6.251697403232795"/>
+	<measurement timeStamp="2014-08-13T08:43:18Z" loudness="78" location="geo:53.348300866857876,-6.251697403232795"/>
+	<measurement timeStamp="2014-08-13T08:43:19Z" loudness="78" location="geo:53.348300866857876,-6.251697403232795"/>
+	<measurement timeStamp="2014-08-13T08:43:20Z" loudness="77" location="geo:53.348300866857876,-6.251697403232795"/>
+	<measurement timeStamp="2014-08-13T08:43:21Z" loudness="77" location="geo:53.348300866857876,-6.251697403232795"/>
+	<measurement timeStamp="2014-08-13T08:43:22Z" loudness="78" location="geo:53.348300866857876,-6.251697403232795"/>
+	<measurement timeStamp="2014-08-13T08:43:23Z" loudness="82" location="geo:53.348300866857876,-6.251697403232795"/>
+	<measurement timeStamp="2014-08-13T08:43:24Z" loudness="85" location="geo:53.348300866857876,-6.251697403232795"/>
+	<measurement timeStamp="2014-08-13T08:43:25Z" loudness="81" location="geo:53.348300866857876,-6.251697403232795"/>
+	<measurement timeStamp="2014-08-13T08:43:26Z" loudness="81" location="geo:53.348300866857876,-6.251697403232795"/>
+	<measurement timeStamp="2014-08-13T08:43:27Z" loudness="80" location="geo:53.348300866857876,-6.251697403232795"/>
+	<measurement timeStamp="2014-08-13T08:43:28Z" loudness="80" location="geo:53.348300866857876,-6.251697403232795"/>
+	<measurement timeStamp="2014-08-13T08:43:29Z" loudness="81" location="geo:53.348300866857876,-6.251697403232795"/>
+	<measurement timeStamp="2014-08-13T08:43:30Z" loudness="85" location="geo:53.348300866857876,-6.251697403232795"/>
+	<measurement timeStamp="2014-08-13T08:43:31Z" loudness="86" location="geo:53.348300866857876,-6.251697403232795"/>
+	<measurement timeStamp="2014-08-13T08:43:32Z" loudness="83" location="geo:53.348300866857876,-6.251697403232795"/>
+	<measurement timeStamp="2014-08-13T08:43:33Z" loudness="80" location="geo:53.348300866857876,-6.251697403232795"/>
+	<measurement timeStamp="2014-08-13T08:43:34Z" loudness="81" location="geo:53.348300866857876,-6.251697403232795"/>
+	<measurement timeStamp="2014-08-13T08:43:35Z" loudness="78" location="geo:53.348300866857876,-6.251697403232795"/>
+	<measurement timeStamp="2014-08-13T08:43:36Z" loudness="77" location="geo:53.34830089947515,-6.251698596092347"/>
+	<measurement timeStamp="2014-08-13T08:43:37Z" loudness="76" location="geo:53.34830093209242,-6.251699788951798"/>
+	<measurement timeStamp="2014-08-13T08:43:38Z" loudness="75" location="geo:53.34830096464451,-6.251700979427919"/>
+	<measurement timeStamp="2014-08-13T08:43:39Z" loudness="76" location="geo:53.34830099726174,-6.25170217228737"/>
+	<measurement timeStamp="2014-08-13T08:43:40Z" loudness="80" location="geo:53.34830102984639,-6.251703363955207"/>
+	<measurement timeStamp="2014-08-13T08:43:41Z" loudness="87" location="geo:53.34830106243103,-6.2517045556229425"/>
+	<measurement timeStamp="2014-08-13T08:43:42Z" loudness="89" location="geo:53.34830109501566,-6.251705747290779"/>
+	<measurement timeStamp="2014-08-13T08:43:43Z" loudness="87" location="geo:53.34830112763285,-6.25170694015023"/>
+	<measurement timeStamp="2014-08-13T08:43:44Z" loudness="83" location="geo:53.34830116021743,-6.2517081318180665"/>
+	<measurement timeStamp="2014-08-13T08:43:45Z" loudness="77" location="geo:53.348301192834604,-6.25170932467762"/>
+	<measurement timeStamp="2014-08-13T08:43:46Z" loudness="78" location="geo:53.348301225419206,-6.251710516345456"/>
+	<measurement timeStamp="2014-08-13T08:43:47Z" loudness="80" location="geo:53.348301258003765,-6.251711708013191"/>
+	<measurement timeStamp="2014-08-13T08:43:48Z" loudness="78" location="geo:53.34830129058831,-6.251712899681029"/>
+	<measurement timeStamp="2014-08-13T08:43:49Z" loudness="79" location="geo:53.34830132320544,-6.251714092540581"/>
+	<measurement timeStamp="2014-08-13T08:43:50Z" loudness="84" location="geo:53.34830135582256,-6.251715285400134"/>
+	<measurement timeStamp="2014-08-13T08:43:51Z" loudness="88" location="geo:53.34830138840706,-6.251716477067971"/>
+	<measurement timeStamp="2014-08-13T08:43:52Z" loudness="83" location="geo:53.34830142099157,-6.251717668735807"/>
+	<measurement timeStamp="2014-08-13T08:43:53Z" loudness="81" location="geo:53.34830145354347,-6.251718859211929"/>
+	<measurement timeStamp="2014-08-13T08:43:54Z" loudness="77" location="geo:53.34830148616052,-6.251720052071482"/>
+	<measurement timeStamp="2014-08-13T08:43:55Z" loudness="76" location="geo:53.348301518745,-6.251721243739318"/>
+	<measurement timeStamp="2014-08-13T08:43:56Z" loudness="74" location="geo:53.34830155132947,-6.251722435407156"/>
+	<measurement timeStamp="2014-08-13T08:43:57Z" loudness="74" location="geo:53.348301583946494,-6.251723628266606"/>
+	<measurement timeStamp="2014-08-13T08:43:58Z" loudness="75" location="geo:53.348301616530925,-6.251724819934443"/>
+	<measurement timeStamp="2014-08-13T08:43:59Z" loudness="75" location="geo:53.34830164908275,-6.251726010410667"/>
+	<measurement timeStamp="2014-08-13T08:44:00Z" loudness="76" location="geo:53.34830168166718,-6.251727202078503"/>
+	<measurement timeStamp="2014-08-13T08:44:01Z" loudness="79" location="geo:53.34827636878302,-6.2517340397465055"/>
+	<measurement timeStamp="2014-08-13T08:44:02Z" loudness="79" location="geo:53.34827636878302,-6.2517340397465055"/>
+	<measurement timeStamp="2014-08-13T08:44:03Z" loudness="77" location="geo:53.34827636878302,-6.2517340397465055"/>
+	<measurement timeStamp="2014-08-13T08:44:04Z" loudness="77" location="geo:53.34823641439209,-6.251737754496668"/>
+	<measurement timeStamp="2014-08-13T08:44:05Z" loudness="77" location="geo:53.34823641439209,-6.251737754496668"/>
+	<measurement timeStamp="2014-08-13T08:44:06Z" loudness="77" location="geo:53.34823641439209,-6.251737754496668"/>
+	<measurement timeStamp="2014-08-13T08:44:07Z" loudness="77" location="geo:53.348196652405,-6.251736524876825"/>
+	<measurement timeStamp="2014-08-13T08:44:08Z" loudness="79" location="geo:53.348196652405,-6.251736524876825"/>
+	<measurement timeStamp="2014-08-13T08:44:09Z" loudness="80" location="geo:53.348196652405,-6.251736524876825"/>
+	<measurement timeStamp="2014-08-13T08:44:10Z" loudness="79" location="geo:53.34815692643816,-6.251733787038333"/>
+	<measurement timeStamp="2014-08-13T08:44:11Z" loudness="80" location="geo:53.34815692643816,-6.251733787038333"/>
+	<measurement timeStamp="2014-08-13T08:44:12Z" loudness="78" location="geo:53.34815692643816,-6.251733787038333"/>
+	<measurement timeStamp="2014-08-13T08:44:13Z" loudness="78" location="geo:53.3481156919502,-6.251733340578656"/>
+	<measurement timeStamp="2014-08-13T08:44:14Z" loudness="78" location="geo:53.3481156919502,-6.251733340578656"/>
+	<measurement timeStamp="2014-08-13T08:44:15Z" loudness="79" location="geo:53.3481156919502,-6.251733340578656"/>
+	<measurement timeStamp="2014-08-13T08:44:16Z" loudness="78" location="geo:53.348071126795766,-6.251735604446691"/>
+	<measurement timeStamp="2014-08-13T08:44:17Z" loudness="78" location="geo:53.348071126795766,-6.251735604446691"/>
+	<measurement timeStamp="2014-08-13T08:44:18Z" loudness="77" location="geo:53.348071126795766,-6.251735604446691"/>
+	<measurement timeStamp="2014-08-13T08:44:19Z" loudness="77" location="geo:53.348025404854354,-6.251743091267635"/>
+	<measurement timeStamp="2014-08-13T08:44:20Z" loudness="79" location="geo:53.348025404854354,-6.251743091267635"/>
+	<measurement timeStamp="2014-08-13T08:44:21Z" loudness="79" location="geo:53.348025404854354,-6.251743091267635"/>
+	<measurement timeStamp="2014-08-13T08:44:22Z" loudness="79" location="geo:53.34799253566535,-6.251753704663598"/>
+	<measurement timeStamp="2014-08-13T08:44:23Z" loudness="79" location="geo:53.34799253566535,-6.251753704663598"/>
+	<measurement timeStamp="2014-08-13T08:44:24Z" loudness="80" location="geo:53.34795912495354,-6.251766700302548"/>
+	<measurement timeStamp="2014-08-13T08:44:25Z" loudness="80" location="geo:53.34795912495354,-6.251766700302548"/>
+	<measurement timeStamp="2014-08-13T08:44:26Z" loudness="84" location="geo:53.34792753029104,-6.25177655326809"/>
+	<measurement timeStamp="2014-08-13T08:44:27Z" loudness="86" location="geo:53.34792753029104,-6.25177655326809"/>
+	<measurement timeStamp="2014-08-13T08:44:28Z" loudness="80" location="geo:53.34788259604566,-6.251789944593793"/>
+	<measurement timeStamp="2014-08-13T08:44:29Z" loudness="79" location="geo:53.34788259604566,-6.251789944593793"/>
+	<measurement timeStamp="2014-08-13T08:44:30Z" loudness="79" location="geo:53.34788259604566,-6.251789944593793"/>
+	<measurement timeStamp="2014-08-13T08:44:31Z" loudness="77" location="geo:53.34783704435969,-6.251804476402692"/>
+	<measurement timeStamp="2014-08-13T08:44:32Z" loudness="77" location="geo:53.34783704435969,-6.251804476402692"/>
+	<measurement timeStamp="2014-08-13T08:44:33Z" loudness="78" location="geo:53.34783704435969,-6.251804476402692"/>
+	<measurement timeStamp="2014-08-13T08:44:34Z" loudness="78" location="geo:53.34780509475937,-6.251815479963455"/>
+	<measurement timeStamp="2014-08-13T08:44:35Z" loudness="79" location="geo:53.34780509475937,-6.251815479963455"/>
+	<measurement timeStamp="2014-08-13T08:44:36Z" loudness="80" location="geo:53.34775816691666,-6.251833418260512"/>
+	<measurement timeStamp="2014-08-13T08:44:37Z" loudness="78" location="geo:53.34775816691666,-6.251833418260512"/>
+	<measurement timeStamp="2014-08-13T08:44:38Z" loudness="79" location="geo:53.34775816691666,-6.251833418260512"/>
+	<measurement timeStamp="2014-08-13T08:44:39Z" loudness="78" location="geo:53.347727352167354,-6.251844398029301"/>
+	<measurement timeStamp="2014-08-13T08:44:40Z" loudness="80" location="geo:53.347727352167354,-6.251844398029301"/>
+	<measurement timeStamp="2014-08-13T08:44:41Z" loudness="80" location="geo:53.347686863936964,-6.251858871719849"/>
+	<measurement timeStamp="2014-08-13T08:44:42Z" loudness="79" location="geo:53.347686863936964,-6.251858871719849"/>
+	<measurement timeStamp="2014-08-13T08:44:43Z" loudness="78" location="geo:53.347686863936964,-6.251858871719849"/>
+	<measurement timeStamp="2014-08-13T08:44:44Z" loudness="79" location="geo:53.34764557891476,-6.251872368160492"/>
+	<measurement timeStamp="2014-08-13T08:44:45Z" loudness="79" location="geo:53.34764557891476,-6.251872368160492"/>
+	<measurement timeStamp="2014-08-13T08:44:46Z" loudness="80" location="geo:53.34764557891476,-6.251872368160492"/>
+	<measurement timeStamp="2014-08-13T08:44:47Z" loudness="78" location="geo:53.34760179743905,-6.2518853042217"/>
+	<measurement timeStamp="2014-08-13T08:44:48Z" loudness="79" location="geo:53.34760179743905,-6.2518853042217"/>
+	<measurement timeStamp="2014-08-13T08:44:49Z" loudness="79" location="geo:53.34760179743905,-6.2518853042217"/>
+	<measurement timeStamp="2014-08-13T08:44:50Z" loudness="80" location="geo:53.347557844115066,-6.251897902251928"/>
+	<measurement timeStamp="2014-08-13T08:44:51Z" loudness="79" location="geo:53.347557844115066,-6.251897902251928"/>
+	<measurement timeStamp="2014-08-13T08:44:52Z" loudness="79" location="geo:53.347557844115066,-6.251897902251928"/>
+	<measurement timeStamp="2014-08-13T08:44:53Z" loudness="80" location="geo:53.34752048279666,-6.2519182703495595"/>
+	<measurement timeStamp="2014-08-13T08:44:54Z" loudness="79" location="geo:53.34752048279666,-6.2519182703495595"/>
+	<measurement timeStamp="2014-08-13T08:44:55Z" loudness="79" location="geo:53.34752048279666,-6.2519182703495595"/>
+	<measurement timeStamp="2014-08-13T08:44:56Z" loudness="80" location="geo:53.347496464853904,-6.251942720257485"/>
+	<measurement timeStamp="2014-08-13T08:44:57Z" loudness="79" location="geo:53.347496464853904,-6.251942720257485"/>
+	<measurement timeStamp="2014-08-13T08:44:58Z" loudness="80" location="geo:53.34746969159514,-6.251991211650523"/>
+	<measurement timeStamp="2014-08-13T08:44:59Z" loudness="80" location="geo:53.34746969159514,-6.251991211650523"/>
+	<measurement timeStamp="2014-08-13T08:45:00Z" loudness="80" location="geo:53.34746969159514,-6.251991211650523"/>
+	<measurement timeStamp="2014-08-13T08:45:01Z" loudness="79" location="geo:53.347425379114725,-6.252020558385117"/>
+	<measurement timeStamp="2014-08-13T08:45:02Z" loudness="78" location="geo:53.347425379114725,-6.252020558385117"/>
+	<measurement timeStamp="2014-08-13T08:45:03Z" loudness="79" location="geo:53.347425379114725,-6.252020558385117"/>
+	<measurement timeStamp="2014-08-13T08:45:04Z" loudness="80" location="geo:53.347425379114725,-6.252020558385117"/>
+	<measurement timeStamp="2014-08-13T08:45:05Z" loudness="77" location="geo:53.347425379114725,-6.252020558385117"/>
+	<measurement timeStamp="2014-08-13T08:45:06Z" loudness="76" location="geo:53.347425379114725,-6.252020558385117"/>
+	<measurement timeStamp="2014-08-13T08:45:07Z" loudness="77" location="geo:53.347425379114725,-6.252020558385117"/>
+	<measurement timeStamp="2014-08-13T08:45:08Z" loudness="78" location="geo:53.347425379114725,-6.252020558385117"/>
+	<measurement timeStamp="2014-08-13T08:45:09Z" loudness="80" location="geo:53.347425379114725,-6.252020558385117"/>
+	<measurement timeStamp="2014-08-13T08:45:10Z" loudness="77" location="geo:53.347425379114725,-6.252020558385117"/>
+	<measurement timeStamp="2014-08-13T08:45:11Z" loudness="75" location="geo:53.347425379114725,-6.252020558385117"/>
+	<measurement timeStamp="2014-08-13T08:45:12Z" loudness="75" location="geo:53.347425379114725,-6.252020558385117"/>
+	<measurement timeStamp="2014-08-13T08:45:13Z" loudness="75" location="geo:53.347425379114725,-6.252020558385117"/>
+	<measurement timeStamp="2014-08-13T08:45:14Z" loudness="76" location="geo:53.347425379114725,-6.252020558385117"/>
+	<measurement timeStamp="2014-08-13T08:45:15Z" loudness="75" location="geo:53.347425379114725,-6.252020558385117"/>
+	<measurement timeStamp="2014-08-13T08:45:16Z" loudness="74" location="geo:53.347425379114725,-6.252020558385117"/>
+	<measurement timeStamp="2014-08-13T08:45:17Z" loudness="75" location="geo:53.347425379114725,-6.252020558385117"/>
+	<measurement timeStamp="2014-08-13T08:45:18Z" loudness="74" location="geo:53.347425379114725,-6.252020558385117"/>
+	<measurement timeStamp="2014-08-13T08:45:19Z" loudness="72" location="geo:53.347425379114725,-6.252020558385117"/>
+	<measurement timeStamp="2014-08-13T08:45:20Z" loudness="81" location="geo:53.347425379114725,-6.252020558385117"/>
+	<measurement timeStamp="2014-08-13T08:45:21Z" loudness="77" location="geo:53.34740429627809,-6.252030273752025"/>
+	<measurement timeStamp="2014-08-13T08:45:22Z" loudness="77" location="geo:53.34740429627809,-6.252030273752025"/>
+	<measurement timeStamp="2014-08-13T08:45:23Z" loudness="76" location="geo:53.347364439512454,-6.252046575696953"/>
+	<measurement timeStamp="2014-08-13T08:45:24Z" loudness="76" location="geo:53.347364439512454,-6.252046575696953"/>
+	<measurement timeStamp="2014-08-13T08:45:25Z" loudness="77" location="geo:53.347322079359756,-6.252061785200836"/>
+	<measurement timeStamp="2014-08-13T08:45:26Z" loudness="77" location="geo:53.347322079359756,-6.252061785200836"/>
+	<measurement timeStamp="2014-08-13T08:45:27Z" loudness="76" location="geo:53.347273924628155,-6.252062612968766"/>
+	<measurement timeStamp="2014-08-13T08:45:28Z" loudness="77" location="geo:53.347273924628155,-6.252062612968766"/>
+	<measurement timeStamp="2014-08-13T08:45:29Z" loudness="76" location="geo:53.347273924628155,-6.252062612968766"/>
+	<measurement timeStamp="2014-08-13T08:45:30Z" loudness="75" location="geo:53.347244910848126,-6.252056086991382"/>
+	<measurement timeStamp="2014-08-13T08:45:31Z" loudness="76" location="geo:53.347244910848126,-6.252056086991382"/>
+	<measurement timeStamp="2014-08-13T08:45:32Z" loudness="76" location="geo:53.347203446386416,-6.252046407759721"/>
+	<measurement timeStamp="2014-08-13T08:45:33Z" loudness="75" location="geo:53.347203446386416,-6.252046407759721"/>
+	<measurement timeStamp="2014-08-13T08:45:34Z" loudness="76" location="geo:53.347203446386416,-6.252046407759721"/>
+	<measurement timeStamp="2014-08-13T08:45:35Z" loudness="75" location="geo:53.34715634689602,-6.252039140742586"/>
+	<measurement timeStamp="2014-08-13T08:45:36Z" loudness="76" location="geo:53.34715634689602,-6.252039140742586"/>
+	<measurement timeStamp="2014-08-13T08:45:37Z" loudness="77" location="geo:53.34715634689602,-6.252039140742586"/>
+	<measurement timeStamp="2014-08-13T08:45:38Z" loudness="78" location="geo:53.34712315583981,-6.252036890945097"/>
+	<measurement timeStamp="2014-08-13T08:45:39Z" loudness="78" location="geo:53.34712315583981,-6.252036890945097"/>
+	<measurement timeStamp="2014-08-13T08:45:40Z" loudness="79" location="geo:53.34708998445849,-6.252038902605426"/>
+	<measurement timeStamp="2014-08-13T08:45:41Z" loudness="77" location="geo:53.34708998445849,-6.252038902605426"/>
+	<measurement timeStamp="2014-08-13T08:45:42Z" loudness="78" location="geo:53.347055169756764,-6.252041752728159"/>
+	<measurement timeStamp="2014-08-13T08:45:43Z" loudness="77" location="geo:53.347055169756764,-6.252041752728159"/>
+	<measurement timeStamp="2014-08-13T08:45:44Z" loudness="77" location="geo:53.34700808766898,-6.25203631419242"/>
+	<measurement timeStamp="2014-08-13T08:45:45Z" loudness="77" location="geo:53.34700808766898,-6.25203631419242"/>
+	<measurement timeStamp="2014-08-13T08:45:46Z" loudness="76" location="geo:53.34700808766898,-6.25203631419242"/>
+	<measurement timeStamp="2014-08-13T08:45:47Z" loudness="76" location="geo:53.346962239061696,-6.252033440406309"/>
+	<measurement timeStamp="2014-08-13T08:45:48Z" loudness="76" location="geo:53.346962239061696,-6.252033440406309"/>
+	<measurement timeStamp="2014-08-13T08:45:49Z" loudness="77" location="geo:53.346962239061696,-6.252033440406309"/>
+	<measurement timeStamp="2014-08-13T08:45:50Z" loudness="77" location="geo:53.34692911821884,-6.252037355810491"/>
+	<measurement timeStamp="2014-08-13T08:45:51Z" loudness="77" location="geo:53.34692911821884,-6.252037355810491"/>
+	<measurement timeStamp="2014-08-13T08:45:52Z" loudness="78" location="geo:53.34689578881013,-6.252044478203276"/>
+	<measurement timeStamp="2014-08-13T08:45:53Z" loudness="79" location="geo:53.34689578881013,-6.252044478203276"/>
+	<measurement timeStamp="2014-08-13T08:45:54Z" loudness="80" location="geo:53.34684960038737,-6.252045509968344"/>
+	<measurement timeStamp="2014-08-13T08:45:55Z" loudness="80" location="geo:53.34684960038737,-6.252045509968344"/>
+	<measurement timeStamp="2014-08-13T08:45:56Z" loudness="80" location="geo:53.34684960038737,-6.252045509968344"/>
+	<measurement timeStamp="2014-08-13T08:45:57Z" loudness="79" location="geo:53.34681380074935,-6.252045775759869"/>
+	<measurement timeStamp="2014-08-13T08:45:58Z" loudness="79" location="geo:53.34681380074935,-6.252045775759869"/>
+	<measurement timeStamp="2014-08-13T08:45:59Z" loudness="79" location="geo:53.346766639288056,-6.252054580473211"/>
+	<measurement timeStamp="2014-08-13T08:46:00Z" loudness="79" location="geo:53.346766639288056,-6.252054580473211"/>
+	<measurement timeStamp="2014-08-13T08:46:01Z" loudness="79" location="geo:53.34671196750462,-6.252068284329377"/>
+	<measurement timeStamp="2014-08-13T08:46:02Z" loudness="78" location="geo:53.34671196750462,-6.252068284329377"/>
+	<measurement timeStamp="2014-08-13T08:46:03Z" loudness="78" location="geo:53.34666410982244,-6.252074609483918"/>
+	<measurement timeStamp="2014-08-13T08:46:04Z" loudness="78" location="geo:53.34666410982244,-6.252074609483918"/>
+	<measurement timeStamp="2014-08-13T08:46:05Z" loudness="78" location="geo:53.34662268661251,-6.252069344643486"/>
+	<measurement timeStamp="2014-08-13T08:46:06Z" loudness="78" location="geo:53.34662268661251,-6.252069344643486"/>
+	<measurement timeStamp="2014-08-13T08:46:07Z" loudness="79" location="geo:53.34662268661251,-6.252069344643486"/>
+	<measurement timeStamp="2014-08-13T08:46:08Z" loudness="80" location="geo:53.34658580865251,-6.252047071693998"/>
+	<measurement timeStamp="2014-08-13T08:46:09Z" loudness="80" location="geo:53.34658580865251,-6.252047071693998"/>
+	<measurement timeStamp="2014-08-13T08:46:10Z" loudness="78" location="geo:53.34658580865251,-6.252047071693998"/>
+	<measurement timeStamp="2014-08-13T08:46:11Z" loudness="77" location="geo:53.34658580865251,-6.252047071693998"/>
+	<measurement timeStamp="2014-08-13T08:46:12Z" loudness="80" location="geo:53.346548253988416,-6.252042548558205"/>
+	<measurement timeStamp="2014-08-13T08:46:13Z" loudness="80" location="geo:53.346548253988416,-6.252042548558205"/>
+	<measurement timeStamp="2014-08-13T08:46:14Z" loudness="76" location="geo:53.346548253988416,-6.252042548558205"/>
+	<measurement timeStamp="2014-08-13T08:46:15Z" loudness="75" location="geo:53.346548253988416,-6.252042548558205"/>
+	<measurement timeStamp="2014-08-13T08:46:16Z" loudness="75" location="geo:53.34651685060984,-6.252042380814453"/>
+	<measurement timeStamp="2014-08-13T08:46:17Z" loudness="75" location="geo:53.34651685060984,-6.252042380814453"/>
+	<measurement timeStamp="2014-08-13T08:46:18Z" loudness="75" location="geo:53.34651685060984,-6.252042380814453"/>
+	<measurement timeStamp="2014-08-13T08:46:19Z" loudness="75" location="geo:53.3464820948948,-6.2520536927518"/>
+	<measurement timeStamp="2014-08-13T08:46:20Z" loudness="76" location="geo:53.3464820948948,-6.2520536927518"/>
+	<measurement timeStamp="2014-08-13T08:46:21Z" loudness="75" location="geo:53.3464820948948,-6.2520536927518"/>
+	<measurement timeStamp="2014-08-13T08:46:22Z" loudness="77" location="geo:53.34644150455352,-6.25204732641447"/>
+	<measurement timeStamp="2014-08-13T08:46:23Z" loudness="75" location="geo:53.34644150455352,-6.25204732641447"/>
+	<measurement timeStamp="2014-08-13T08:46:24Z" loudness="76" location="geo:53.34644150455352,-6.25204732641447"/>
+	<measurement timeStamp="2014-08-13T08:46:25Z" loudness="75" location="geo:53.34639117722429,-6.252035844102825"/>
+	<measurement timeStamp="2014-08-13T08:46:26Z" loudness="77" location="geo:53.34639117722429,-6.252035844102825"/>
+	<measurement timeStamp="2014-08-13T08:46:27Z" loudness="75" location="geo:53.34639117722429,-6.252035844102825"/>
+	<measurement timeStamp="2014-08-13T08:46:28Z" loudness="75" location="geo:53.34635267034705,-6.252034963106481"/>
+	<measurement timeStamp="2014-08-13T08:46:29Z" loudness="76" location="geo:53.34635267034705,-6.252034963106481"/>
+	<measurement timeStamp="2014-08-13T08:46:30Z" loudness="77" location="geo:53.34631139986153,-6.2520412054065035"/>
+	<measurement timeStamp="2014-08-13T08:46:31Z" loudness="78" location="geo:53.34631139986153,-6.2520412054065035"/>
+	<measurement timeStamp="2014-08-13T08:46:32Z" loudness="77" location="geo:53.34626783591558,-6.252050509115797"/>
+	<measurement timeStamp="2014-08-13T08:46:33Z" loudness="78" location="geo:53.34626783591558,-6.252050509115797"/>
+	<measurement timeStamp="2014-08-13T08:46:34Z" loudness="79" location="geo:53.346225076825434,-6.252049631439061"/>
+	<measurement timeStamp="2014-08-13T08:46:35Z" loudness="77" location="geo:53.346225076825434,-6.252049631439061"/>
+	<measurement timeStamp="2014-08-13T08:46:36Z" loudness="80" location="geo:53.34618654343412,-6.252042463482209"/>
+	<measurement timeStamp="2014-08-13T08:46:37Z" loudness="78" location="geo:53.34618654343412,-6.252042463482209"/>
+	<measurement timeStamp="2014-08-13T08:46:38Z" loudness="77" location="geo:53.346123702141696,-6.25204725593404"/>
+	<measurement timeStamp="2014-08-13T08:46:39Z" loudness="76" location="geo:53.346123702141696,-6.25204725593404"/>
+	<measurement timeStamp="2014-08-13T08:46:40Z" loudness="75" location="geo:53.346123702141696,-6.25204725593404"/>
+	<measurement timeStamp="2014-08-13T08:46:41Z" loudness="76" location="geo:53.346123702141696,-6.25204725593404"/>
+	<measurement timeStamp="2014-08-13T08:46:42Z" loudness="75" location="geo:53.346123702141696,-6.25204725593404"/>
+	<measurement timeStamp="2014-08-13T08:46:43Z" loudness="75" location="geo:53.346123702141696,-6.25204725593404"/>
+	<measurement timeStamp="2014-08-13T08:46:44Z" loudness="75" location="geo:53.34608398844182,-6.252067126320257"/>
+	<measurement timeStamp="2014-08-13T08:46:45Z" loudness="77" location="geo:53.34608398844182,-6.252067126320257"/>
+	<measurement timeStamp="2014-08-13T08:46:46Z" loudness="75" location="geo:53.34608398844182,-6.252067126320257"/>
+	<measurement timeStamp="2014-08-13T08:46:47Z" loudness="76" location="geo:53.34608398844182,-6.252067126320257"/>
+	<measurement timeStamp="2014-08-13T08:46:48Z" loudness="75" location="geo:53.34608398844182,-6.252067126320257"/>
+	<measurement timeStamp="2014-08-13T08:46:49Z" loudness="77" location="geo:53.34608398844182,-6.252067126320257"/>
+	<measurement timeStamp="2014-08-13T08:46:50Z" loudness="75" location="geo:53.34608398844182,-6.252067126320257"/>
+	<measurement timeStamp="2014-08-13T08:46:51Z" loudness="77" location="geo:53.34608398844182,-6.252067126320257"/>
+	<measurement timeStamp="2014-08-13T08:46:52Z" loudness="78" location="geo:53.34608398844182,-6.252067126320257"/>
+	<measurement timeStamp="2014-08-13T08:46:53Z" loudness="78" location="geo:53.34604800749483,-6.252102557622057"/>
+	<measurement timeStamp="2014-08-13T08:46:54Z" loudness="79" location="geo:53.34604800749483,-6.252102557622057"/>
+	<measurement timeStamp="2014-08-13T08:46:55Z" loudness="79" location="geo:53.34604800749483,-6.252102557622057"/>
+	<measurement timeStamp="2014-08-13T08:46:56Z" loudness="79" location="geo:53.34604800749483,-6.252102557622057"/>
+	<measurement timeStamp="2014-08-13T08:46:57Z" loudness="78" location="geo:53.34604800749483,-6.252102557622057"/>
+	<measurement timeStamp="2014-08-13T08:46:58Z" loudness="79" location="geo:53.34604800749483,-6.252102557622057"/>
+	<measurement timeStamp="2014-08-13T08:46:59Z" loudness="78" location="geo:53.346009274006114,-6.252162055396934"/>
+	<measurement timeStamp="2014-08-13T08:47:00Z" loudness="78" location="geo:53.346009274006114,-6.252162055396934"/>
+	<measurement timeStamp="2014-08-13T08:47:01Z" loudness="79" location="geo:53.346009274006114,-6.252162055396934"/>
+	<measurement timeStamp="2014-08-13T08:47:02Z" loudness="78" location="geo:53.346009274006114,-6.252162055396934"/>
+	<measurement timeStamp="2014-08-13T08:47:03Z" loudness="79" location="geo:53.346009274006114,-6.252162055396934"/>
+	<measurement timeStamp="2014-08-13T08:47:04Z" loudness="78" location="geo:53.346009274006114,-6.252162055396934"/>
+	<measurement timeStamp="2014-08-13T08:47:05Z" loudness="79" location="geo:53.34598008807292,-6.252212108042945"/>
+	<measurement timeStamp="2014-08-13T08:47:06Z" loudness="79" location="geo:53.34598008807292,-6.252212108042945"/>
+	<measurement timeStamp="2014-08-13T08:47:07Z" loudness="79" location="geo:53.34598008807292,-6.252212108042945"/>
+	<measurement timeStamp="2014-08-13T08:47:08Z" loudness="78" location="geo:53.34598008807292,-6.252212108042945"/>
+	<measurement timeStamp="2014-08-13T08:47:09Z" loudness="78" location="geo:53.345951575326524,-6.252231937842027"/>
+	<measurement timeStamp="2014-08-13T08:47:10Z" loudness="78" location="geo:53.345951575326524,-6.252231937842027"/>
+	<measurement timeStamp="2014-08-13T08:47:11Z" loudness="78" location="geo:53.34590722336034,-6.252237259664692"/>
+	<measurement timeStamp="2014-08-13T08:47:12Z" loudness="78" location="geo:53.34590722336034,-6.252237259664692"/>
+	<measurement timeStamp="2014-08-13T08:47:13Z" loudness="76" location="geo:53.345863545079126,-6.252233276297806"/>
+	<measurement timeStamp="2014-08-13T08:47:14Z" loudness="77" location="geo:53.345863545079126,-6.252233276297806"/>
+	<measurement timeStamp="2014-08-13T08:47:15Z" loudness="77" location="geo:53.34582062904387,-6.252227579243555"/>
+	<measurement timeStamp="2014-08-13T08:47:16Z" loudness="77" location="geo:53.34582062904387,-6.252227579243555"/>
+	<measurement timeStamp="2014-08-13T08:47:17Z" loudness="79" location="geo:53.34576882888387,-6.252225358037114"/>
+	<measurement timeStamp="2014-08-13T08:47:18Z" loudness="81" location="geo:53.34576882888387,-6.252225358037114"/>
+	<measurement timeStamp="2014-08-13T08:47:19Z" loudness="80" location="geo:53.34572048801407,-6.252226993305817"/>
+	<measurement timeStamp="2014-08-13T08:47:20Z" loudness="79" location="geo:53.34572048801407,-6.252226993305817"/>
+	<measurement timeStamp="2014-08-13T08:47:21Z" loudness="78" location="geo:53.34570131264627,-6.2522277887910604"/>
+	<measurement timeStamp="2014-08-13T08:47:22Z" loudness="77" location="geo:53.345644725170146,-6.252219448483058"/>
+	<measurement timeStamp="2014-08-13T08:47:23Z" loudness="76" location="geo:53.345644725170146,-6.252219448483058"/>
+	<measurement timeStamp="2014-08-13T08:47:24Z" loudness="74" location="geo:53.34559671092403,-6.252209024382107"/>
+	<measurement timeStamp="2014-08-13T08:47:25Z" loudness="75" location="geo:53.34559671092403,-6.252209024382107"/>
+	<measurement timeStamp="2014-08-13T08:47:26Z" loudness="77" location="geo:53.34557130932808,-6.25219794921577"/>
+	<measurement timeStamp="2014-08-13T08:47:27Z" loudness="75" location="geo:53.34553103428334,-6.252174312248826"/>
+	<measurement timeStamp="2014-08-13T08:47:28Z" loudness="75" location="geo:53.34549356717616,-6.252154866233468"/>
+	<measurement timeStamp="2014-08-13T08:47:29Z" loudness="77" location="geo:53.345441777344234,-6.252145435654545"/>
+	<measurement timeStamp="2014-08-13T08:47:30Z" loudness="78" location="geo:53.345441777344234,-6.252145435654545"/>
+	<measurement timeStamp="2014-08-13T08:47:31Z" loudness="76" location="geo:53.34540265622484,-6.252147825689841"/>
+	<measurement timeStamp="2014-08-13T08:47:32Z" loudness="77" location="geo:53.34540265622484,-6.252147825689841"/>
+	<measurement timeStamp="2014-08-13T08:47:33Z" loudness="76" location="geo:53.345361390933924,-6.252149110917383"/>
+	<measurement timeStamp="2014-08-13T08:47:34Z" loudness="74" location="geo:53.345361390933924,-6.252149110917383"/>
+	<measurement timeStamp="2014-08-13T08:47:35Z" loudness="75" location="geo:53.345361390933924,-6.252149110917383"/>
+	<measurement timeStamp="2014-08-13T08:47:36Z" loudness="79" location="geo:53.3453223923623,-6.252145290605655"/>
+	<measurement timeStamp="2014-08-13T08:47:37Z" loudness="77" location="geo:53.3453223923623,-6.252145290605655"/>
+	<measurement timeStamp="2014-08-13T08:47:38Z" loudness="75" location="geo:53.3453223923623,-6.252145290605655"/>
+	<measurement timeStamp="2014-08-13T08:47:39Z" loudness="77" location="geo:53.3453223923623,-6.252145290605655"/>
+	<measurement timeStamp="2014-08-13T08:47:40Z" loudness="76" location="geo:53.345287416420106,-6.252146463158332"/>
+	<measurement timeStamp="2014-08-13T08:47:41Z" loudness="78" location="geo:53.345287416420106,-6.252146463158332"/>
+	<measurement timeStamp="2014-08-13T08:47:42Z" loudness="77" location="geo:53.345287416420106,-6.252146463158332"/>
+	<measurement timeStamp="2014-08-13T08:47:43Z" loudness="75" location="geo:53.345287416420106,-6.252146463158332"/>
+	<measurement timeStamp="2014-08-13T08:47:44Z" loudness="78" location="geo:53.345252884832696,-6.252150026361018"/>
+	<measurement timeStamp="2014-08-13T08:47:45Z" loudness="76" location="geo:53.345252884832696,-6.252150026361018"/>
+	<measurement timeStamp="2014-08-13T08:47:46Z" loudness="75" location="geo:53.345252884832696,-6.252150026361018"/>
+	<measurement timeStamp="2014-08-13T08:47:47Z" loudness="75" location="geo:53.345252884832696,-6.252150026361018"/>
+	<measurement timeStamp="2014-08-13T08:47:48Z" loudness="78" location="geo:53.34522823803755,-6.25216169748703"/>
+	<measurement timeStamp="2014-08-13T08:47:49Z" loudness="79" location="geo:53.34522823803755,-6.25216169748703"/>
+	<measurement timeStamp="2014-08-13T08:47:50Z" loudness="78" location="geo:53.34518682318392,-6.252180552727314"/>
+	<measurement timeStamp="2014-08-13T08:47:51Z" loudness="77" location="geo:53.34518682318392,-6.252180552727314"/>
+	<measurement timeStamp="2014-08-13T08:47:52Z" loudness="76" location="geo:53.345133704013094,-6.252194007036447"/>
+	<measurement timeStamp="2014-08-13T08:47:53Z" loudness="76" location="geo:53.345133704013094,-6.252194007036447"/>
+	<measurement timeStamp="2014-08-13T08:47:54Z" loudness="77" location="geo:53.34510598797351,-6.252199374139309"/>
+	<measurement timeStamp="2014-08-13T08:47:55Z" loudness="77" location="geo:53.34505287737503,-6.2522117778043755"/>
+	<measurement timeStamp="2014-08-13T08:47:56Z" loudness="77" location="geo:53.34505287737503,-6.2522117778043755"/>
+	<measurement timeStamp="2014-08-13T08:47:57Z" loudness="77" location="geo:53.345008140379775,-6.2522083010598015"/>
+	<measurement timeStamp="2014-08-13T08:47:58Z" loudness="78" location="geo:53.345008140379775,-6.2522083010598015"/>
+	<measurement timeStamp="2014-08-13T08:47:59Z" loudness="77" location="geo:53.34496696261521,-6.252213620528906"/>
+	<measurement timeStamp="2014-08-13T08:48:00Z" loudness="78" location="geo:53.34496696261521,-6.252213620528906"/>
+	<measurement timeStamp="2014-08-13T08:48:01Z" loudness="79" location="geo:53.344914526198124,-6.252235122085745"/>
+	<measurement timeStamp="2014-08-13T08:48:02Z" loudness="79" location="geo:53.344914526198124,-6.252235122085745"/>
+	<measurement timeStamp="2014-08-13T08:48:03Z" loudness="79" location="geo:53.344914526198124,-6.252235122085745"/>
+	<measurement timeStamp="2014-08-13T08:48:04Z" loudness="77" location="geo:53.344914526198124,-6.252235122085745"/>
+	<measurement timeStamp="2014-08-13T08:48:05Z" loudness="77" location="geo:53.344914526198124,-6.252235122085745"/>
+	<measurement timeStamp="2014-08-13T08:48:06Z" loudness="79" location="geo:53.344914526198124,-6.252235122085745"/>
+	<measurement timeStamp="2014-08-13T08:48:07Z" loudness="78" location="geo:53.344914526198124,-6.252235122085745"/>
+	<measurement timeStamp="2014-08-13T08:48:08Z" loudness="76" location="geo:53.344914526198124,-6.252235122085745"/>
+	<measurement timeStamp="2014-08-13T08:48:09Z" loudness="78" location="geo:53.344914526198124,-6.252235122085745"/>
+	<measurement timeStamp="2014-08-13T08:48:10Z" loudness="81" location="geo:53.344914526198124,-6.252235122085745"/>
+	<measurement timeStamp="2014-08-13T08:48:11Z" loudness="80" location="geo:53.344914526198124,-6.252235122085745"/>
+	<measurement timeStamp="2014-08-13T08:48:12Z" loudness="76" location="geo:53.344914526198124,-6.252235122085745"/>
+	<measurement timeStamp="2014-08-13T08:48:13Z" loudness="77" location="geo:53.344914526198124,-6.252235122085745"/>
+	<measurement timeStamp="2014-08-13T08:48:14Z" loudness="78" location="geo:53.344914526198124,-6.252235122085745"/>
+	<measurement timeStamp="2014-08-13T08:48:15Z" loudness="77" location="geo:53.344898389192664,-6.252251551483488"/>
+	<measurement timeStamp="2014-08-13T08:48:16Z" loudness="78" location="geo:53.344898389192664,-6.252251551483488"/>
+	<measurement timeStamp="2014-08-13T08:48:17Z" loudness="78" location="geo:53.34485387947733,-6.252313416125891"/>
+	<measurement timeStamp="2014-08-13T08:48:18Z" loudness="80" location="geo:53.34485387947733,-6.252313416125891"/>
+	<measurement timeStamp="2014-08-13T08:48:19Z" loudness="80" location="geo:53.34485387947733,-6.252313416125891"/>
+	<measurement timeStamp="2014-08-13T08:48:20Z" loudness="80" location="geo:53.344818279160826,-6.252363617532195"/>
+	<measurement timeStamp="2014-08-13T08:48:21Z" loudness="79" location="geo:53.344818279160826,-6.252363617532195"/>
+	<measurement timeStamp="2014-08-13T08:48:22Z" loudness="78" location="geo:53.34477709252931,-6.252401425384249"/>
+	<measurement timeStamp="2014-08-13T08:48:23Z" loudness="78" location="geo:53.34477709252931,-6.252401425384249"/>
+	<measurement timeStamp="2014-08-13T08:48:24Z" loudness="77" location="geo:53.344729517008666,-6.252420152818751"/>
+	<measurement timeStamp="2014-08-13T08:48:25Z" loudness="80" location="geo:53.344729517008666,-6.252420152818751"/>
+	<measurement timeStamp="2014-08-13T08:48:26Z" loudness="80" location="geo:53.344729517008666,-6.252420152818751"/>
+	<measurement timeStamp="2014-08-13T08:48:27Z" loudness="77" location="geo:53.344729517008666,-6.252420152818751"/>
+	<measurement timeStamp="2014-08-13T08:48:28Z" loudness="76" location="geo:53.344689686789366,-6.2524216901463445"/>
+	<measurement timeStamp="2014-08-13T08:48:29Z" loudness="77" location="geo:53.344689686789366,-6.2524216901463445"/>
+	<measurement timeStamp="2014-08-13T08:48:30Z" loudness="78" location="geo:53.344689686789366,-6.2524216901463445"/>
+	<measurement timeStamp="2014-08-13T08:48:31Z" loudness="75" location="geo:53.344660946428746,-6.252389129778411"/>
+	<measurement timeStamp="2014-08-13T08:48:32Z" loudness="78" location="geo:53.344660946428746,-6.252389129778411"/>
+	<measurement timeStamp="2014-08-13T08:48:33Z" loudness="76" location="geo:53.344660946428746,-6.252389129778411"/>
+	<measurement timeStamp="2014-08-13T08:48:34Z" loudness="75" location="geo:53.34465137450597,-6.252342243713963"/>
+	<measurement timeStamp="2014-08-13T08:48:35Z" loudness="75" location="geo:53.34465137450597,-6.252342243713963"/>
+	<measurement timeStamp="2014-08-13T08:48:36Z" loudness="75" location="geo:53.344646240589306,-6.252282732197233"/>
+	<measurement timeStamp="2014-08-13T08:48:37Z" loudness="76" location="geo:53.344646240589306,-6.252282732197233"/>
+	<measurement timeStamp="2014-08-13T08:48:38Z" loudness="78" location="geo:53.3446398284394,-6.252221083300072"/>
+	<measurement timeStamp="2014-08-13T08:48:39Z" loudness="81" location="geo:53.3446398284394,-6.252221083300072"/>
+	<measurement timeStamp="2014-08-13T08:48:40Z" loudness="85" location="geo:53.34463058488856,-6.252156023727237"/>
+	<measurement timeStamp="2014-08-13T08:48:41Z" loudness="85" location="geo:53.34463058488856,-6.252156023727237"/>
+	<measurement timeStamp="2014-08-13T08:48:42Z" loudness="82" location="geo:53.344619586143466,-6.25209074470618"/>
+	<measurement timeStamp="2014-08-13T08:48:43Z" loudness="81" location="geo:53.344619586143466,-6.25209074470618"/>
+	<measurement timeStamp="2014-08-13T08:48:44Z" loudness="82" location="geo:53.34461455651673,-6.252012689690062"/>
+	<measurement timeStamp="2014-08-13T08:48:45Z" loudness="83" location="geo:53.34461455651673,-6.252012689690062"/>
+	<measurement timeStamp="2014-08-13T08:48:46Z" loudness="82" location="geo:53.34461081081478,-6.251929012875916"/>
+	<measurement timeStamp="2014-08-13T08:48:47Z" loudness="81" location="geo:53.34461081081478,-6.251929012875916"/>
+	<measurement timeStamp="2014-08-13T08:48:48Z" loudness="82" location="geo:53.34460095992897,-6.251854937435817"/>
+	<measurement timeStamp="2014-08-13T08:48:49Z" loudness="82" location="geo:53.34460095992897,-6.251854937435817"/>
+	<measurement timeStamp="2014-08-13T08:48:50Z" loudness="80" location="geo:53.344589602994816,-6.25178792245916"/>
+	<measurement timeStamp="2014-08-13T08:48:51Z" loudness="80" location="geo:53.344589602994816,-6.25178792245916"/>
+	<measurement timeStamp="2014-08-13T08:48:52Z" loudness="78" location="geo:53.344577655670655,-6.2517279759310185"/>
+	<measurement timeStamp="2014-08-13T08:48:53Z" loudness="79" location="geo:53.344577655670655,-6.2517279759310185"/>
+	<measurement timeStamp="2014-08-13T08:48:54Z" loudness="78" location="geo:53.34456294992168,-6.251676355169009"/>
+	<measurement timeStamp="2014-08-13T08:48:55Z" loudness="78" location="geo:53.34456294992168,-6.251676355169009"/>
+	<measurement timeStamp="2014-08-13T08:48:56Z" loudness="77" location="geo:53.3445474168661,-6.2516065773434795"/>
+	<measurement timeStamp="2014-08-13T08:48:57Z" loudness="78" location="geo:53.3445474168661,-6.2516065773434795"/>
+	<measurement timeStamp="2014-08-13T08:48:58Z" loudness="81" location="geo:53.3445474168661,-6.2516065773434795"/>
+	<measurement timeStamp="2014-08-13T08:48:59Z" loudness="80" location="geo:53.3445474168661,-6.2516065773434795"/>
+	<measurement timeStamp="2014-08-13T08:49:00Z" loudness="82" location="geo:53.34453709267255,-6.251549749370041"/>
+	<measurement timeStamp="2014-08-13T08:49:01Z" loudness="82" location="geo:53.34453709267255,-6.251549749370041"/>
+	<measurement timeStamp="2014-08-13T08:49:02Z" loudness="84" location="geo:53.34453709267255,-6.251549749370041"/>
+	<measurement timeStamp="2014-08-13T08:49:03Z" loudness="85" location="geo:53.34453709267255,-6.251549749370041"/>
+	<measurement timeStamp="2014-08-13T08:49:04Z" loudness="84" location="geo:53.34453709267255,-6.251549749370041"/>
+	<measurement timeStamp="2014-08-13T08:49:05Z" loudness="82" location="geo:53.34451553180198,-6.251505506244197"/>
+	<measurement timeStamp="2014-08-13T08:49:06Z" loudness="83" location="geo:53.34451553180198,-6.251505506244197"/>
+	<measurement timeStamp="2014-08-13T08:49:07Z" loudness="84" location="geo:53.34451553180198,-6.251505506244197"/>
+	<measurement timeStamp="2014-08-13T08:49:08Z" loudness="85" location="geo:53.34451553180198,-6.251505506244197"/>
+	<measurement timeStamp="2014-08-13T08:49:09Z" loudness="86" location="geo:53.34451553180198,-6.251505506244197"/>
+	<measurement timeStamp="2014-08-13T08:49:10Z" loudness="85" location="geo:53.34451553180198,-6.251505506244197"/>
+	<measurement timeStamp="2014-08-13T08:49:11Z" loudness="81" location="geo:53.344497920542274,-6.251449185591622"/>
+	<measurement timeStamp="2014-08-13T08:49:12Z" loudness="79" location="geo:53.344497920542274,-6.251449185591622"/>
+	<measurement timeStamp="2014-08-13T08:49:13Z" loudness="79" location="geo:53.344497920542274,-6.251449185591622"/>
+	<measurement timeStamp="2014-08-13T08:49:14Z" loudness="80" location="geo:53.344497920542274,-6.251449185591622"/>
+	<measurement timeStamp="2014-08-13T08:49:15Z" loudness="80" location="geo:53.344511088998836,-6.2513317735449325"/>
+	<measurement timeStamp="2014-08-13T08:49:16Z" loudness="80" location="geo:53.344511088998836,-6.2513317735449325"/>
+	<measurement timeStamp="2014-08-13T08:49:17Z" loudness="79" location="geo:53.344511088998836,-6.2513317735449325"/>
+	<measurement timeStamp="2014-08-13T08:49:18Z" loudness="79" location="geo:53.344511088998836,-6.2513317735449325"/>
+	<measurement timeStamp="2014-08-13T08:49:19Z" loudness="78" location="geo:53.344511088998836,-6.2513317735449325"/>
+	<measurement timeStamp="2014-08-13T08:49:20Z" loudness="79" location="geo:53.3445083792442,-6.251268605734571"/>
+	<measurement timeStamp="2014-08-13T08:49:21Z" loudness="80" location="geo:53.3445083792442,-6.251268605734571"/>
+	<measurement timeStamp="2014-08-13T08:49:22Z" loudness="79" location="geo:53.34449804695315,-6.2511970074666126"/>
+	<measurement timeStamp="2014-08-13T08:49:23Z" loudness="78" location="geo:53.34449804695315,-6.2511970074666126"/>
+	<measurement timeStamp="2014-08-13T08:49:24Z" loudness="79" location="geo:53.34449249789979,-6.251131342222199"/>
+	<measurement timeStamp="2014-08-13T08:49:25Z" loudness="78" location="geo:53.34449249789979,-6.251131342222199"/>
+	<measurement timeStamp="2014-08-13T08:49:26Z" loudness="80" location="geo:53.34449452593728,-6.251064984537599"/>
+	<measurement timeStamp="2014-08-13T08:49:27Z" loudness="80" location="geo:53.34449452593728,-6.251064984537599"/>
+	<measurement timeStamp="2014-08-13T08:49:28Z" loudness="79" location="geo:53.34449991400408,-6.251002130756889"/>
+	<measurement timeStamp="2014-08-13T08:49:29Z" loudness="80" location="geo:53.34449991400408,-6.251002130756889"/>
+	<measurement timeStamp="2014-08-13T08:49:30Z" loudness="80" location="geo:53.344499640473785,-6.2509451338690525"/>
+	<measurement timeStamp="2014-08-13T08:49:31Z" loudness="80" location="geo:53.344499640473785,-6.2509451338690525"/>
+	<measurement timeStamp="2014-08-13T08:49:32Z" loudness="81" location="geo:53.34449746134749,-6.250890065685401"/>
+	<measurement timeStamp="2014-08-13T08:49:33Z" loudness="82" location="geo:53.34449746134749,-6.250890065685401"/>
+	<measurement timeStamp="2014-08-13T08:49:34Z" loudness="83" location="geo:53.34448712727269,-6.2508277714322205"/>
+	<measurement timeStamp="2014-08-13T08:49:35Z" loudness="80" location="geo:53.34448712727269,-6.2508277714322205"/>
+	<measurement timeStamp="2014-08-13T08:49:36Z" loudness="81" location="geo:53.34448712727269,-6.2508277714322205"/>
+	<measurement timeStamp="2014-08-13T08:49:37Z" loudness="85" location="geo:53.34447271799618,-6.250776031900362"/>
+	<measurement timeStamp="2014-08-13T08:49:38Z" loudness="89" location="geo:53.34447271799618,-6.250776031900362"/>
+	<measurement timeStamp="2014-08-13T08:49:39Z" loudness="85" location="geo:53.34447271799618,-6.250776031900362"/>
+	<measurement timeStamp="2014-08-13T08:49:40Z" loudness="84" location="geo:53.344462395694,-6.2507218837072145"/>
+	<measurement timeStamp="2014-08-13T08:49:41Z" loudness="81" location="geo:53.344462395694,-6.2507218837072145"/>
+	<measurement timeStamp="2014-08-13T08:49:42Z" loudness="81" location="geo:53.344462395694,-6.2507218837072145"/>
+	<measurement timeStamp="2014-08-13T08:49:43Z" loudness="81" location="geo:53.3444391028191,-6.250660226236627"/>
+	<measurement timeStamp="2014-08-13T08:49:44Z" loudness="81" location="geo:53.3444391028191,-6.250660226236627"/>
+	<measurement timeStamp="2014-08-13T08:49:45Z" loudness="81" location="geo:53.3444391028191,-6.250660226236627"/>
+	<measurement timeStamp="2014-08-13T08:49:46Z" loudness="80" location="geo:53.3444391028191,-6.250660226236627"/>
+	<measurement timeStamp="2014-08-13T08:49:47Z" loudness="81" location="geo:53.344422501775576,-6.250621762202837"/>
+	<measurement timeStamp="2014-08-13T08:49:48Z" loudness="80" location="geo:53.344422501775576,-6.250621762202837"/>
+	<measurement timeStamp="2014-08-13T08:49:49Z" loudness="80" location="geo:53.34439817574562,-6.250557157005977"/>
+	<measurement timeStamp="2014-08-13T08:49:50Z" loudness="80" location="geo:53.34439817574562,-6.250557157005977"/>
+	<measurement timeStamp="2014-08-13T08:49:51Z" loudness="81" location="geo:53.34439817574562,-6.250557157005977"/>
+	<measurement timeStamp="2014-08-13T08:49:52Z" loudness="80" location="geo:53.34437230913348,-6.250486792061528"/>
+	<measurement timeStamp="2014-08-13T08:49:53Z" loudness="77" location="geo:53.34437230913348,-6.250486792061528"/>
+	<measurement timeStamp="2014-08-13T08:49:54Z" loudness="76" location="geo:53.34437230913348,-6.250486792061528"/>
+	<measurement timeStamp="2014-08-13T08:49:55Z" loudness="78" location="geo:53.344352753389636,-6.250433028139589"/>
+	<measurement timeStamp="2014-08-13T08:49:56Z" loudness="77" location="geo:53.344352753389636,-6.250433028139589"/>
+	<measurement timeStamp="2014-08-13T08:49:57Z" loudness="77" location="geo:53.344312575802014,-6.250428523475364"/>
+	<measurement timeStamp="2014-08-13T08:49:58Z" loudness="76" location="geo:53.344312575802014,-6.250428523475364"/>
+	<measurement timeStamp="2014-08-13T08:49:59Z" loudness="75" location="geo:53.344312575802014,-6.250428523475364"/>
+	<measurement timeStamp="2014-08-13T08:50:00Z" loudness="76" location="geo:53.344312575802014,-6.250428523475364"/>
+	<measurement timeStamp="2014-08-13T08:50:01Z" loudness="80" location="geo:53.344312575802014,-6.250428523475364"/>
+	<measurement timeStamp="2014-08-13T08:50:02Z" loudness="79" location="geo:53.344312575802014,-6.250428523475364"/>
+	<measurement timeStamp="2014-08-13T08:50:03Z" loudness="81" location="geo:53.344312575802014,-6.250428523475364"/>
+	<measurement timeStamp="2014-08-13T08:50:04Z" loudness="79" location="geo:53.344312575802014,-6.250428523475364"/>
+	<measurement timeStamp="2014-08-13T08:50:05Z" loudness="79" location="geo:53.344312575802014,-6.250428523475364"/>
+	<measurement timeStamp="2014-08-13T08:50:06Z" loudness="79" location="geo:53.344312575802014,-6.250428523475364"/>
+	<measurement timeStamp="2014-08-13T08:50:07Z" loudness="77" location="geo:53.344312575802014,-6.250428523475364"/>
+	<measurement timeStamp="2014-08-13T08:50:08Z" loudness="76" location="geo:53.344312575802014,-6.250428523475364"/>
+	<measurement timeStamp="2014-08-13T08:50:09Z" loudness="75" location="geo:53.344312575802014,-6.250428523475364"/>
+	<measurement timeStamp="2014-08-13T08:50:10Z" loudness="75" location="geo:53.344290058292934,-6.25044975719917"/>
+	<measurement timeStamp="2014-08-13T08:50:11Z" loudness="75" location="geo:53.344290058292934,-6.25044975719917"/>
+	<measurement timeStamp="2014-08-13T08:50:12Z" loudness="75" location="geo:53.344290058292934,-6.25044975719917"/>
+	<measurement timeStamp="2014-08-13T08:50:13Z" loudness="75" location="geo:53.34428003523499,-6.250459374859929"/>
+	<measurement timeStamp="2014-08-13T08:50:14Z" loudness="77" location="geo:53.34425752982497,-6.250502290204167"/>
+	<measurement timeStamp="2014-08-13T08:50:15Z" loudness="76" location="geo:53.34422995336354,-6.250531459227204"/>
+	<measurement timeStamp="2014-08-13T08:50:16Z" loudness="77" location="geo:53.344171517533816,-6.25051958487165"/>
+	<measurement timeStamp="2014-08-13T08:50:17Z" loudness="75" location="geo:53.344171517533816,-6.25051958487165"/>
+	<measurement timeStamp="2014-08-13T08:50:18Z" loudness="77" location="geo:53.344171517533816,-6.25051958487165"/>
+	<measurement timeStamp="2014-08-13T08:50:19Z" loudness="76" location="geo:53.34414049751091,-6.25053954776346"/>
+	<measurement timeStamp="2014-08-13T08:50:20Z" loudness="76" location="geo:53.34414049751091,-6.25053954776346"/>
+	<measurement timeStamp="2014-08-13T08:50:21Z" loudness="75" location="geo:53.344108200143324,-6.250580504360679"/>
+	<measurement timeStamp="2014-08-13T08:50:22Z" loudness="76" location="geo:53.344108200143324,-6.250580504360679"/>
+	<measurement timeStamp="2014-08-13T08:50:23Z" loudness="76" location="geo:53.34409034994865,-6.250638639855642"/>
+	<measurement timeStamp="2014-08-13T08:50:24Z" loudness="77" location="geo:53.34409034994865,-6.250638639855642"/>
+	<measurement timeStamp="2014-08-13T08:50:25Z" loudness="76" location="geo:53.34406474705945,-6.250644465572617"/>
+	<measurement timeStamp="2014-08-13T08:50:26Z" loudness="76" location="geo:53.34406474705945,-6.250644465572617"/>
+	<measurement timeStamp="2014-08-13T08:50:27Z" loudness="77" location="geo:53.34406474705945,-6.250644465572617"/>
+	<measurement timeStamp="2014-08-13T08:50:28Z" loudness="75" location="geo:53.34406474705945,-6.250644465572617"/>
+	<measurement timeStamp="2014-08-13T08:50:29Z" loudness="76" location="geo:53.34406474705945,-6.250644465572617"/>
+	<measurement timeStamp="2014-08-13T08:50:30Z" loudness="77" location="geo:53.344041233923804,-6.250608394068541"/>
+	<measurement timeStamp="2014-08-13T08:50:31Z" loudness="79" location="geo:53.344041233923804,-6.250608394068541"/>
+	<measurement timeStamp="2014-08-13T08:50:32Z" loudness="79" location="geo:53.344041233923804,-6.250608394068541"/>
+	<measurement timeStamp="2014-08-13T08:50:33Z" loudness="77" location="geo:53.344041233923804,-6.250608394068541"/>
+	<measurement timeStamp="2014-08-13T08:50:34Z" loudness="77" location="geo:53.34400399448239,-6.250602370213061"/>
+	<measurement timeStamp="2014-08-13T08:50:35Z" loudness="74" location="geo:53.34400399448239,-6.250602370213061"/>
+	<measurement timeStamp="2014-08-13T08:50:36Z" loudness="76" location="geo:53.34400399448239,-6.250602370213061"/>
+	<measurement timeStamp="2014-08-13T08:50:37Z" loudness="75" location="geo:53.34400399448239,-6.250602370213061"/>
+	<measurement timeStamp="2014-08-13T08:50:38Z" loudness="75" location="geo:53.34400399448239,-6.250602370213061"/>
+	<measurement timeStamp="2014-08-13T08:50:39Z" loudness="75" location="geo:53.34400399448239,-6.250602370213061"/>
+	<measurement timeStamp="2014-08-13T08:50:40Z" loudness="77" location="geo:53.34400399448239,-6.250602370213061"/>
+	<measurement timeStamp="2014-08-13T08:50:41Z" loudness="79" location="geo:53.34398580684351,-6.250637087744448"/>
+	<measurement timeStamp="2014-08-13T08:50:42Z" loudness="75" location="geo:53.34398580684351,-6.250637087744448"/>
+	<measurement timeStamp="2014-08-13T08:50:43Z" loudness="76" location="geo:53.34398580684351,-6.250637087744448"/>
+	<measurement timeStamp="2014-08-13T08:50:44Z" loudness="75" location="geo:53.34397929254919,-6.250654170289636"/>
+	<measurement timeStamp="2014-08-13T08:50:45Z" loudness="73" location="geo:53.34397929254919,-6.250654170289636"/>
+	<measurement timeStamp="2014-08-13T08:50:46Z" loudness="73" location="geo:53.34397929254919,-6.250654170289636"/>
+	<measurement timeStamp="2014-08-13T08:50:47Z" loudness="77" location="geo:53.34397929254919,-6.250654170289636"/>
+	<measurement timeStamp="2014-08-13T08:50:48Z" loudness="75" location="geo:53.34397929254919,-6.250654170289636"/>
+	<measurement timeStamp="2014-08-13T08:50:49Z" loudness="75" location="geo:53.34397929254919,-6.250654170289636"/>
+	<measurement timeStamp="2014-08-13T08:50:50Z" loudness="74" location="geo:53.34397929254919,-6.250654170289636"/>
+	<measurement timeStamp="2014-08-13T08:50:51Z" loudness="73" location="geo:53.34397929254919,-6.250654170289636"/>
+	<measurement timeStamp="2014-08-13T08:50:52Z" loudness="74" location="geo:53.34397929254919,-6.250654170289636"/>
+	<measurement timeStamp="2014-08-13T08:50:53Z" loudness="69" location="geo:53.34397929254919,-6.250654170289636"/>
+	<measurement timeStamp="2014-08-13T08:50:54Z" loudness="65" location="geo:53.34397929254919,-6.250654170289636"/>
+	<measurement timeStamp="2014-08-13T08:50:55Z" loudness="71" location="geo:53.34397929254919,-6.250654170289636"/>
+	<measurement timeStamp="2014-08-13T08:50:56Z" loudness="73" location="geo:53.34397929254919,-6.250654170289636"/>
+	<measurement timeStamp="2014-08-13T08:50:57Z" loudness="72" location="geo:53.34397929254919,-6.250654170289636"/>
+	<measurement timeStamp="2014-08-13T08:50:58Z" loudness="69" location="geo:53.34397929254919,-6.250654170289636"/>
+	<measurement timeStamp="2014-08-13T08:50:59Z" loudness="68" location="geo:53.34397929254919,-6.250654170289636"/>
+	<measurement timeStamp="2014-08-13T08:51:00Z" loudness="73" location="geo:53.34397929254919,-6.250654170289636"/>
+	<measurement timeStamp="2014-08-13T08:51:01Z" loudness="72" location="geo:53.34397929254919,-6.250654170289636"/>
+	<measurement timeStamp="2014-08-13T08:51:02Z" loudness="75" location="geo:53.34397929254919,-6.250654170289636"/>
+	<measurement timeStamp="2014-08-13T08:51:03Z" loudness="74" location="geo:53.34397929254919,-6.250654170289636"/>
+	<measurement timeStamp="2014-08-13T08:51:04Z" loudness="75"/>
+	<measurement timeStamp="2014-08-13T08:51:05Z" loudness="74"/>
+	<measurement timeStamp="2014-08-13T08:51:06Z" loudness="73"/>
+	<measurement timeStamp="2014-08-13T08:51:07Z" loudness="64"/>
+	<measurement timeStamp="2014-08-13T08:51:08Z" loudness="63"/>
+	<measurement timeStamp="2014-08-13T08:51:09Z" loudness="73"/>
+	<measurement timeStamp="2014-08-13T08:51:10Z" loudness="73"/>
+	<measurement timeStamp="2014-08-13T08:51:11Z" loudness="74"/>
+	<measurement timeStamp="2014-08-13T08:51:12Z" loudness="74"/>
+	<measurement timeStamp="2014-08-13T08:51:13Z" loudness="68"/>
+	<measurement timeStamp="2014-08-13T08:51:14Z" loudness="76"/>
+	<measurement timeStamp="2014-08-13T08:51:15Z" loudness="74"/>
+	<measurement timeStamp="2014-08-13T08:51:16Z" loudness="73"/>
+	<measurement timeStamp="2014-08-13T08:51:17Z" loudness="70"/>
+	<measurement timeStamp="2014-08-13T08:51:18Z" loudness="72"/>
+	<measurement timeStamp="2014-08-13T08:51:19Z" loudness="73"/>
+	<measurement timeStamp="2014-08-13T08:51:20Z" loudness="72"/>
+	<measurement timeStamp="2014-08-13T08:51:21Z" loudness="71"/>
+	<measurement timeStamp="2014-08-13T08:51:22Z" loudness="70"/>
+	<measurement timeStamp="2014-08-13T08:51:23Z" loudness="73"/>
+	<measurement timeStamp="2014-08-13T08:51:24Z" loudness="73"/>
+	<measurement timeStamp="2014-08-13T08:51:25Z" loudness="72"/>
+	<measurement timeStamp="2014-08-13T08:51:26Z" loudness="71"/>
+	<measurement timeStamp="2014-08-13T08:51:27Z" loudness="70"/>
+	<measurement timeStamp="2014-08-13T08:51:28Z" loudness="70"/>
+	<measurement timeStamp="2014-08-13T08:51:29Z" loudness="69"/>
+	<measurement timeStamp="2014-08-13T08:51:30Z" loudness="71"/>
+	<measurement timeStamp="2014-08-13T08:51:31Z" loudness="71"/>
+	<measurement timeStamp="2014-08-13T08:51:32Z" loudness="68"/>
+	<measurement timeStamp="2014-08-13T08:51:33Z" loudness="75"/>
+	<measurement timeStamp="2014-08-13T08:51:34Z" loudness="77"/>
+	<measurement timeStamp="2014-08-13T08:51:35Z" loudness="73"/>
+	<measurement timeStamp="2014-08-13T08:51:36Z" loudness="77"/>
+	<measurement timeStamp="2014-08-13T08:51:37Z" loudness="75"/>
+	<measurement timeStamp="2014-08-13T08:51:38Z" loudness="74"/>
+	<measurement timeStamp="2014-08-13T08:51:39Z" loudness="73"/>
+	<measurement timeStamp="2014-08-13T08:51:40Z" loudness="79"/>
+	<measurement timeStamp="2014-08-13T08:51:41Z" loudness="79"/>
+	<measurement timeStamp="2014-08-13T08:51:42Z" loudness="75"/>
+	<measurement timeStamp="2014-08-13T08:51:43Z" loudness="67"/>
+	<measurement timeStamp="2014-08-13T08:51:44Z" loudness="74"/>
+	<measurement timeStamp="2014-08-13T08:51:45Z" loudness="68"/>
+	<measurement timeStamp="2014-08-13T08:51:46Z" loudness="66"/>
+	<measurement timeStamp="2014-08-13T08:51:47Z" loudness="75"/>
+	<measurement timeStamp="2014-08-13T08:51:48Z" loudness="76"/>
+	<measurement timeStamp="2014-08-13T08:51:49Z" loudness="70"/>
+	<measurement timeStamp="2014-08-13T08:51:50Z" loudness="80"/>
+	<measurement timeStamp="2014-08-13T08:51:51Z" loudness="66"/>
+	<measurement timeStamp="2014-08-13T08:51:52Z" loudness="68"/>
+	<measurement timeStamp="2014-08-13T08:51:53Z" loudness="63"/>
+	<measurement timeStamp="2014-08-13T08:51:54Z" loudness="70"/>
+	<measurement timeStamp="2014-08-13T08:51:55Z" loudness="68"/>
+	<measurement timeStamp="2014-08-13T08:51:56Z" loudness="69"/>
+	<measurement timeStamp="2014-08-13T08:51:57Z" loudness="71"/>
+	<measurement timeStamp="2014-08-13T08:51:58Z" loudness="60"/>
+	<measurement timeStamp="2014-08-13T08:51:59Z" loudness="61"/>
+	<measurement timeStamp="2014-08-13T08:52:00Z" loudness="61"/>
+	<measurement timeStamp="2014-08-13T08:52:01Z" loudness="58"/>
+	<measurement timeStamp="2014-08-13T08:52:02Z" loudness="60"/>
+	<measurement timeStamp="2014-08-13T08:52:03Z" loudness="73"/>
+	<measurement timeStamp="2014-08-13T08:52:04Z" loudness="62"/>
+	<measurement timeStamp="2014-08-13T08:52:05Z" loudness="70"/>
+	<measurement timeStamp="2014-08-13T08:52:06Z" loudness="68"/>
+	<measurement timeStamp="2014-08-13T08:52:07Z" loudness="65"/>
+	<measurement timeStamp="2014-08-13T08:52:08Z" loudness="59"/>
+	<measurement timeStamp="2014-08-13T08:52:09Z" loudness="69"/>
+	<measurement timeStamp="2014-08-13T08:52:10Z" loudness="72"/>
+	<measurement timeStamp="2014-08-13T08:52:11Z" loudness="81"/>
+	<measurement timeStamp="2014-08-13T08:52:12Z" loudness="76"/>
+	<measurement timeStamp="2014-08-13T08:52:13Z" loudness="81"/>
+	<measurement timeStamp="2014-08-13T08:52:14Z" loudness="79"/>
+	<measurement timeStamp="2014-08-13T08:52:15Z" loudness="73"/>
+	<measurement timeStamp="2014-08-13T08:52:16Z" loudness="59"/>
+	<measurement timeStamp="2014-08-13T08:52:17Z" loudness="68"/>
+	<measurement timeStamp="2014-08-13T08:52:18Z" loudness="76"/>
+	<measurement timeStamp="2014-08-13T08:52:19Z" loudness="59"/>
+	<measurement timeStamp="2014-08-13T08:52:20Z" loudness="78"/>
+	<measurement timeStamp="2014-08-13T08:52:21Z" loudness="67"/>
+	<measurement timeStamp="2014-08-13T08:52:22Z" loudness="61"/>
+	<measurement timeStamp="2014-08-13T08:52:23Z" loudness="61"/>
+	<measurement timeStamp="2014-08-13T08:52:24Z" loudness="74"/>
+	<measurement timeStamp="2014-08-13T08:52:25Z" loudness="76"/>
+	<measurement timeStamp="2014-08-13T08:52:26Z" loudness="65"/>
+	<measurement timeStamp="2014-08-13T08:52:27Z" loudness="63"/>
+	<measurement timeStamp="2014-08-13T08:52:28Z" loudness="78"/>
+	<measurement timeStamp="2014-08-13T08:52:29Z" loudness="75"/>
+	<measurement timeStamp="2014-08-13T08:52:30Z" loudness="64"/>
+	<measurement timeStamp="2014-08-13T08:52:31Z" loudness="72"/>
+	<measurement timeStamp="2014-08-13T08:52:32Z" loudness="65"/>
+	<measurement timeStamp="2014-08-13T08:52:33Z" loudness="63"/>
+	<measurement timeStamp="2014-08-13T08:52:34Z" loudness="54"/>
+	<measurement timeStamp="2014-08-13T08:52:35Z" loudness="64"/>
+	<measurement timeStamp="2014-08-13T08:52:36Z" loudness="66"/>
+	<measurement timeStamp="2014-08-13T08:52:37Z" loudness="57"/>
+	<measurement timeStamp="2014-08-13T08:52:38Z" loudness="63"/>
+	<measurement timeStamp="2014-08-13T08:52:39Z" loudness="65"/>
+	<measurement timeStamp="2014-08-13T08:52:40Z" loudness="53"/>
+	<measurement timeStamp="2014-08-13T08:52:41Z" loudness="65"/>
+	<measurement timeStamp="2014-08-13T08:52:42Z" loudness="69"/>
+	<measurement timeStamp="2014-08-13T08:52:43Z" loudness="51"/>
+	<measurement timeStamp="2014-08-13T08:52:44Z" loudness="46"/>
+	<measurement timeStamp="2014-08-13T08:52:45Z" loudness="52"/>
+	<measurement timeStamp="2014-08-13T08:52:46Z" loudness="52"/>
+	<measurement timeStamp="2014-08-13T08:52:47Z" loudness="49"/>
+	<measurement timeStamp="2014-08-13T08:52:48Z" loudness="71"/>
+	<measurement timeStamp="2014-08-13T08:52:49Z" loudness="80"/>
+	<measurement timeStamp="2014-08-13T08:52:50Z" loudness="66"/>
+	<measurement timeStamp="2014-08-13T08:52:51Z" loudness="62"/>
+	<measurement timeStamp="2014-08-13T08:52:52Z" loudness="73"/>
+	<measurement timeStamp="2014-08-13T08:52:53Z" loudness="72"/>
+	<measurement timeStamp="2014-08-13T08:52:54Z" loudness="71"/>
+	<measurement timeStamp="2014-08-13T08:52:55Z" loudness="71"/>
+	<measurement timeStamp="2014-08-13T08:52:56Z" loudness="74"/>
+	<measurement timeStamp="2014-08-13T08:52:57Z" loudness="72"/>
+	<measurement timeStamp="2014-08-13T08:52:58Z" loudness="73"/>
+	<measurement timeStamp="2014-08-13T08:52:59Z" loudness="73"/>
+	<measurement timeStamp="2014-08-13T08:53:00Z" loudness="74"/>
+	<measurement timeStamp="2014-08-13T08:53:01Z" loudness="72"/>
+	<measurement timeStamp="2014-08-13T08:53:02Z" loudness="73"/>
+	<measurement timeStamp="2014-08-13T08:53:03Z" loudness="72"/>
+	<measurement timeStamp="2014-08-13T08:53:04Z" loudness="69"/>
+	<measurement timeStamp="2014-08-13T08:53:05Z" loudness="56"/>
+	<measurement timeStamp="2014-08-13T08:53:06Z" loudness="51"/>
+	<measurement timeStamp="2014-08-13T08:53:07Z" loudness="63"/>
+	<measurement timeStamp="2014-08-13T08:53:08Z" loudness="72"/>
+	<measurement timeStamp="2014-08-13T08:53:09Z" loudness="59"/>
+	<measurement timeStamp="2014-08-13T08:53:10Z" loudness="47"/>
+	<measurement timeStamp="2014-08-13T08:53:11Z" loudness="46"/>
+	<measurement timeStamp="2014-08-13T08:53:12Z" loudness="45"/>
+	<measurement timeStamp="2014-08-13T08:53:13Z" loudness="44"/>
+	<measurement timeStamp="2014-08-13T08:53:14Z" loudness="44"/>
+	<measurement timeStamp="2014-08-13T08:53:15Z" loudness="46"/>
+	<measurement timeStamp="2014-08-13T08:53:16Z" loudness="46"/>
+	<measurement timeStamp="2014-08-13T08:53:17Z" loudness="49"/>
+	<measurement timeStamp="2014-08-13T08:53:18Z" loudness="68"/>
+	<measurement timeStamp="2014-08-13T08:53:19Z" loudness="67"/>
+	<measurement timeStamp="2014-08-13T08:53:20Z" loudness="70"/>
+	<measurement timeStamp="2014-08-13T08:53:21Z" loudness="64"/>
+	<measurement timeStamp="2014-08-13T08:53:22Z" loudness="69"/>
+	<measurement timeStamp="2014-08-13T08:53:23Z" loudness="53"/>
+	<measurement timeStamp="2014-08-13T08:53:24Z" loudness="66"/>
+	<measurement timeStamp="2014-08-13T08:53:25Z" loudness="69"/>
+	<measurement timeStamp="2014-08-13T08:53:26Z" loudness="73"/>
+	<measurement timeStamp="2014-08-13T08:53:27Z" loudness="73"/>
+	<measurement timeStamp="2014-08-13T08:53:28Z" loudness="74"/>
+	<measurement timeStamp="2014-08-13T08:53:29Z" loudness="74"/>
+	<measurement timeStamp="2014-08-13T08:53:30Z" loudness="74"/>
+	<measurement timeStamp="2014-08-13T08:53:31Z" loudness="73"/>
+	<measurement timeStamp="2014-08-13T08:53:32Z" loudness="72"/>
+	<measurement timeStamp="2014-08-13T08:53:33Z" loudness="72"/>
+	<measurement timeStamp="2014-08-13T08:53:34Z" loudness="75"/>
+	<measurement timeStamp="2014-08-13T08:53:35Z" loudness="71"/>
+	<measurement timeStamp="2014-08-13T08:53:36Z" loudness="70"/>
+	<measurement timeStamp="2014-08-13T08:53:37Z" loudness="71"/>
+	<measurement timeStamp="2014-08-13T08:53:38Z" loudness="77"/>
+	<measurement timeStamp="2014-08-13T08:53:39Z" loudness="66"/>
+	<measurement timeStamp="2014-08-13T08:53:40Z" loudness="64"/>
+	<measurement timeStamp="2014-08-13T08:53:41Z" loudness="76"/>
+	<measurement timeStamp="2014-08-13T08:53:42Z" loudness="76"/>
+	<measurement timeStamp="2014-08-13T08:53:43Z" loudness="73"/>
+	<measurement timeStamp="2014-08-13T08:53:44Z" loudness="77"/>
+	<measurement timeStamp="2014-08-13T08:53:45Z" loudness="76"/>
+	<measurement timeStamp="2014-08-13T08:53:46Z" loudness="71"/>
+	<measurement timeStamp="2014-08-13T08:53:47Z" loudness="71"/>
+	<measurement timeStamp="2014-08-13T08:53:48Z" loudness="82"/>
+	<measurement timeStamp="2014-08-13T08:53:49Z" loudness="78"/>
+	<measurement timeStamp="2014-08-13T08:53:50Z" loudness="79"/>
+	<measurement timeStamp="2014-08-13T08:53:51Z" loudness="79"/>
+	<measurement timeStamp="2014-08-13T08:53:52Z" loudness="71"/>
+	<measurement timeStamp="2014-08-13T08:53:53Z" loudness="74"/>
+	<measurement timeStamp="2014-08-13T08:53:54Z" loudness="74"/>
+	<measurement timeStamp="2014-08-13T08:53:55Z" loudness="72"/>
+	<measurement timeStamp="2014-08-13T08:53:56Z" loudness="65"/>
+	<measurement timeStamp="2014-08-13T08:53:57Z" loudness="64"/>
+	<measurement timeStamp="2014-08-13T08:53:58Z" loudness="81"/>
+	<measurement timeStamp="2014-08-13T08:53:59Z" loudness="74"/>
+	<measurement timeStamp="2014-08-13T08:54:00Z" loudness="76"/>
+	<measurement timeStamp="2014-08-13T08:54:01Z" loudness="75"/>
+	<measurement timeStamp="2014-08-13T08:54:02Z" loudness="74"/>
+	<measurement timeStamp="2014-08-13T08:54:03Z" loudness="69"/>
+	<measurement timeStamp="2014-08-13T08:54:04Z" loudness="78"/>
+	<measurement timeStamp="2014-08-13T08:54:05Z" loudness="76"/>
+	<measurement timeStamp="2014-08-13T08:54:06Z" loudness="72"/>
+	<measurement timeStamp="2014-08-13T08:54:07Z" loudness="73"/>
+	<measurement timeStamp="2014-08-13T08:54:08Z" loudness="74"/>
+	<measurement timeStamp="2014-08-13T08:54:09Z" loudness="74"/>
+	<measurement timeStamp="2014-08-13T08:54:10Z" loudness="74"/>
+	<measurement timeStamp="2014-08-13T08:54:11Z" loudness="74"/>
+	<measurement timeStamp="2014-08-13T08:54:12Z" loudness="69"/>
+	<measurement timeStamp="2014-08-13T08:54:13Z" loudness="69"/>
+	<measurement timeStamp="2014-08-13T08:54:14Z" loudness="70"/>
+	<measurement timeStamp="2014-08-13T08:54:15Z" loudness="75"/>
+	<measurement timeStamp="2014-08-13T08:54:16Z" loudness="71"/>
+	<measurement timeStamp="2014-08-13T08:54:17Z" loudness="68"/>
+	<measurement timeStamp="2014-08-13T08:54:18Z" loudness="64"/>
+	<measurement timeStamp="2014-08-13T08:54:19Z" loudness="76"/>
+	<measurement timeStamp="2014-08-13T08:54:20Z" loudness="74"/>
+	<measurement timeStamp="2014-08-13T08:54:21Z" loudness="74"/>
+	<measurement timeStamp="2014-08-13T08:54:22Z" loudness="73"/>
+	<measurement timeStamp="2014-08-13T08:54:23Z" loudness="75"/>
+	<measurement timeStamp="2014-08-13T08:54:24Z" loudness="76"/>
+	<measurement timeStamp="2014-08-13T08:54:25Z" loudness="81"/>
+	<measurement timeStamp="2014-08-13T08:54:26Z" loudness="78"/>
+	<measurement timeStamp="2014-08-13T08:54:27Z" loudness="77"/>
+	<measurement timeStamp="2014-08-13T08:54:28Z" loudness="74"/>
+	<measurement timeStamp="2014-08-13T08:54:29Z" loudness="74"/>
+	<measurement timeStamp="2014-08-13T08:54:30Z" loudness="75"/>
+	<measurement timeStamp="2014-08-13T08:54:31Z" loudness="72"/>
+	<measurement timeStamp="2014-08-13T08:54:32Z" loudness="73"/>
+	<measurement timeStamp="2014-08-13T08:54:33Z" loudness="80"/>
+	<measurement timeStamp="2014-08-13T08:54:34Z" loudness="79"/>
+	<measurement timeStamp="2014-08-13T08:54:35Z" loudness="83"/>
+	<measurement timeStamp="2014-08-13T08:54:36Z" loudness="84"/>
+	<measurement timeStamp="2014-08-13T08:54:37Z" loudness="77"/>
+	<measurement timeStamp="2014-08-13T08:54:38Z" loudness="77"/>
+	<measurement timeStamp="2014-08-13T08:54:39Z" loudness="73"/>
+	<measurement timeStamp="2014-08-13T08:54:40Z" loudness="72"/>
+	<measurement timeStamp="2014-08-13T08:54:41Z" loudness="80"/>
+	<measurement timeStamp="2014-08-13T08:54:42Z" loudness="71"/>
+	<measurement timeStamp="2014-08-13T08:54:43Z" loudness="75"/>
+	<measurement timeStamp="2014-08-13T08:54:44Z" loudness="73"/>
+	<measurement timeStamp="2014-08-13T08:54:45Z" loudness="80"/>
+	<measurement timeStamp="2014-08-13T08:54:46Z" loudness="80"/>
+	<measurement timeStamp="2014-08-13T08:54:47Z" loudness="76"/>
+	<measurement timeStamp="2014-08-13T08:54:48Z" loudness="79"/>
+	<measurement timeStamp="2014-08-13T08:54:49Z" loudness="68"/>
+	<measurement timeStamp="2014-08-13T08:54:50Z" loudness="71"/>
+	<measurement timeStamp="2014-08-13T08:54:51Z" loudness="72"/>
+	<measurement timeStamp="2014-08-13T08:54:52Z" loudness="68"/>
+	<measurement timeStamp="2014-08-13T08:54:53Z" loudness="68"/>
+	<measurement timeStamp="2014-08-13T08:54:54Z" loudness="66"/>
+	<measurement timeStamp="2014-08-13T08:54:55Z" loudness="77"/>
+	<measurement timeStamp="2014-08-13T08:54:56Z" loudness="69"/>
+	<measurement timeStamp="2014-08-13T08:54:57Z" loudness="76"/>
+	<measurement timeStamp="2014-08-13T08:54:58Z" loudness="80"/>
+	<measurement timeStamp="2014-08-13T08:54:59Z" loudness="79"/>
+	<measurement timeStamp="2014-08-13T08:55:00Z" loudness="83"/>
+	<measurement timeStamp="2014-08-13T08:55:01Z" loudness="88"/>
+	<measurement timeStamp="2014-08-13T08:55:02Z" loudness="85"/>
+	<measurement timeStamp="2014-08-13T08:55:03Z" loudness="82"/>
+	<measurement timeStamp="2014-08-13T08:55:04Z" loudness="76"/>
+	<measurement timeStamp="2014-08-13T08:55:05Z" loudness="81"/>
+	<measurement timeStamp="2014-08-13T08:55:06Z" loudness="79"/>
+	<measurement timeStamp="2014-08-13T08:55:07Z" loudness="81"/>
+	<measurement timeStamp="2014-08-13T08:55:08Z" loudness="79"/>
+	<measurement timeStamp="2014-08-13T08:55:09Z" loudness="80"/>
+	<measurement timeStamp="2014-08-13T08:55:10Z" loudness="77"/>
+	<measurement timeStamp="2014-08-13T08:55:11Z" loudness="85"/>
+	<measurement timeStamp="2014-08-13T08:55:12Z" loudness="81"/>
+	<measurement timeStamp="2014-08-13T08:55:13Z" loudness="73"/>
+	<measurement timeStamp="2014-08-13T08:55:14Z" loudness="83"/>
+	<measurement timeStamp="2014-08-13T08:55:15Z" loudness="85"/>
+	<measurement timeStamp="2014-08-13T08:55:16Z" loudness="79"/>
+	<measurement timeStamp="2014-08-13T08:55:17Z" loudness="79"/>
+	<measurement timeStamp="2014-08-13T08:55:18Z" loudness="83"/>
+	<measurement timeStamp="2014-08-13T08:55:19Z" loudness="83"/>
+	<measurement timeStamp="2014-08-13T08:55:20Z" loudness="83"/>
+	<measurement timeStamp="2014-08-13T08:55:21Z" loudness="80"/>
+	<measurement timeStamp="2014-08-13T08:55:22Z" loudness="81"/>
+	<measurement timeStamp="2014-08-13T08:55:23Z" loudness="78"/>
+	<measurement timeStamp="2014-08-13T08:55:24Z" loudness="72"/>
+	<measurement timeStamp="2014-08-13T08:55:25Z" loudness="72"/>
+	<measurement timeStamp="2014-08-13T08:55:26Z" loudness="81"/>
+	<measurement timeStamp="2014-08-13T08:55:27Z" loudness="70"/>
+	<measurement timeStamp="2014-08-13T08:55:28Z" loudness="80"/>
+	<measurement timeStamp="2014-08-13T08:55:29Z" loudness="83"/>
+	<measurement timeStamp="2014-08-13T08:55:30Z" loudness="67"/>
+	<measurement timeStamp="2014-08-13T08:55:31Z" loudness="74"/>
+	<measurement timeStamp="2014-08-13T08:55:32Z" loudness="74"/>
+	<measurement timeStamp="2014-08-13T08:55:33Z" loudness="76"/>
+	<measurement timeStamp="2014-08-13T08:55:34Z" loudness="76"/>
+	<measurement timeStamp="2014-08-13T08:55:35Z" loudness="80"/>
+	<measurement timeStamp="2014-08-13T08:55:36Z" loudness="80"/>
+	<measurement timeStamp="2014-08-13T08:55:37Z" loudness="65"/>
+	<measurement timeStamp="2014-08-13T08:55:38Z" loudness="71"/>
+	<measurement timeStamp="2014-08-13T08:55:39Z" loudness="77"/>
+	<measurement timeStamp="2014-08-13T08:55:40Z" loudness="75"/>
+	<measurement timeStamp="2014-08-13T08:55:41Z" loudness="60"/>
+	<measurement timeStamp="2014-08-13T08:55:42Z" loudness="69"/>
+	<measurement timeStamp="2014-08-13T08:55:43Z" loudness="70"/>
+	<measurement timeStamp="2014-08-13T08:55:44Z" loudness="56"/>
+	<measurement timeStamp="2014-08-13T08:55:45Z" loudness="72"/>
+	<measurement timeStamp="2014-08-13T08:55:46Z" loudness="70"/>
+	<measurement timeStamp="2014-08-13T08:55:47Z" loudness="79"/>
+	<measurement timeStamp="2014-08-13T08:55:48Z" loudness="79"/>
+	<measurement timeStamp="2014-08-13T08:55:49Z" loudness="75"/>
+	<measurement timeStamp="2014-08-13T08:55:50Z" loudness="68"/>
+	<measurement timeStamp="2014-08-13T08:55:51Z" loudness="76"/>
+	<measurement timeStamp="2014-08-13T08:55:52Z" loudness="66"/>
+	<measurement timeStamp="2014-08-13T08:55:53Z" loudness="79"/>
+	<measurement timeStamp="2014-08-13T08:55:54Z" loudness="81"/>
+	<measurement timeStamp="2014-08-13T08:55:55Z" loudness="81"/>
+	<measurement timeStamp="2014-08-13T08:55:56Z" loudness="80"/>
+	<measurement timeStamp="2014-08-13T08:55:57Z" loudness="79"/>
+	<measurement timeStamp="2014-08-13T08:55:58Z" loudness="68"/>
+	<measurement timeStamp="2014-08-13T08:55:59Z" loudness="72"/>
+	<measurement timeStamp="2014-08-13T08:56:00Z" loudness="75"/>
+	<measurement timeStamp="2014-08-13T08:56:01Z" loudness="81"/>
+	<measurement timeStamp="2014-08-13T08:56:02Z" loudness="82"/>
+	<measurement timeStamp="2014-08-13T08:56:03Z" loudness="76"/>
+	<measurement timeStamp="2014-08-13T08:56:04Z" loudness="72"/>
+	<measurement timeStamp="2014-08-13T08:56:05Z" loudness="72"/>
+	<measurement timeStamp="2014-08-13T08:56:06Z" loudness="81"/>
+	<measurement timeStamp="2014-08-13T08:56:07Z" loudness="82"/>
+	<measurement timeStamp="2014-08-13T08:56:08Z" loudness="80"/>
+	<measurement timeStamp="2014-08-13T08:56:09Z" loudness="76"/>
+	<measurement timeStamp="2014-08-13T08:56:10Z" loudness="84"/>
+	<measurement timeStamp="2014-08-13T08:56:11Z" loudness="82"/>
+	<measurement timeStamp="2014-08-13T08:56:12Z" loudness="87"/>
+	<measurement timeStamp="2014-08-13T08:56:13Z" loudness="80"/>
+	<measurement timeStamp="2014-08-13T08:56:14Z" loudness="77"/>
+	<measurement timeStamp="2014-08-13T08:56:15Z" loudness="81"/>
+	<measurement timeStamp="2014-08-13T08:56:16Z" loudness="80"/>
+	<measurement timeStamp="2014-08-13T08:56:17Z" loudness="84"/>
+	<measurement timeStamp="2014-08-13T08:56:18Z" loudness="76"/>
+	<measurement timeStamp="2014-08-13T08:56:19Z" loudness="78"/>
+	<measurement timeStamp="2014-08-13T08:56:20Z" loudness="54"/>
+	<measurement timeStamp="2014-08-13T08:56:21Z" loudness="56"/>
+	<measurement timeStamp="2014-08-13T08:56:22Z" loudness="54"/>
+	<measurement timeStamp="2014-08-13T08:56:23Z" loudness="63"/>
+</NoiseTube-Mobile-Session>

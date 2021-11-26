@@ -1,0 +1,1 @@
+nohup java -Djava.library.path=/usr/lib/R/site-library/rJava/jri -DInputFolder=//home/eamonn/DETectPackage/TestModels/Traffic/modelInput -jar NetLogoRun.jar //home/eamonn/DETectPackage/TestModels/Traffic/model/trafficModel90E-fixTraffic.nlogo runInput58.csv 100  &

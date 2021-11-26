@@ -1,0 +1,14 @@
+This directory contains the JAVA implementation of the DETect NetLogo extension.
+
+--- Content ---
+- src  - 
+Contains the source Java files.
+
+- libs - 
+Contains the JAR libraries used by DETect. These should be copied to the netlogo extension folder.
+
+- manifest.txt - 
+The manifest file used to create the detect.jar file
+
+- compile.sh - 
+This script runs 3 commands which compile DETect, generate the jar file and then copies the new jar file to the netlogo application folder and places it in the correct extension folder. Change this path if using on another machine.

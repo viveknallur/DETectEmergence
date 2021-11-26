@@ -1,0 +1,4 @@
+cp timepredict.jar /home/eamonn/netlogo-5.1.0/extensions/timepredict/timepredict.jar
+jar cvfm timepredict.jar manifest.txt -C classes .
+javac -classpath "libs/NetLogo.jar":"libs/commons-math3-3.3.jar":"libs/JRIEngine.jar":"libs/JRI.jar":"libs/REngine.jar":"libs/scala-library.jar":"libs/r.jar"  -d classes src/com/timepredict/netlogo/*.java
+
